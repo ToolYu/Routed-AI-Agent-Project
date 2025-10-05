@@ -1,0 +1,1028 @@
+numconnections,seniority,currentindustry,mapped_role,total_experience_years,highest_degree,company_cleaned,campus_cleaned,cluster_id
+384,4.0,Hospital & Health Care,teaching,6.75,Doctor,hospital for special surgery,banaras hindu university,2
+217,2.0,Computer Software,research scientist,5.17,Doctor,meta,iowa state university,2
+274,1.0,Higher Education,research,7.49,Doctor,columbia university,california polytechnic state university san luis obispo,2
+279,5.0,Hospitals and Health Care,statistician,16.42,Doctor,icap at columbia university,columbia university mailman school of public health,2
+265,4.0,Gambling Facilities and Casinos,systems,37.51,empty,law offices of hayt hayt landau,towson university,2
+240,1.0,Entertainment,press,7.83,Bachelor,paramount,new york university,2
+185,3.0,Research,medical technologist,3.33,Bachelor,r i analytical laboratories inc,university of rhode island,2
+396,3.0,Hospital & Health Care,physician,17.25,Doctor,albert einstein college of medicine,nyu grossman school of medicine,2
+346,1.0,Education Management,data analyst,6.67,High School,sony pictures entertainment,williams college,2
+276,5.0,Hospital & Health Care,physician,14.91,Doctor,harlem hospital center at columbia university,new york university,2
+242,5.0,Entertainment Providers,marketing officer,9.92,Bachelor,cakeworks,providence college,2
+187,4.0,Hospital & Health Care,clinical,12.42,Master,loyal source government services,lehman college,2
+337,6.0,Architecture & Planning,architect,8.0,Master,gluck formerly peter gluck and partners architects and locus construction,yale university,2
+317,5.0,Research,professor,45.0,Doctor,memorial sloan kettering cancer center,the johns hopkins university school of medicine,2
+170,6.0,Law Practice,law,28.0,Doctor,the law office of deborah a ezbitski,elisabeth haub school of law at pace university,2
+254,2.0,Design Services,brand ambassador,13.42,Bachelor,apple,pratt institute,2
+283,1.0,Retail Apparel and Fashion,stylist,5.5,Associate,delta air lines,fashion institute of technology,2
+333,6.0,Information Technology & Services,business architect,5.75,Bachelor,ibm,penn state university,2
+342,3.0,Financial Services,loan,2.41,Master,tvt capital llc,sacred heart university,2
+213,2.0,Medical Practice,resident,7.43,Doctor,the dimock center,state university of new york college of optometry,2
+205,3.0,Insurance,actuary,17.75,Bachelor,nippon life benefits,cornell university,2
+300,4.0,International Affairs,consulting,51.16,Doctor,investigazioni criminali italia,the hebrew university of jerusalem,2
+207,2.0,Cosmetics,analytical chemist,4.26,Master,good face project,columbia university in the city of new york,2
+205,2.0,Hospital & Health Care,writer,9.42,Doctor,memorial sloan kettering cancer center,yonsei university 연세대학교,2
+165,3.0,Law Practice,attorney,2.25,Doctor,city of new york administration for children s services,cardozo school of law,2
+410,3.0,Architecture & Planning,architect,5.58,Master,method design architecture urbanism pllc,pratt institute,2
+330,2.0,Computer Software,product designer,1.5,Master,butlr,school of visual arts,2
+289,2.0,Higher Education,research scientist,13.16,Doctor,uc berkeley,the graduate center city university of new york,2
+360,2.0,Computer Software,software programmer,5.08,Master,octane,hack reactor,2
+289,5.0,Medical Practices,physician,34.41,Doctor,northwell health,state university of new york downstate health sciences university,2
+270,2.0,Non-profit Organizations,merchandising,1.67,High School,icon for hire,calvary chapel bible college,2
+262,1.0,Photography,creative,0.99,Bachelor,chris craymer mahattan beach studios,fashion institute of technology,2
+223,2.0,Artists and Writers,ambassador,33.33,Bachelor,sculpturecenter,stony brook university,2
+165,2.0,Higher Education,professor,22.66,Doctor,farmingdale state college,university of connecticut,2
+168,3.0,Primary/Secondary Education,substitute teacher,10.58,Master,new visions charter high school for advanced math and science ii,hunter college,2
+351,4.0,Hospitals and Health Care,teaching,6.75,Master,oracle,yale school of public health,2
+378,1.0,Computer Software,computer scientist,4.74,Master,stony brook university college of engineering and applied sciences,stony brook university college of engineering and applied sciences,2
+299,3.0,Entertainment,actor,3.34,Bachelor,mccarter theatre center,emerson college,2
+352,5.0,Design Services,social media marketing,11.4,Master,thoughtmatter,claremont graduate university peter f drucker and masatoshi ito graduate school of management,2
+266,3.0,Manufacturing,creative,19.0,empty,proctor gamble,long island business institute,2
+284,5.0,Accounting,tax accountant,14.92,MBA,eisneramper llp,baruch college,2
+355,3.0,Automotive,embedded software engineer,11.92,Master,bmw of north america llc,rochester institute of technology,2
+178,2.0,Non-profit Organization Management,coordinator,5.5,Master,wateraid america,university of glasgow,2
+322,5.0,Pharmaceuticals,research scientist,14.34,Doctor,merck,university of north carolina at chapel hill,2
+268,1.0,Legal Services,teaching,3.92,Doctor,kirkland ellis,duke university school of law,2
+211,4.0,Government Administration,law,8.67,Doctor,new york city law department,seton hall university school of law,2
+267,1.0,"Health, Wellness & Fitness",customer service representative,20.75,empty,the nature s bounty co,sanford brown institute new york,2
+313,1.0,Financial Services,administrative,10.0,empty,highbridge capital management,nassau community college,2
+164,1.0,Higher Education,graphic design,17.16,Master,school of visual arts,school of visual arts,2
+282,5.0,Retail Luxury Goods and Jewelry,credit collections,22.08,Bachelor,lvmh watches jewelry,university of phoenix,2
+172,3.0,Information Technology & Services,product,5.83,MBA,jpmorgan chase co,fairleigh dickinson university,2
+289,5.0,Civil Engineering,communications,12.0,Master,gilsanz murray steficek,pratt institute,2
+164,1.0,Retail,retail sales,9.67,empty,christian dior couture,los angeles trade technical college,2
+346,6.0,Financial Services,business developer,24.58,MBA,the greensledge group llc,nyu stern school of business,2
+242,4.0,Market Research,marketing consultant,11.75,Master,ipsos,new york university,2
+173,1.0,Higher Education,crew,5.09,Master,dickinson college,drexel university s college of nursing and health professions,2
+314,2.0,Renewable Energy Semiconductor Manufacturing,nurse,20.49,Master,nyu langone health,western governors university,2
+281,4.0,Research,investment analyst,2.67,Master,unicef,shanghai university of finance and economics,2
+412,5.0,Research,research analyst,12.92,Master,ninedot energy,johns hopkins university,2
+196,1.0,Photography,photographer,16.52,High School,amy o,agtu,2
+336,4.0,Pharmaceuticals,research scientist,13.99,Doctor,merck,university of michigan,2
+177,2.0,Architecture & Planning,architecture,5.5,Master,dottinger design inc,stevens institute of technology,2
+313,2.0,Higher Education,professor,31.32,Doctor,john jay college cuny,drexel university,2
+263,2.0,Book and Periodical Publishing,instructional designer,37.0,Master,mcgraw hill education,new york university,2
+182,1.0,Apparel & Fashion,model,20.22,High School,nardos design,the university of georgia,2
+203,3.0,Computer Software,software programmer,8.67,Bachelor,sony music entertainment,new york university,2
+196,1.0,Media Production,video editor,6.16,Bachelor,anomaly entertainment,nyu tandon school of engineering,2
+309,5.0,Financial Services,credit risk,16.08,Bachelor,citi,baruch college,2
+312,3.0,Financial Services,nanny,15.17,empty,farragut square group,manhattan college,2
+281,3.0,Truck Transportation,logistics,13.92,empty,lufthansa technik component services,university of applied sciences kaiserslautern,2
+277,1.0,Architecture & Planning,education,3.66,Master,atlantic council,columbia university in the city of new york,2
+242,6.0,Hospital & Health Care,benefits,44.42,Bachelor,agma health fund retirement plan,liu post,2
+288,2.0,Entertainment,producer,11.5,Bachelor,lamorner bros,northern arizona university,2
+285,1.0,Advertising Services,underwriting,9.51,Bachelor,arbor realty trust,binghamton university,2
+353,2.0,Higher Education,professor,3.24,Doctor,john jay college cuny,university of wisconsin madison,2
+345,4.0,Apparel & Fashion,promotions,3.58,Bachelor,think royln,general assembly,2
+322,2.0,Research Services,secretary,10.57,Master,city of port jervis,the graduate center city university of new york,2
+234,1.0,Food & Beverages,nanny,7.81,Bachelor,aisling irish community center,binghamton university,2
+163,2.0,Computer Software,software engineer,2.41,Master,facebook,columbia university,2
+202,2.0,Financial Services,software engineering,5.66,Master,robinhood,cornell university,2
+201,5.0,Software Development,consulting engineer,14.77,Master,chubb,coimbatore institute of technology,2
+295,2.0,Hospital & Health Care,research scientist,3.83,Master,yale university school of medicine,rajiv gandhi university of health sciences,2
+288,2.0,Consumer Goods,secretary,4.91,Master,pt bumi halmahera nusantara,new york university,2
+190,3.0,Legal Services,attorney,5.5,Doctor,the children s law center,brooklyn law school,2
+200,6.0,Hospitality,architect,9.66,Master,palat restolabs,pratt institute,2
+245,1.0,Marketing & Advertising,social media,1.92,Bachelor,ogilvy,new york university,2
+325,1.0,Entertainment Providers,realtor,0.58,Bachelor,relable health solutions llc,seton hall university,2
+185,3.0,Public Relations and Communications Services,marketing coordinator,6.25,Bachelor,m booth,the university of texas at austin,2
+256,3.0,Financial Services,nanny,6.09,Bachelor,morgan stanley,the city university of new york,2
+334,3.0,Telecommunications,network support,22.84,empty,apex systems avaya account,simplilearn itil foundation training,2
+177,2.0,Mental Health Care,social worker,14.0,Master,mental health association in nj,dartmouth university,2
+292,2.0,Performing Arts,actor,12.08,Bachelor,new york city opera,university of colorado boulder,2
+271,2.0,Performing Arts,stage,2.5,Bachelor,disneys the lion king,university of the arts,2
+356,6.0,Accounting,financial consultant,6.5,Bachelor,j d jeune cpa p c,2005 baruch college,2
+196,2.0,Advertising Services,user designer,5.67,Master,booz allen hamilton,university of denver,2
+295,2.0,Human Resources,human resources,15.34,Bachelor,transperfect,long island university,2
+158,3.0,Higher Education,researcher,8.57,Doctor,microsoft,brown university,2
+364,3.0,Medical Practice,nursing,11.92,Master,sullivan street medical,yale university,2
+379,2.0,Newspapers,developer,9.16,empty,the new york times,university of miami,2
+154,5.0,Information Technology & Services,directors,3.0,Master,ibms,fairleigh dickinson university,2
+313,5.0,Higher Education,substitute teacher,16.67,Doctor,new york new jersey trail conference,cornell university,2
+158,5.0,Education Administration Programs,education,25.66,Master,district 12,the college of new rochelle,2
+189,1.0,Law Enforcement,emergency medical technician,9.25,Bachelor,iaabo,john jay college of criminal justice,2
+167,2.0,Higher Education,paralegal,17.24,Bachelor,the city university of new york,dartmouth college,2
+336,2.0,Mental Health Care,teaching,21.17,Doctor,columbia university,st john s university,2
+204,3.0,Accounting,accounts receivable,16.75,Bachelor,everland,florida atlantic university,2
+249,3.0,Chemical Manufacturing,ambassador,12.0,Master,laurentide wealth,tilburg university,2
+173,1.0,Marketing & Advertising,marketing project,3.92,Master,cnr group inc,new york university,2
+326,2.0,Medical Practice,substitute teacher,4.5,Master,long island jewish medical center,hofstra university,2
+267,2.0,Biotechnology Research,research scientist,9.67,Bachelor,orchestra biomed,new jersey institute of technology,2
+154,5.0,Apparel & Fashion,brand,14.57,Bachelor,alexander wang llc,parsons school of design the new school,2
+164,5.0,Artists and Writers,directors,16.58,Master,the metropolitan museum of art,new york university,2
+257,2.0,Hospital & Health Care,physician,14.92,Doctor,north american partners in anesthesia,suny downstate medical center,2
+303,1.0,Law Enforcement,agent,26.25,Bachelor,u s secret service,university of toledo,2
+237,4.0,Medical Practices,physician,11.25,Bachelor,columbia university irving medical center,mount sinai school of medicine,2
+349,6.0,Real Estate,operating officer,15.0,Master,yellowstone real estate investments,massachusetts institute of technology,2
+376,1.0,Hospital & Health Care,nurse,13.92,Bachelor,skin aesthetic surgery of manhattan,new york university,2
+320,1.0,Hospital & Health Care,medical,8.59,empty,private dermatology practice dr harold mermelstein md,university of mount saint vincent,2
+166,5.0,Hospital & Health Care,research scientist,16.25,Master,memorial sloan kettering cancer center,vanderbilt university,2
+294,6.0,Investment Management,investment consultant,7.92,Bachelor,hightower advisors,alfred lerner college of business economics at university of delaware,2
+156,1.0,Performing Arts,host,8.91,Master,mj the musical,new york university,2
+212,2.0,Marketing & Advertising,social media,3.92,Bachelor,gooey on the inside,cria,2
+348,6.0,Insurance,underwriting,9.59,Bachelor,coverys,binghamton university,2
+299,5.0,Biotechnology Research,professor,15.66,Doctor,rutgers new jersey medical school,johns hopkins bloomberg school of public health,2
+246,3.0,Research,teaching,5.83,Master,oxford centre for the creative brain,university of oxford,2
+256,3.0,Software Development,research scientist,7.33,Doctor,facebook,vanderbilt university,2
+281,1.0,Publishing,video editor,5.75,Bachelor,the new york times,duke university,2
+363,2.0,Public Relations and Communications Services,social media,5.41,Bachelor,gatehouse media,seton hall university,2
+182,1.0,Hospitality,lifeguard,22.32,Bachelor,westhampton country club,st john s university,2
+226,1.0,Education Administration Programs,counselor,8.16,Master,the brearley school,new york university,2
+369,2.0,Law Practice,law,35.67,Doctor,executive office for immigration review,brooklyn law school,2
+174,1.0,Higher Education,coordinator,2.0,Master,nyu tandon school of engineering,new york university polytechnic school of engineering,2
+191,2.0,Law Practice,paralegal,5.58,Master,willkie farr gallagher llp,new york university,2
+325,1.0,Biotechnology,scientist i,9.75,Bachelor,merck,texas a m university,2
+151,1.0,Hospital & Health Care,event coordinator,9.5,Doctor,american medical student association amsa,american university of antigua college of medicine,2
+348,2.0,Accounting,tax preparer,9.08,MBA,ey,providence college,2
+218,1.0,Design Services,stylist,5.42,Master,gumuchian,gia gemological institute of america,2
+210,1.0,Education Management,substitute teacher,5.5,Bachelor,new utrecht high school,macaulay honors college at the city university of new york,2
+315,5.0,Research,teaching,27.24,Doctor,sanders tri institutional therapeutics discovery institute inc,joan sanford i weill medical college of cornell university,2
+277,2.0,Advertising Services,photographer,17.66,empty,enchanté accessories,montana state university bozeman,2
+234,2.0,Law Enforcement,human,30.16,Bachelor,nyc department of correction,john jay college cuny,2
+334,2.0,Wholesale,sales analyst,27.15,empty,e gluck corporation armitron watches,fashion institute of technology,2
+176,5.0,Construction,product development,4.92,Bachelor,upbrella,australian university,2
+280,5.0,Human Resources,human resources,17.49,Bachelor,ramaz school,queens college,2
+345,2.0,Information Technology & Services,researcher,12.91,Doctor,exponent,university of cambridge,2
+363,5.0,Computer Software,instructional designer,10.33,Master,benchling,nyu school of global public health,2
+259,2.0,Beverage Manufacturing,stylist,11.75,Bachelor,free people,castleton university,2
+234,1.0,Motion Pictures & Film,writer,4.08,Bachelor,french film festival richmond virginia,university of richmond,2
+280,2.0,Marketing & Advertising,social media,1.75,empty,matte projects,fashion institute of technology,2
+356,1.0,Accounting,accounting,9.08,Bachelor,king street capital management,loyola university maryland sellinger school of business and management,2
+160,5.0,Hospital & Health Care,project scrum,21.42,Master,epam systems,dtu technical university of denmark,2
+345,2.0,Financial Services,spring,2.41,Bachelor,m g investments,university of toronto,2
+235,2.0,E-Learning Providers,writer,27.91,Master,university of maryland,defense language institute foreign language center,2
+344,4.0,Biotechnology,technology analyst,7.83,Doctor,trillium medical ventures,mount sinai school of medicine of new york university,2
+273,1.0,Accounting,banker,19.32,MBA,citi,tbilisi state university,2
+197,2.0,Investment Banking,spring,5.25,Master,wall street club investment management group,baruch college,2
+174,5.0,Human Resources Services,human resources coordinator,8.67,Master,virgo medical services inc,university of scranton,2
+234,3.0,Executive Office,sales marketing coordinator,15.75,Bachelor,morgan stanley,university of calgary,2
+198,2.0,Financial Services,financial representative,43.82,Bachelor,jpmorgan chase bank n a,nyu stern school of business,2
+242,2.0,Financial Services,frontend developer,9.92,Bachelor,amazon,university of massachusetts amherst,2
+151,3.0,Non-profit Organizations,law,12.9,Doctor,nyc department of social services,georgetown university law center,2
+356,3.0,Book and Periodical Publishing,editor,35.0,Bachelor,scholastic,nyu stern school of business,2
+288,2.0,Apparel & Fashion,social media,5.25,Bachelor,shopbop,university of michigan,2
+209,2.0,Banking,fund accountant,26.42,Bachelor,new york state common retirement fund,city university of new york herbert h lehman college,2
+201,3.0,Apparel & Fashion,visual merchandising,0.33,Bachelor,alice olivia,fashion institute of technology,2
+310,6.0,Research Services,research scientist,14.66,Doctor,the estée lauder companies inc,icahn school of medicine at mount sinai,2
+197,3.0,Government Administration,research,11.99,Doctor,nyc department of health and mental hygiene,cuny graduate school of public health and health policy,2
+262,2.0,Research,substitute teacher,6.75,Doctor,rutgers school of graduate studies,rutgers school of graduate studies,2
+235,6.0,Artists and Writers,strategic,10.0,Bachelor,sarah burney art advisory,wellesley college,2
+301,4.0,Non-profit Organizations,systems analyst,33.25,Bachelor,harvard business publishing,university of colorado denver,2
+270,2.0,Computer Software,writer,4.59,Master,sirens media,the university of chicago,2
+318,5.0,Book and Periodical Publishing,plant controller,26.25,Bachelor,oxford university press,queens college,2
+264,3.0,Medical Practices,emergency medical technician,11.83,Master,community medical center toms river nj,rutgers university,2
+248,6.0,Marketing & Advertising,professor,0.92,Bachelor,overlead,humboldt universität zu berlin,2
+330,1.0,Photography,photographer,34.0,Doctor,paul kessel,colgate university,2
+248,3.0,Musicians,actor,0.42,Bachelor,beauty and the beast,new york university,2
+309,3.0,Medical Practice,clinical,10.76,Doctor,mount sinai health system,university of michigan medical school,2
+157,2.0,Environmental Services,environmental engineer,7.59,Bachelor,efi global,montclair state university,2
+194,4.0,Retail Office Equipment,business development consultant,41.0,Bachelor,vgp venture growth partners,fordham university,2
+215,5.0,Higher Education,clinical,10.0,Doctor,naugatuck valley community college,case western reserve university,2
+266,1.0,Real Estate,public relations,11.34,Bachelor,deutsche bank,university of miami,2
+180,5.0,Computer Software,application development,12.34,empty,curtis mallet prevost colt mosle llp,the cooper union for the advancement of science and art,2
+293,2.0,Computer Software,r d engineer,3.16,Master,american express,new york university,2
+209,1.0,Design Services,design consultant,0.84,Associate,j cohler mason design,nyu,2
+229,4.0,Financial Services,consulting,10.84,MBA,accenture,columbia business school,2
+290,3.0,Financial Services,compliance officer,30.25,Bachelor,barclays,nyu stern school of business,2
+312,1.0,Pharmaceuticals,maintenance technician,4.91,Associate,eli lilly and company,triangle tech,2
+320,1.0,Graphic Design,graphic design,6.09,Master,palm drive capital,harvard business school online,2
+332,2.0,Entertainment,writer,13.92,Master,nyu tisch school of the arts,nyu tisch school of the arts,2
+391,4.0,Financial Services,underwriter,29.41,Bachelor,the hartford,syracuse university,2
+246,2.0,Hospital & Health Care,social worker,8.5,Master,nyc health hospitals,hunter college,2
+246,4.0,Marketing & Advertising,sales producer,5.08,Bachelor,dac,western connecticut state university,2
+168,5.0,Media Production,producer,7.75,Bachelor,4kids entertainment,queens college,2
+250,5.0,Entertainment,writer,19.24,Master,citizen global,new york university,2
+292,3.0,Biotechnology Research,research scientist,0.34,MBA,bioactive technology llc,duke university the fuqua school of business,2
+192,1.0,Business Consulting and Services,education,10.82,Doctor,psychotherapeutic evaluational programs inc,st john s university school of education,2
+345,6.0,Research Services,research scientist,15.42,Doctor,new york genome center,baylor college of medicine,2
+267,4.0,Higher Education,research,13.65,Doctor,elsevier,the graduate center city university of new york,2
+174,3.0,Non-profit Organization Management,journalist,8.5,Master,committee to protect journalists,columbia university in the city of new york,2
+384,2.0,Consumer Goods,product development,4.42,Bachelor,l occitane group b corp,ewha womans university,2
+326,3.0,Research Services,software engineer i,15.92,Doctor,asml,temple university,2
+376,5.0,Accounting,tax preparer,14.75,empty,cbiz,university of miami,2
+213,1.0,Financial Services,quantitative analyst,9.08,Master,point72 asset management,new york university,2
+183,6.0,Transportation/Trucking/Railroad,franchise,11.16,Bachelor,caru containers north america,rutgers university,2
+312,4.0,Investment Management,portfolio,24.34,Bachelor,cubist,harvard university,2
+300,4.0,Advertising Services,marketing coordinator,6.75,Bachelor,young rubicam,boston university,2
+355,2.0,Real Estate,real estate agent,15.41,Bachelor,real new york,university of leeds,2
+368,1.0,Photography,graphic designer,3.16,Bachelor,aoki photography llc,savannah college of art and design,2
+322,2.0,Non-profit Organization Management,coordinator,18.17,Bachelor,american council of learned societies acls,hunter college,2
+302,4.0,Design Services,marketing consultant,20.75,Bachelor,preventive care tax liability advisor,queens college,2
+157,2.0,Higher Education,teaching,14.49,Doctor,university of illinois urbana champaign,university of illinois urbana champaign,2
+250,1.0,Architecture & Planning,architect,5.42,Bachelor,urban architectural initiatives ra pc,rensselaer polytechnic institute,2
+266,2.0,Musicians,actor,47.0,empty,john goldfarb please come home,columbia university in the city of new york,2
+157,3.0,Accounting,auditor,0.17,Bachelor,ey,university at buffalo,2
+372,2.0,Broadcast Media Production and Distribution,network administrator,18.25,empty,custom computer specialists,nassau community college,2
+321,7.0,Computer and Network Security,md,0.5,Bachelor,vertu consulting,southeast missouri state university,2
+348,6.0,Insurance,investment,30.33,Doctor,aon reinsurance solutions,new york university,2
+217,2.0,Hospitals and Health Care,research scientist,24.83,Doctor,weill cornell medicine,wesleyan university,2
+345,3.0,Hospital & Health Care,teaching,16.17,Doctor,the george washington university school of medicine and health sciences,the george washington university school of medicine and health sciences,2
+320,2.0,Research Services,research,18.33,Doctor,cold spring harbor laboratory,columbia university in the city of new york,2
+211,4.0,Information Technology & Services,software architect,12.91,Bachelor,ltimindtree,sant gadge baba amravati university amravati,2
+188,1.0,Wellness and Fitness Services,sales representative,21.0,Bachelor,dynamic labs,state university of ny buffalo,2
+365,3.0,Research Services,teaching,12.59,Doctor,new york university,national institute of informatics,2
+253,4.0,Biotechnology,research scientist,7.16,Doctor,mantle therapeutics,icahn school of medicine at mount sinai,2
+266,1.0,Newspaper Publishing,press,11.67,Master,advanced optowave corporation,baruch college,2
+191,5.0,Non-Profit Organization Management,technical product,22.42,MBA,gs1 us,product school,2
+205,1.0,Government Administration,development coordinator,3.59,empty,bronx river alliance,hunter college,2
+273,4.0,Philanthropic Fundraising Services,consulting,36.92,Bachelor,marketing sales and philanthropic consulting,rutgers university,2
+345,5.0,Personal Care Product Manufacturing,key account sales,17.0,empty,mana products,saint joseph s university,2
+368,2.0,Hospitals and Health Care,teaching,3.58,Doctor,weill cornell medicine,columbia university in the city of new york,2
+268,2.0,Law Practice,teacher,18.81,Master,rainbow getaways,santa monica college,2
+197,1.0,Retail Luxury Goods and Jewelry,stylist,15.66,Master,tiffany co,fashion institute of technology,2
+316,4.0,Hospital & Health Care,physician,12.73,Doctor,clearchoice dental implant centers,university of detroit mercy school of dentistry,2
+207,2.0,Media Production,writer,57.42,Master,butterfield library,johns hopkins university,2
+203,3.0,Mental Health Care,teacher,10.15,Master,creative arts psychotherapy nyc,new york university,2
+327,5.0,Retail Apparel and Fashion,buying,7.92,Bachelor,sies marjan,london college of fashion university of the arts london,2
+377,1.0,Retail,administrative,8.66,Bachelor,macy s merchandising group,state university of new york at binghamton,2
+352,2.0,Hospital & Health Care,physician,15.07,Doctor,northwell health,university of minnesota medical school,2
+238,4.0,Financial Services,quantitative analyst,2.41,Bachelor,jane street,the university of texas at austin,2
+390,2.0,Real Estate,real estate broker,15.33,Bachelor,united real estate,boston college,2
+282,3.0,Recreational Facilities,accounting finance,29.17,MBA,the juilliard school,st john s university the peter j tobin college of business,2
+268,2.0,Hospital & Health Care,teaching,9.42,Doctor,icahn school of medicine at mount sinai,university of illinois at chicago,2
+246,3.0,Software Development,software engineer,1.59,Bachelor,google,duke university,2
+372,1.0,Museums & Institutions,stage,6.49,Bachelor,the museum of modern art,hunter college,2
+274,1.0,Investment Management,administrative coordinator,10.58,Bachelor,nyc hedge fund 26 billion aum,mercyhurst university,2
+164,2.0,Truck Transportation,consulting engineer,29.59,MBA,u s department of transportation usdot,the cooper union for the advancement of science and art,2
+254,2.0,Media Production,writer,9.59,Bachelor,business insider,stony brook university,2
+318,1.0,Wellness and Fitness Services,admissions,7.0,Master,memorial sloan kettering cancer center,monroe college,2
+263,2.0,Hospital & Health Care,staffing,9.41,MBA,montefiore health system,mercy college,2
+207,5.0,Non-profit Organization Management,professor,1.92,Master,st john s university,st john s university,2
+160,2.0,Medical Practices,clinical research,30.84,Doctor,icahn school of medicine at mount sinai,stony brook medicine,2
+277,2.0,Performing Arts,substitute teacher,18.17,Bachelor,big league productions,schreyer honors college at penn state,2
+168,3.0,"Health, Wellness & Fitness",nursing,13.42,empty,mount sinai st luke s institute for bariatric and minimally invasive surgery,new york university,2
+349,1.0,Graphic Design,teaching,7.4,Bachelor,university of michigan,university of michigan,2
+157,4.0,Apparel & Fashion,stylist,5.0,Master,dilara findikoglu,central saint martins university of the arts london,2
+336,5.0,Renewables & Environment,sustainability,6.01,Master,apex clean energy,carnegie mellon university heinz college of information systems and public policy,2
+188,2.0,Higher Education,professor,14.34,Doctor,yale university,princeton university,2
+301,5.0,Fundraising,community relations,42.5,Bachelor,wingspan consulting llc,hampshire college,2
+269,2.0,Research Services,research,14.5,Doctor,hexmodal,icahn school of medicine at mount sinai,2
+297,1.0,Publishing,student,7.0,Bachelor,writers house,columbia university graduate school of journalism,2
+395,3.0,Nanotechnology Research,research scientist,9.84,Doctor,harry s inc,penn state university,2
+343,4.0,Telecommunications,aircraft technician,46.0,empty,nu labs inc,new jersey institute of technology,2
+392,2.0,Apparel & Fashion,style,15.66,empty,j hilburn,montclair state university,2
+298,2.0,Research Services,professor,26.57,Doctor,zhejiang guangsha university of construction,fordham university,2
+199,1.0,Higher Education,store,11.0,Bachelor,all pro billing solutions llc,pomorsk state university named after m v lomonosov,2
+169,6.0,Real Estate,photographer,13.25,Bachelor,dna design co,the calhoun school,2
+195,4.0,Accounting,accounting,15.66,MBA,petra funds group,saint peter s university,2
+229,1.0,Hospital & Health Care,public relations,7.07,empty,rutgers university,rutgers university new brunswick,2
+196,2.0,Hospital & Health Care,physician,10.33,Doctor,urology care alliance,columbia university vagelos college of physicians and surgeons,2
+270,3.0,Research,research analyst,18.18,Doctor,unfpa brasil,universidade federal fluminense,2
+224,4.0,Government Administration,social,17.75,Master,coro new york leadership center,long island university,2
+299,4.0,Pharmaceuticals,admissions,12.76,empty,bristol myers squibb,monmouth university,2
+248,4.0,Advertising Services,gm,12.0,Bachelor,giovanni cilberto,parsons school of design the new school,2
+301,2.0,Financial Services,research,18.0,Doctor,the d e shaw group,harvard university,2
+221,5.0,Education Administration Programs,occupational therapist,19.64,Master,greystone park psychiatric hospital,kean university,2
+197,2.0,Defense and Space Manufacturing,consulting engineer,24.59,Bachelor,federal aviation administration,project management institute,2
+186,1.0,Writing & Editing,teaching,13.83,Bachelor,clarkstown central school district,southern new hampshire university,2
+193,5.0,Retail Apparel and Fashion,buying,4.84,Bachelor,meticulous knitwear,the art institute of california san francisco,2
+409,5.0,Architecture & Planning,marketing,15.58,Bachelor,adler lighting sales,state university of new york at plattsburgh,2
+396,2.0,Music,photo,7.25,Bachelor,mk productions,montclair state university,2
+279,4.0,Research,scientist,8.92,Doctor,pfizer,university of gothenburg,2
+237,2.0,Legal Services,law,6.41,Doctor,the legal aid society,syracuse university college of law,2
+308,1.0,Apparel & Fashion,social media marketing,5.17,Bachelor,expertvoice,university of iowa,2
+259,4.0,Marketing & Advertising,wealth,8.08,empty,mindshare,university of pittsburgh,2
+267,4.0,Legal Services,research engineer,18.24,Doctor,goodwin,college of nanoscale sciece and engineering suny albany,2
+269,3.0,Design Services,graphic design,18.09,Master,community solutions inc,city university of new york hunter college,2
+158,1.0,Primary/Secondary Education,substitute teacher,34.09,Master,wayne hills high school,william paterson university of new jersey,2
+334,3.0,Automotive,sales customer service,12.92,MBA,genesis motor america,grand canyon university,2
+316,2.0,Market Research,research scientist,5.68,Doctor,columbia technology ventures,columbia university in the city of new york,2
+227,1.0,Photography,photographer,19.58,Master,nyc department of education,new york university,2
+204,2.0,Computer Software,software engineer,5.99,Bachelor,the new york times,city university of new york,2
+185,2.0,Media Production,spring,5.58,Bachelor,mediacom,university of connecticut,2
+249,3.0,Non-profit Organization Management,small business,5.5,Bachelor,green dog walks llc,new york university,2
+156,5.0,Non-profit Organizations,directors,37.84,Master,american associates of the sts forum 501 c3,teachers college columbia university,2
+336,4.0,Food and Beverage Manufacturing,marketing sales,23.41,Bachelor,givaudan,tecnológico de monterrey,2
+352,1.0,Entertainment Providers,actor,51.0,Bachelor,john eckert,university of north texas,2
+270,1.0,Executive Offices,administrative,15.42,empty,blackstone,delaware state university,2
+319,2.0,Real Estate,financial consultant,10.25,Master,the richman group,bentley university mccallum graduate school of business,2
+157,3.0,"Health, Wellness & Fitness",community,39.48,Bachelor,the fort nyc,hobart and william smith colleges,2
+264,3.0,Research Services,professor,10.08,Doctor,barnard college,new york university,2
+159,5.0,Security & Investigations,security,19.33,Bachelor,flexcar,western connecticut state university,2
+222,2.0,Hospital & Health Care,clinical,1.0,Doctor,new york presbyterian hospital,columbia university school of nursing,2
+251,5.0,Design Services,architect,1.83,Bachelor,fashion institute of technology,fashion institute of technology,2
+188,2.0,Writing & Editing,writer,10.83,Master,formedics,monmouth university,2
+213,7.0,Venture Capital & Private Equity,accountant,21.34,MBA,stonepeak infrastructure partners,university of virginia darden school of business,2
+330,1.0,Higher Education,public relations,10.16,Bachelor,suny college of optometry university eye center,syracuse university,2
+368,1.0,Architecture & Planning,research,5.4,Doctor,princeton university,princeton university,2
+367,4.0,Research,research,9.83,Master,werk insight,fordham university graduate school of arts and sciences,2
+339,4.0,Primary/Secondary Education,teacher,20.74,Master,the city college of new york,city university of new york city college,2
+268,1.0,International Affairs,reporter,4.66,Master,unicef,美国哥伦比亚大学,2
+309,4.0,"Appliances, Electrical, and Electronics Manufacturing",commercial sales,3.51,empty,comelit group s p a,cuny new york city college of technology,2
+312,3.0,IT Services and IT Consulting,software quality assurance engineer,15.17,Bachelor,abridge,cuny new york city college of technology,2
+158,3.0,Recreational Facilities,small business,11.92,empty,kristi s kanines,baruch college,2
+226,5.0,Financial Services,strategy business development,28.24,MBA,dun bradstreet,montclair state university,2
+343,2.0,"Health, Wellness & Fitness",teacher,19.99,Doctor,psychotherapy spirituality institute,new york university,2
+338,6.0,Accounting,financial consultant,16.33,Master,tan associates inc,university of michigan stephen m ross school of business,2
+352,3.0,Retail Luxury Goods and Jewelry,small business,14.0,Bachelor,j demichael fine jewelry,university of maryland,2
+185,1.0,Automotive,brand,5.43,Bachelor,audi of america,baruch college,2
+319,3.0,Hospital & Health Care,teaching,15.67,Master,mount sinai health system,adelphi university,2
+345,2.0,Financial Services,consulting engineer,10.51,Bachelor,bank of america,university of maine,2
+217,1.0,Cosmetics,social media,6.66,Bachelor,chf industries,parsons school of design the new school,2
+319,4.0,Medical Practice,physician,6.0,Doctor,nyu langone health,duke university,2
+345,2.0,Accounting,tax consultant,2.08,Bachelor,deloitte,cuny york college,2
+209,5.0,Architecture and Planning,gm,2.0,Bachelor,just fries italy,seconda università degli studi di napoli,2
+257,5.0,Accounting,billing analyst,16.33,Bachelor,mufg,baruch college,2
+404,2.0,"Health, Wellness & Fitness",financial adviser,7.57,empty,the better choice lenders,clifton high school,2
+216,1.0,Accounting,tax accountant,5.66,Bachelor,pwc,city university of new york brooklyn college,2
+260,2.0,Computer Software,it developer,9.17,Bachelor,mitsui bussan commodities ltd,gujarat university,2
+356,2.0,Wellness and Fitness Services,education,8.0,Associate,center moriches umc,suny farmingdale adelphi university,2
+160,1.0,Entertainment,secretary,4.67,Bachelor,the dermot company lp,brown university,2
+228,3.0,Entertainment,actor,17.75,Bachelor,self employed,schiller college london england,2
+340,4.0,Law Practice,professor,7.25,Doctor,esquire cle,boston university school of law,2
+240,1.0,Cosmetics,customer service sales,10.32,empty,sephora,western connecticut state university,2
+256,2.0,Real Estate,real estate broker,6.09,Bachelor,luxury living by michael hern,university of south carolina,2
+371,3.0,Research Services,research scientist,11.5,Doctor,nyu langone health,rutgers university,2
+163,2.0,Hospitals and Health Care,application analyst,3.83,Associate,mount sinai health system,nassau community college,2
+363,4.0,Accounting,financial analyst,7.25,Bachelor,pwc,boston college,2
+178,4.0,Business Consulting and Services,business coordinator,12.34,MBA,alvarez marsal,touro university,2
+220,4.0,Software Development,application development,8.25,Master,jpmorgan chase co,bits pilani,2
+190,2.0,Staffing & Recruiting,marketing coordinator,13.93,Bachelor,nnn pro,lim college,2
+291,2.0,Textiles,stylist,11.07,Bachelor,style library,syracuse university,2
+218,2.0,Architecture and Planning,designer,10.58,Bachelor,gensler,pratt institute,2
+254,3.0,Internet,investment,24.08,Bachelor,j p morgan,reforge,2
+337,3.0,Information Technology & Services,it project,21.92,Bachelor,sumitomo mitsui trust bank u s a limited,stony brook university,2
+290,2.0,Higher Education,teacher,8.66,Master,avenues the world school,columbia university in the city of new york,2
+249,2.0,Hospitality,data analyst,7.9,Bachelor,highgate,university of maryland,2
+261,5.0,Non-profit Organization Management,law,14.08,MBA,hodgson russ llp,city university of new york college of staten island,2
+300,2.0,Government Administration,teaching,10.16,Master,fund for public health in nyc,cuny graduate school of public health and health policy,2
+276,6.0,Hospital & Health Care,physician,11.74,Master,newyork presbyterian hospital,the city university of new york,2
+214,1.0,Staffing & Recruiting,clerical,7.91,Bachelor,mount sinai health system,champlain college,2
+351,1.0,Defense & Space,research,5.0,empty,nasa national aeronautics and space administration,yale university,2
+204,2.0,Research,research scientist,14.84,Doctor,new york university school of medicine,university of illinois at chicago,2
+172,5.0,Research,environment health safety,38.58,Master,retired,rutgers university,2
+191,1.0,Performing Arts,stage,21.09,Master,rei,rutgers university,2
+161,2.0,Government Administration,captain,2.83,Bachelor,us navy,university at buffalo,2
+318,5.0,Retail,web application developer,14.25,empty,ralph lauren,university of pennsylvania,2
+326,6.0,Banking,credit analyst,25.0,MBA,td bank n a,state university of new york at buffalo school of management,2
+171,3.0,Higher Education,professor,14.42,Doctor,cambodian rock band 2023 tour,the graduate center city university of new york,2
+272,2.0,Hospitals and Health Care,clinical,35.58,Master,new york presbyterian hospital,city university of new york hunter college,2
+206,1.0,Real Estate,quality coordinator,21.83,empty,csl plasma,seton hall university,2
+168,4.0,Fine Art,professor,9.66,Master,maine media workshops college,new york studio school of drawing painting sculpture,2
+152,1.0,Hospitals and Health Care,social worker,4.17,Master,new york presbyterian hospital,adelphi university,2
+241,3.0,Hospital & Health Care,nursing,3.17,Bachelor,cooperman barnabas medical center,rutgers school of nursing,2
+287,3.0,Biotechnology Research,engineer,14.17,Doctor,johnson johnson medtech,duke university,2
+349,5.0,Design,visual designer,24.58,empty,nbbj esi design,new york university,2
+355,5.0,Marketing & Advertising,finance,30.17,Bachelor,biolumina,university at albany,2
+363,6.0,Financial Services,capital markets,15.5,Bachelor,mizuho,university of delaware,2
+374,3.0,Education Administration Programs,teacher,15.75,Master,cloud forest school centro de educación creativa,the university of texas at austin,2
+336,1.0,International Affairs,translator,27.0,Master,united nations,harvard university,2
+373,1.0,Book and Periodical Publishing,administrative coordinator,18.58,Bachelor,marsh mclennan,baruch college,2
+153,1.0,Medical Device,sales representative,16.59,empty,iscreen vision inc,inactive 1703030558 liu brooklyn,2
+182,6.0,Law Practice,attorney,16.66,Doctor,haworth barber gerstman llc,brooklyn law school,2
+174,3.0,Software Development,small business,15.83,MBA,dinner myway,new york institute of technology old westbury,2
+346,3.0,Biotechnology,professor,14.49,Doctor,icahn school of medicine at mount sinai,université de nantes,2
+371,3.0,Pharmaceuticals,scientist,9.5,Doctor,cornell university,peking union medical college,2
+266,4.0,Apparel & Fashion,buying,3.25,Bachelor,geneva home fashion,lim college,2
+184,4.0,Entertainment Providers,producer,9.75,Bachelor,abc news,purchase college suny,2
+194,4.0,Computer Software,client support,37.33,empty,bottomline technologies,rider university,2
+362,2.0,Performing Arts,writer,14.23,Doctor,disney theatrical group,columbia law school,2
+337,2.0,Writing & Editing,writer,23.17,Master,author of articles on natural history science arts and discovery,princeton university,2
+177,2.0,Architecture & Planning,architect,4.99,Bachelor,paul a castrucci architects,new york institute of technology,2
+184,3.0,Marketing & Advertising,social media,5.08,Bachelor,spark foundry,university of connecticut,2
+318,3.0,Insurance,underwriter,8.91,Bachelor,allianz commercial,st thomas aquinas college,2
+213,2.0,Mental Health Care,home,4.0,Master,presence of mind therapy,columbia university,2
+196,4.0,Online Media,photographer,24.33,Master,apple,new york university,2
+346,3.0,Hospital & Health Care,rn,4.17,Bachelor,plastic surgery institute of new york,chamberlain university,2
+252,1.0,Primary/Secondary Education,teacher,7.58,Master,hackensack board of education,dominican college of blauvelt,2
+294,1.0,Hospitals and Health Care,help,14.25,Bachelor,health village imaging,southern new hampshire university,2
+190,3.0,Construction,real estate broker,0.91,Bachelor,ryan company,nichols college,2
+180,1.0,Investment Management,research scientist,0.5,Bachelor,toyota north america,columbia university in the city of new york,2
+345,4.0,Advertising Services,marketing coordinator,23.25,Master,leo burnett,university of macau,2
+218,5.0,Media Production,strategic,0.33,Bachelor,abc sports 2007 college football scoreboard show,boston university,2
+288,4.0,Higher Education,consulting,9.08,Doctor,teachers college columbia university,columbia university in the city of new york,2
+212,2.0,Financial Services,account analyst,7.25,Bachelor,blackrock,rutgers university,2
+300,4.0,Retail Apparel and Fashion,merchandising,17.58,Bachelor,haddad brands,berkeley college new york,2
+350,3.0,Hospital & Health Care,content creator,14.59,Bachelor,medscape,university of california berkeley,2
+161,5.0,Internet,coach,34.41,Master,home,rensselaer polytechnic institute,2
+354,3.0,Construction,investigations,14.1,Bachelor,columbia university in the city of new york,binghamton university,2
+297,1.0,Non-profit Organization Management,paramedic,16.83,Bachelor,hudson regional health commission,rutgers university new brunswick,2
+187,2.0,Higher Education,research scientist,13.82,Doctor,new york state department of health,harvard university,2
+282,2.0,Research,research scientist,9.66,Doctor,the johns hopkins university,weill cornell graduate school of medical sciences,2
+164,1.0,Pharmaceuticals,research scientist,13.83,Doctor,novartis institutes for biomedical research nibr,rutgers university new brunswick,2
+325,5.0,IT Services and IT Consulting,systems engineering,15.08,Bachelor,dell technologies,northeastern university,2
+154,2.0,Higher Education,research scientist,11.24,Doctor,columbia university irving medical center,stanford university,2
+255,3.0,Financial Services,teacher,6.9,Bachelor,bank of america,new york university,2
+209,3.0,Investment Management,financial reporting analyst,4.0,Bachelor,balyasny asset management,binghamton university,2
+236,7.0,Hospitality,md,5.0,Bachelor,www ricardoralphlopez com www sunsetrdv com,lycee alexandre dumas haiti,2
+352,3.0,Hospital & Health Care,research,20.42,Doctor,suny downstate medical center,university of the basque country,2
+291,1.0,Marketing & Advertising,promotions,10.49,Bachelor,lincoln tech,montclair state university,2
+195,1.0,Higher Education,security officer,9.16,MBA,carolina cyber center,mercy university,2
+245,3.0,Hospitals and Health Care,professor,24.93,Doctor,lund university,lund university faculty of medicine skåne sweden,2
+269,2.0,Financial Services,marketing research,1.82,Bachelor,american express,new york university,2
+191,1.0,Construction,construction project,16.66,Doctor,elmhall millworks inc,belarus state economic university,2
+320,5.0,International Affairs,reporter,4.41,Doctor,united nations,charles university in prague,2
+230,4.0,Construction,superintendent,5.25,Bachelor,reidy contracting group,technological university of the shannon,2
+319,2.0,Hospital & Health Care,clinical,12.99,Master,weill cornell medicine,michigan state university,2
+181,2.0,Biotechnology,research engineer,3.16,Doctor,caltech,harvey mudd college,2
+258,2.0,Financial Services,accounting,7.0,Bachelor,cornick garber sandler llp,baruch college,2
+289,1.0,Hospital & Health Care,nurse,6.74,Bachelor,new york state department of health,stony brook university,2
+306,1.0,Hospitals and Health Care,teaching,13.67,Master,coty,st john s university,2
+199,4.0,Manufacturing,cost accountant,39.16,empty,marathon enterprises inc,hudson county community college,2
+332,3.0,Computer Software,graphic design,11.25,empty,dreamwear,notre dame university louaize ndu,2
+233,5.0,Higher Education,professor,15.99,Doctor,the unscene theatre company,the graduate center city university of new york,2
+217,2.0,Research,research,7.08,Doctor,cornell university,university of florida,2
+171,4.0,Publishing,business analyst,21.83,Bachelor,the walt disney company,university of pennsylvania,2
+201,1.0,Research,laboratory technician,8.99,Doctor,nyu grossman school of medicine,new york university,2
+363,2.0,Research,research scientist,9.08,Doctor,cornell high energy synchrotron source,cornell university,2
+235,4.0,Higher Education,physician,13.4,Doctor,harbor ucla medical center,columbia university vagelos college of physicians and surgeons,2
+214,4.0,Human Resources Services,finance operations,22.91,Bachelor,leboo inc,university at buffalo,2
+203,3.0,Computer Software,software engineer,9.92,Bachelor,motorola solutions,queens college,2
+336,2.0,Financial Services,software programmer,0.67,Bachelor,polaris7 investments llc,university of southern california,2
+321,5.0,Hospital & Health Care,professor,8.67,Doctor,new york proton center,tianjin university,2
+247,5.0,Hospitals and Health Care,application analyst,14.0,empty,catholic health services,university of florida,2
+380,2.0,Music,video editor,29.51,empty,gut feeling,avid,2
+316,4.0,Financial Services,account analyst,15.5,Bachelor,citi,stony brook university,2
+356,5.0,Financial Services,directors,17.01,Bachelor,supplemental health care,unniversity of pennsylvania wharton school,2
+323,1.0,Hospital & Health Care,public relations,17.56,Bachelor,nyu langone health,universidad del sagrado corazón,2
+347,1.0,Apparel & Fashion,stylist,16.91,MBA,ross stores inc,hampton university,2
+312,2.0,Publishing,editor,8.17,Bachelor,time out new york kids,williams college,2
+252,5.0,Entertainment,writer,31.0,Master,off center for the dramatic arts,university of vermont,2
+254,2.0,Higher Education,teaching,19.9,Bachelor,stony brook university graduate school,stony brook university,2
+355,3.0,Accounting,tax preparer,4.83,Master,grassi,hofstra university,2
+325,5.0,Research Services,research scientist,12.09,Doctor,schrödinger,rmit university,2
+325,5.0,Retail Apparel and Fashion,creative,17.33,Bachelor,equality new york designs,fashion institute of technology,2
+282,3.0,Higher Education,research scientist,12.5,Doctor,columbia university irving medical center,indian institute of science education research iiser kolkata,2
+271,4.0,Luxury Goods & Jewelry,salesperson,15.42,empty,fendi,mt san antonio college,2
+244,1.0,Writing & Editing,teacher,11.84,Master,consumeraffairs,touro university worldwide,2
+272,2.0,Research Services,teaching,1.75,Doctor,columbia university in the city of new york,the university of chicago,2
+327,5.0,Software Development,software engineer,9.92,Bachelor,google,george mason university,2
+307,4.0,IT Services and IT Consulting,research engineer,7.58,Master,ibm,indiana university bloomington,2
+308,2.0,Administration of Justice,law,41.17,Doctor,presiding justice trial part 38 supreme court manhattan,new york university,2
+428,2.0,Biotechnology,research engineer,3.09,Bachelor,massachusetts institute of technology,the city college of new york,2
+361,4.0,Photography,producer,14.33,empty,wagner college,sva ny,2
+163,1.0,Hospital & Health Care,physical therapist,4.16,Bachelor,staten island university hospital,kingsborough community college,2
+231,3.0,Research,research,5.33,Doctor,rptu kaiserslautern landau,universität der künste berlin,2
+391,7.0,Entertainment Providers,directors,14.16,Bachelor,love squad,institute of integrative nutrition,2
+355,3.0,Higher Education,research technician,3.16,Doctor,georgia tech research institute,georgia institute of technology,2
+205,4.0,Hospital & Health Care,professor,25.09,Bachelor,joan sanford i weill medical college of cornell university,michigan state university,2
+186,1.0,Staffing & Recruiting,home,18.67,Bachelor,robert half,city and islington college,2
+335,4.0,Writing & Editing,editor,16.91,Bachelor,the kim loo sisters,alliance française paris france,2
+240,3.0,Education Management,superintendent,32.5,Master,roman catholic diocese of brooklyn,st john s university,2
+206,2.0,Computer Software,software programmer,6.75,Bachelor,macquarie group,university of north florida,2
+291,1.0,Accounting,tax preparer,4.83,Bachelor,internal revenue service,state university of new york at old westbury,2
+165,5.0,Retail Apparel and Fashion,strategic accounts,37.83,empty,texport syndicate india ltd,pace university,2
+197,1.0,Publishing,reporter,10.59,Master,the new press,new york university,2
+202,6.0,Investment Banking,md,10.0,MBA,montgomery advisors llc,the university of texas at austin,2
+296,2.0,Medical Practice,scientific,4.91,empty,applied isotope technologies,boston university 6 yr medical program,2
+253,2.0,Retail Apparel and Fashion,sales representative,6.84,Bachelor,temple st clair,lim college,2
+432,4.0,Management Consulting,research analyst,3.33,empty,metropolitan transportation authority,nyu stern school of business,2
+331,1.0,Insurance,tax preparer,13.66,Bachelor,crisp insurance advisors,rutgers university,2
+221,4.0,Graphic Design,graphic design,10.16,Bachelor,inspiren,northeastern university,2
+364,3.0,Pharmaceuticals,clinical research,11.91,Doctor,target health full service cro,rutgers university,2
+312,3.0,Computer Software,research scientist,7.83,Doctor,meta,university of colorado boulder,2
+338,2.0,Performing Arts,artist,14.98,Bachelor,motus the company,east carolina university,2
+185,5.0,Civil Engineering,construction,27.41,MBA,extell,nyit school of management,2
+263,5.0,Motion Pictures & Film,game designer,31.75,Bachelor,alice blue,hofstra university,2
+288,2.0,Entertainment Providers,communications coordinator,19.33,Bachelor,the jewish theological seminary jts,barnard college,2
+194,5.0,Medical Practices,medical,53.91,Doctor,combative sports consulting services,stony brook university,2
+282,4.0,Architecture & Planning,architect,9.17,Master,diller scofidio renfro,harvard university graduate school of design,2
+260,3.0,Financial Services,financial services,4.41,Bachelor,robinhood,uc irvine,2
+173,2.0,Design,graphic design,0.17,Bachelor,yoka games,savannah college of art and design,2
+384,4.0,Computer Software,student,9.33,Doctor,google,university of michigan rackham graduate school,2
+263,1.0,Research Services,research,18.92,Doctor,memorial sloan kettering cancer center,the institute of cancer research,2
+330,3.0,Research,teaching,7.0,Doctor,regeneron,university of michigan,2
+230,6.0,Investment Management,capital markets,19.67,Bachelor,clearbridge investments,baruch college,2
+251,2.0,Higher Education,administrator,6.58,Master,john jay college cuny,long island university brooklyn campus,2
+168,2.0,Marketing & Advertising,marketing,6.34,Associate,axis promotions,university of carlow ireland,2
+330,3.0,Apparel & Fashion,social media marketing,6.99,Bachelor,models com,parsons school of design the new school,2
+217,2.0,Real Estate,claims adjuster,18.76,Bachelor,metro public adjustment inc,nyu,2
+305,2.0,Hospitals and Health Care,software designer,12.67,Doctor,google,duke university,2
+153,5.0,Information Technology & Services,python developer,12.08,Bachelor,verizon,government college of technology coimbatore,2
+196,2.0,Public Relations & Communications,writer,1.25,MBA,adecco,south college,2
+276,2.0,Medical Practices,teaching,0.92,Doctor,icahn school of medicine at mount sinai,tel aviv university,2
+194,3.0,Medical Device,regulatory affairs,16.41,Doctor,teleflex,stony brook university,2
+257,4.0,Higher Education,professor,13.17,Doctor,rutgers university,princeton university,2
+311,4.0,Utilities,systems consultant,36.59,Bachelor,ppl corporation,lehigh university college of business and economics,2
+199,1.0,Research,research,23.92,Master,columbia business school,columbia business school,2
+331,1.0,Medical Practice,counselor,22.0,Master,portrait health centers lifestance health inc,monmouth university,2
+152,1.0,Writing & Editing,book seller,16.99,Master,woodbury public library,texas woman s university,2
+184,2.0,Education Management,education,13.49,Bachelor,the office of the executive vice president for arts and sciences at columbia university,school of visual arts,2
+270,2.0,Museums & Institutions,real estate broker,16.16,Master,prevu,sotheby s institute of art,2
+197,2.0,Accounting,tax accountant,0.83,Master,morgan stanley,fordham gabelli school of business,2
+352,4.0,Telecommunications,analyst,18.42,Bachelor,verizon,centenary college,2
+195,1.0,Publishing,editor,16.0,Bachelor,scholastic,pace university,2
+310,1.0,Animation,production artist,1.5,empty,pratt institute,pratt institute,2
+199,2.0,Financial Services,investment analyst,3.08,Master,ubs,massachusetts institute of technology,2
+163,1.0,Entertainment Providers,content creator,19.07,Bachelor,school of rock,berklee college of music,2
+354,3.0,Financial Services,investment,10.09,empty,wells fargo,university of south carolina darla moore school of business,2
+290,5.0,Legal Services,strategic account,16.5,Bachelor,ravel law a lexisnexis company,indiana university bloomington,2
+305,4.0,Pharmaceuticals,statistical programmer,4.33,empty,bristol myers squibb,columbia university mailman school of public health,2
+271,1.0,Architecture and Planning,architecture,3.33,Master,design collective inc,university of maryland college park,2
+403,2.0,Entertainment Providers,treasurer,10.92,Bachelor,jefferies,pace university lubin school of business,2
+156,1.0,Financial Services,client service representative,10.17,empty,calamos investments,dominican university new york,2
+222,2.0,Financial Services,trust,45.83,MBA,wealth advisory group llc,new york university leonard n stern school of business,2
+281,5.0,Architecture & Planning,architect,15.25,Bachelor,spiezle architectural group inc,new jersey institute of technology,2
+281,3.0,"Health, Wellness & Fitness",teacher,8.0,Bachelor,claudia colombo skin wellness,institute for integrative nutrition,2
+254,2.0,Marketing & Advertising,social media marketing,1.0,Bachelor,msc mediterranean shipping company,hobart and william smith colleges,2
+369,5.0,Research Services,research scientist,10.25,Doctor,johnson johnson,university of maryland baltimore,2
+195,6.0,Architecture and Planning,architect,10.41,Bachelor,pei partnership architects,yale university school of architecture,2
+327,1.0,Primary/Secondary Education,teacher,17.91,Master,newark public schools,relay graduate school of education,2
+160,2.0,Public Policy,professor,12.92,Doctor,weill cornell medicine,weill cornell graduate school of medical sciences,2
+214,1.0,Primary/Secondary Education,substitute teacher,19.33,Master,briarcliff manor union free school district,lehman college,2
+269,5.0,Financial Services,portfolio,18.58,Bachelor,the citco group limited,baruch college city university of new york cuny,2
+324,4.0,Facilities Services,business services,6.49,Bachelor,family owned appliance repair and retail business,baruch college,2
+223,3.0,Logistics & Supply Chain,customer service,12.25,Bachelor,bet mgm,west virginia university,2
+240,6.0,Accounting,tax consultant,13.34,Bachelor,nksfb,state university of new york at plattsburgh,2
+381,5.0,Higher Education,substitute teacher,5.75,Doctor,columbia university in the city of new york,london school of hygiene and tropical medicine u of london,2
+212,2.0,Research,financial analyst,10.34,Associate,population council,stamford college,2
+296,2.0,Computer Software,research scientist,15.67,Doctor,schrödinger,princeton university,2
+278,5.0,Primary and Secondary Education,teaching,23.84,Master,mamaroneck union free school district,hunter college,2
+359,4.0,Non-profit Organization Management,graphic design,13.42,Bachelor,united way,university of mary washington,2
+367,5.0,Real Estate,realtor,8.75,empty,coldwell banker,villanova university,2
+332,1.0,Higher Education,teaching,14.07,Doctor,washington state university,washington state university,2
+248,5.0,Law Practice,directors,1.0,Doctor,force for good super pac,the george washington university law school,2
+160,2.0,Mechanical Or Industrial Engineering,mechanical engineer,11.5,Bachelor,astrodyne tdi,new jersey institute of technology,2
+314,5.0,Financial Services,lending,15.33,Bachelor,bank of america merrill lynch,borough of manhattan community college,2
+296,4.0,Marketing & Advertising,social media,8.67,Bachelor,fat earth media,suny new paltz,2
+292,1.0,Photography,photographer,5.92,Bachelor,milk,the cooper union for the advancement of science and art,2
+301,2.0,Oil & Energy,manufacturing,8.83,Master,koehler instrument company inc,stony brook university,2
+335,1.0,Computer Software,research,3.25,Doctor,university of guelph,university of guelph,2
+249,2.0,Mechanical Or Industrial Engineering,manufacturing,7.67,Master,nassau candy distributors inc,georgia institute of technology,2
+163,2.0,Computer Software,software engineering,3.99,Master,amazon,university of southern california,2
+205,4.0,Mental Health Care,nurse,25.34,Doctor,weill cornell medicine,new york university,2
+317,2.0,Entertainment Providers,actor,42.17,Bachelor,actor singer filmmaker union member,florida state university,2
+222,4.0,Libraries,community,15.42,Bachelor,self employed,monmouth university,2
+206,4.0,Public Relations & Communications,ambassador,8.33,Associate,anycasting china,montclair state university,2
+178,1.0,Pharmaceuticals,microbiologist,4.33,Bachelor,topix pharmaceuticals inc,stony brook university,2
+324,4.0,Chemicals,small business,6.67,Bachelor,jajaja plantas mexicana,university of arizona,2
+292,1.0,Transportation/Trucking/Railroad,leasing consultant,17.0,Bachelor,stitch this print that,towson university,2
+152,3.0,Financial Services,investment consultant,4.75,Bachelor,morgan stanley,mount holyoke college,2
+377,2.0,Construction,project development,22.42,empty,lgr builders inc,florida atlantic university,2
+351,2.0,Internet,software engineering,5.5,Doctor,google,columbia university,2
+356,3.0,Construction,projectmanager,7.0,Bachelor,transmatch realty advisors b v,schoevers college,2
+165,1.0,Aviation & Aerospace,crew,8.76,empty,flexjet,western suffolk boces,2
+184,3.0,Writing & Editing,writer,10.24,empty,byline,lunds universitet,2
+152,3.0,Biotechnology,physician,14.0,Doctor,penn state health,new york institute of technology college of osteopathic medicine,2
+258,1.0,IT Services and IT Consulting,web designer,10.58,empty,local wisdom,general assembly,2
+350,3.0,Hospital & Health Care,substitute teacher,5.42,Doctor,icahn school of medicine at mount sinai,mcmaster university,2
+206,2.0,Marketing & Advertising,accountant,7.25,Bachelor,psyop,hunter college,2
+298,4.0,Public Relations and Communications Services,communications,13.5,Master,new york city center,brooklyn college,2
+361,5.0,Higher Education,professor,6.91,Master,nyu grossman school of medicine,the graduate center city university of new york,2
+160,4.0,Semiconductors,customer success,16.33,Associate,vayyar imaging,gurnick academy of medical arts,2
+263,1.0,Hospitals and Health Care,rn,12.76,Bachelor,all american healthcare services inc,university of phoenix,2
+235,1.0,Education Administration Programs,substitute teacher,20.33,Master,memorial sloan kettering cancer center,sarah lawrence college,2
+230,3.0,Law Practice,law,5.16,Doctor,cole schotz p c,elisabeth haub school of law at pace university,2
+238,2.0,Accounting,tax accountant,6.57,Master,andersen,zicklin school of business,2
+227,1.0,Law Practice,law,2.08,Bachelor,lassar cowhey llp,oxford college of emory university,2
+203,2.0,Writing and Editing,writer,9.25,Master,borough of manhattan community college,rutgers university,2
+262,3.0,Non-profit Organizations,teaching,11.5,Doctor,weill cornell medicine,joan sanford i weill medical college of cornell university,2
+226,4.0,Architecture and Planning,architect,11.24,Master,nyu tandon school of engineering,harvard university graduate school of design,2
+235,1.0,Photography,promoter,0.42,Bachelor,vector marketing,hofstra university,2
+241,2.0,Photography,art,6.42,Bachelor,freelance,parsons school of design,2
+249,2.0,Advertising Services,search,4.0,MBA,mediacom,loyola university chicago,2
+312,1.0,Entertainment Providers,style,2.25,Master,kiko make up milano,make up designory,2
+181,1.0,IT Services and IT Consulting,accounts payable,11.59,Bachelor,apex systems,colorado technical university colorado springs colorado december,2
+337,1.0,Performing Arts,student worker,19.33,Master,new york university tisch school of the arts,new york university,2
+200,5.0,Banking,credit analyst,24.16,empty,loose ends,yale university,2
+401,2.0,Oil & Energy,qc inspector,28.08,empty,mechanical integrity inspection and consulting llc,qai training for quality llc,2
+273,2.0,Law Practice,case,17.49,Doctor,lutheran social services of new york,city university of new york school of law,2
+240,3.0,Computer Software,research,19.33,Doctor,meta,harvard university,2
+167,4.0,Retail Apparel and Fashion,design consultant,8.08,Bachelor,me too shoes,parsons school of design the new school,2
+362,5.0,IT Services and IT Consulting,data engineer,15.5,Bachelor,amazon,vellore institute of technology,2
+207,2.0,Music,artist,5.5,Master,las americas en concierto,ithaca college,2
+240,1.0,Design Services,store,10.0,Bachelor,mood home,university of massachusetts amherst,2
+305,5.0,Beverage Manufacturing,food beverage,15.01,Bachelor,commis,california state university chico,2
+203,1.0,Media Production,social media,6.24,Bachelor,studio of america,boston university,2
+202,1.0,Performing Arts,production coordinator,18.5,Bachelor,the sheen center for thought and culture,king s college,2
+263,5.0,Computer Software,technical writer,16.17,Bachelor,tibco,farmingdale state college,2
+315,1.0,Medical Practice,teaching,0.08,Doctor,nyc health hospitals,st george s university,2
+235,3.0,Hospital & Health Care,nursing,14.58,Bachelor,new york presbyterian hospital,dr carlos lanting college,2
+320,3.0,Software Development,software engineering,8.66,Master,ihealthscreen inc,new york university,2
+263,1.0,Primary/Secondary Education,teaching,6.59,Master,the river school,new york university,2
+171,5.0,Publishing,editor,26.09,Bachelor,educational publishing firm,nyu,2
+336,7.0,Real Estate,directors,8.83,Associate,cammarata real estate group,weichert real estate school,2
+300,1.0,Primary/Secondary Education,teacher,5.41,Master,the windward school,manhattanville college school of professional studies,2
+350,3.0,Research,scientific,11.33,Doctor,kramer levin naftalis frankel llp,weill cornell graduate school of medical sciences,2
+298,1.0,Broadcast Media Production and Distribution,journalist,16.24,Bachelor,nbcuniversal media llc,william paterson university of new jersey,2
+305,3.0,Marketing & Advertising,media relations,3.34,Master,wpp media,trinity college dublin,2
+174,2.0,Government Administration,law,7.58,Doctor,nyc administration for children s services,new york law school,2
+335,2.0,Legal Services,law,10.83,Bachelor,clark smith villazor llp,john jay college cuny,2
+349,5.0,Architecture and Planning,architect,13.5,Master,man group,city university of new york brooklyn college,2
+312,5.0,Chemicals,manufacturing operations,27.85,MBA,deccan heritage foundation india,mba uk,2
+240,1.0,Government Administration,research,0.41,Bachelor,new york state assembly,baruch college,2
+154,2.0,Insurance,database developer,14.0,empty,whatsuppbox,drexel university,2
+332,2.0,Research Services,economist,16.17,Master,u s department of the treasury,university of the philippines,2
+170,4.0,Utilities,engineering,9.16,MBA,con edison,nyu stern school of business,2
+279,5.0,Fundraising,development,10.0,Master,american associates of the royal academy trust,ben gurion university of the negev,2
+210,1.0,Public Policy Offices,community relations,5.17,Bachelor,columbia university irving medical center,city university of new york hunter college,2
+173,5.0,"Health, Wellness & Fitness",clinical,3.58,Bachelor,nola physical therapy performance,new york medical college,2
+321,2.0,Financial Services,business analyst,2.42,Bachelor,arga investment management lp,university of michigan,2
+191,1.0,Investment Banking,audit,29.16,Associate,pricewaterhousecoopers ll,american institute of banking,2
+231,5.0,Online Audio and Video Media,brand marketing,25.84,Bachelor,golf com and golf magazine,cornell university,2
+262,4.0,Pharmaceuticals,clinical research,22.5,empty,sanofi,rutgers university college of pharmacy,2
+391,1.0,Cosmetics,makeup artist,19.0,empty,ford artists nyc at ford models,pace university,2
+156,2.0,Primary and Secondary Education,education,9.09,Master,central islip union free school district 13,touro college,2
+279,5.0,Religious Institutions,food beverage,22.6,Associate,advanta health solutions inc,art institute of philadelphia,2
+189,2.0,Industrial Machinery Manufacturing,design engineering,23.25,Master,stantec consulting services,new york university polytechnic school of engineering,2
+341,2.0,Airlines/Aviation,embedded software engineer,4.92,Master,pratt whitney,case western reserve university,2
+340,1.0,Mental Health Care,coach,25.57,Master,f45 training,john jay college cuny,2
+295,2.0,Higher Education,professor,2.92,Doctor,shenzhen university,georgia state university,2
+258,2.0,Telecommunications,writer,8.67,Master,n a,new york university,2
+338,1.0,Legal Services,law,6.16,Bachelor,united states attorneys offices,northeastern university,2
+351,2.0,Financial Services,coach,32.0,MBA,self employed,columbia business school,2
+161,4.0,Food and Beverage Services,catering,23.09,empty,9 bar consulting llc,specialty coffee association,2
+151,1.0,Retail Apparel and Fashion,design consultant,9.25,Bachelor,major label group,fashion institute of technology,2
+302,3.0,Hospital & Health Care,physician,14.17,Doctor,montefiore health system,umass chan medical school,2
+241,4.0,Higher Education,teaching,9.75,Doctor,touro university,teachers college columbia university,2
+169,3.0,Hospital & Health Care,medical,8.83,Master,ventureblick,new york university,2
+284,1.0,Higher Education,substitute teacher,18.06,Bachelor,curtis high school,american museum of natural history education department,2
+232,2.0,Law Practice,law,11.16,Bachelor,fenwick west,harvard law school,2
+192,5.0,Human Resources,human resources,18.42,Master,edelta consulting,baruch college,2
+267,6.0,Law Practice,attorney,25.92,Doctor,smith gambrell russell llp,stanford law school,2
+188,3.0,Financial Services,writer,22.0,MBA,bradley woods co,iolani school honolulu hi,2
+163,3.0,Hospitality,creative,11.17,Bachelor,encore boston harbor,westfield state university,2
+189,1.0,Entertainment Providers,teacher,15.25,Bachelor,harlem link charter school ps 208,new york university,2
+243,4.0,Hospital & Health Care,nurse,4.41,Master,xu z chen psychiatrist pllc,nyu rory meyers college of nursing,2
+196,1.0,Law Enforcement,security officer,4.0,empty,somerset county sheriff s office,morris county k 9 academy nj,2
+174,2.0,Investment Banking,equity research analyst,3.17,Master,contra aquam capital,tulane university a b freeman school of business,2
+183,2.0,Medical Practices,physical therapist,8.49,Doctor,agile physical therapy inc,columbia university college of physicians and surgeons,2
+151,2.0,Hospital & Health Care,clinical,7.39,Master,tribeca preparatory,new york university,2
+173,6.0,Real Estate,equity research,9.0,Master,everstrong asset management,columbia university in the city of new york,2
+188,2.0,Media Production,video editor,7.67,Bachelor,aerodef manufacturing,college for creative studies,2
+171,4.0,Defense & Space,development engineer,21.59,Master,lgs innovations caci,university of madras,2
+219,2.0,Higher Education,teacher,24.58,Doctor,barnard college,laban bartenieff institute of movement studies lims,2
+213,4.0,Research Services,professor,11.59,Doctor,nyu grossman school of medicine,university of toronto,2
+300,6.0,Information Technology & Services,business development consultant,2.34,Bachelor,crf,brookdale community college,2
+245,2.0,Motion Pictures & Film,social media,3.26,Bachelor,hbo,the university of tulsa,2
+277,1.0,Fine Art,editor,4.92,Doctor,princeton university art museum,princeton university,2
+237,5.0,Legal Services,professor,12.17,Doctor,john jay college cuny,new york law school,2
+168,3.0,Hospital & Health Care,research scientist,7.5,Doctor,columbia university irving medical center,virginia tech,2
+360,1.0,Architecture & Planning,architecture,9.33,Bachelor,csa group architects and engineers,university of arkansas,2
+213,4.0,Government Administration,counselor,25.16,Bachelor,nyc department for the aging,monroe college,2
+282,1.0,Information Technology & Services,helpdesk,7.17,Master,united nations,keller graduate school of management of devry university,2
+169,2.0,Higher Education,research,14.15,Doctor,mississippi state university,hackensack meridian school of medicine,2
+290,3.0,"Transportation, Logistics, Supply Chain and Storage",software engineering,8.5,Master,google,georgia institute of technology,2
+240,1.0,Research,research,16.16,Bachelor,yale translational brain imaging program,yale university,2
+188,7.0,Information Technology & Services,marketing officer,58.0,empty,ihearvoices ai l3c,cu,2
+387,4.0,Research,teaching,16.5,Bachelor,michigan medicine,columbia university vagelos college of physicians and surgeons,2
+304,5.0,Accounting,consulting,10.33,Bachelor,pwc,monash university,2
+202,2.0,Renewables & Environment,research analyst,5.25,Doctor,institute for policy integrity at nyu school of law,university of rhode island,2
+302,2.0,Financial Services,portfolio analyst,7.33,Bachelor,morgan stanley,universidade presbiteriana mackenzie,2
+295,6.0,Photography,press,36.33,Bachelor,philipstown north highlands fire district,oberlin college oh,2
+319,2.0,Architecture and Planning,designer,13.75,Master,brailsford dunlavey inc,george mason university school of business,2
+380,1.0,Museums & Institutions,writer,10.91,Master,little brown and company,amherst college,2
+262,5.0,Information Technology & Services,strategy analyst,13.58,MBA,american express,nyu stern school of business,2
+155,2.0,Hospital & Health Care,research technician,2.5,Bachelor,pfizer,seton hall university,2
+180,2.0,Hospitals and Health Care,clinical,20.83,Master,life hive nutrition,new york university,2
+317,3.0,Biotechnology Research,process analyst,18.92,Master,kft,new jersey institute of technology,2
+221,3.0,Computer Software,software engineering,6.42,Bachelor,opensea,carnegie mellon university,2
+292,5.0,Higher Education,research,10.5,Doctor,cuny urban food policy institute,hunter college,2
+290,4.0,Apparel & Fashion,product,8.92,Master,tura inc,parsons school of design the new school,2
+237,4.0,Education Administration Programs,teacher,37.91,Master,logitech,new york institute of technology old westbury,2
+262,1.0,Professional Training and Coaching,digital media,5.33,Bachelor,smarties candy,university of san francisco,2
+170,5.0,Retail Apparel and Fashion,sales business development,10.0,empty,chantelle lingerie inc,california state university fullerton,2
+172,2.0,Graphic Design,graphic design,3.83,Bachelor,macmillan,the college of saint rose,2
+174,1.0,Legal Services,law,7.58,Doctor,catholic charities of the archdiocese of new york,city university of new york school of law,2
+294,7.0,Architecture & Planning,designer,3.0,Bachelor,design with frank,the cooper union for the advancement of science and art,2
+161,2.0,Wholesale Building Materials,design engineering,11.0,Bachelor,jcryanebco,universidad albert einstein,2
+166,4.0,Research,professor,10.5,Doctor,lehman college,brown university,2
+306,5.0,Individual and Family Services,case,22.09,empty,career break,hofstra university,2
+259,5.0,Artists and Writers,writer,21.41,Master,the wildenstein plattner institute,syracuse university,2
+337,5.0,Design Services,design,28.51,Master,ik design,savannah college of art and design,2
+233,3.0,Financial Services,financial analyst,8.08,High School,nfp,boston university,2
+224,2.0,Government Administration,law,3.92,Bachelor,u s department of labor,simmons university,2
+298,2.0,Computer Software,software engineering,2.84,Bachelor,dun bradstreet,flatiron school,2
+396,3.0,Accounting,tax accountant,13.49,Bachelor,pacific life,brooklyn college,2
+294,5.0,Financial Services,quantitative analyst,60.08,Bachelor,retired from goldman sachs as a vice president senior engineer for 28 years,baruch college,2
+203,4.0,Law Practice,law,20.99,Doctor,new york city taxi and limousine commission,cardozo school of law,2
+324,2.0,Mental Health Care,research,17.83,Doctor,the mount sinai hospital,university of pennsylvania school of medicine,2
+167,4.0,Research Services,social,13.34,Master,new york city housing authority nycha,pratt institute,2
+394,2.0,Hospital & Health Care,nurse,4.26,Bachelor,flushing hospital,molloy university,2
+193,2.0,"Transportation, Logistics, Supply Chain and Storage",inspector,19.33,empty,cox company,centre security training school,2
+151,2.0,Hospital & Health Care,physician,10.67,Bachelor,memorial sloan kettering cancer center,the royal college of physicians london,2
+152,2.0,Mechanical Or Industrial Engineering,mechanical design engineer,3.17,Bachelor,nanotronics,new york university,2
+225,6.0,Law Practice,research scientist,9.25,Doctor,fish richardson p c,fordham university school of law,2
+186,5.0,Philanthropic Fundraising Services,directors,20.33,Doctor,nowhereville,western new england college school of law,2
+288,3.0,Software Development,student,3.0,Master,city university of new york brooklyn college,brooklyn college,2
+271,3.0,Higher Education,teacher,19.74,Master,sora schools,bard college,2
+162,1.0,Musicians,actor,16.0,Master,music arts,the city university of new york,2
+228,2.0,Internet,research engineer,12.92,Doctor,meta,the university of texas at austin,2
+179,4.0,Primary/Secondary Education,software engineering,25.66,Doctor,the virtual forge,lehigh university,2
+299,6.0,Advertising Services,marketing representative,7.0,empty,constant media,college of the holy cross,2
+268,1.0,Research,research,5.24,empty,vanderbilt university,vanderbilt university,2
+234,3.0,Hospital & Health Care,professor,17.92,Doctor,columbia university irving medical center,icahn school of medicine at mount sinai,2
+320,5.0,Retail,press,10.93,Bachelor,theory,hunter college,2
+187,5.0,Marketing & Advertising,writer,15.01,Master,raptive,sarah lawrence college,2
+221,2.0,International Affairs,law,13.24,Master,united nations,international institute of humanitarian law,2
+211,5.0,Financial Services,economist,1.59,Master,rbc capital markets,johns hopkins school of advanced international studies sais,2
+361,3.0,"Health, Wellness & Fitness",administrative support,19.6,Doctor,new york eye and ear infirmary of mount sinai,fordham university school of law,2
+156,2.0,Research,teaching,10.42,Master,new york university,new york university,2
+337,1.0,Graphic Design,designer,1.83,Bachelor,pacific,the new school,2
+218,1.0,Real Estate,real estate agent,25.67,Bachelor,nest seekers international,성균관대학교 sungkyunkwan university,2
+250,3.0,IT Services and IT Consulting,software engineer,10.41,empty,zinnia,the george washington university,2
+314,5.0,Financial Services,strategy analyst,5.84,MBA,citi,texas a m university corpus christi,2
+251,1.0,Higher Education,crew,9.58,Doctor,azza s garden,purdue university,2
+158,3.0,Pharmaceutical Manufacturing,research scientist,5.0,Doctor,columbia university in the city of new york,university of florida,2
+160,3.0,Higher Education,teacher,7.66,Doctor,hofstra university,st john s university,2
+152,1.0,Information Technology & Services,crew,4.58,Master,hazen and sawyer,columbia engineering,2
+368,2.0,Hospital & Health Care,cna,6.67,Bachelor,cooperman barnabas medical center,fairleigh dickinson university,2
+234,2.0,Research,research,5.83,Doctor,psi paul scherrer institut,eth zürich,2
+269,1.0,Accounting,audit,7.57,MBA,deloitte,pace university lubin school of business,2
+356,2.0,Research,research,16.16,Doctor,open health scientific communications,rutgers university newark,2
+181,6.0,Government Administration,teacher,5.41,Master,organ donation awareness corporation,columbia university mailman school of public health,2
+318,3.0,Retail,design,13.16,empty,hop lun,the ohio state university,2
+190,1.0,Education Management,admissions,10.99,Bachelor,success academy charter schools,new york university,2
+154,4.0,Professional Training & Coaching,stage,6.75,Bachelor,dale carnegie training,the citadel,2
+242,3.0,Hospital & Health Care,software designer,7.25,Bachelor,ready computing,flatiron school,2
+208,4.0,Hospital & Health Care,physician,3.08,Doctor,columbia university irving medical center,new york medical college,2
+252,1.0,Defense & Space,engineer,7.33,Bachelor,naval sea systems command navsea,stony brook university,2
+245,3.0,Architecture and Planning,professor,6.0,Master,university at buffalo,harvard university,2
+294,3.0,Research,teaching,20.48,Doctor,stanford university,columbia university in the city of new york,2
+182,3.0,Graphic Design,graphic design,5.49,empty,mckinsey company,university of south florida st petersburg,2
+262,3.0,Research Services,research scientist,5.33,Doctor,memorial sloan kettering cancer center,université paris descartes,2
+251,3.0,Real Estate,investment analyst,9.5,Bachelor,aurora energy advisors,nyu stern school of business,2
+347,2.0,Accounting,auditor,1.83,Bachelor,mspc certified public accountants and advisors,ramapo college of new jersey,2
+160,2.0,IT Services and IT Consulting,information technology,24.25,empty,u s census bureau,alliance computing solutions,2
+328,2.0,Oil and Gas,brokerage,16.08,empty,marex spectron,nyu,2
+310,3.0,Hospital & Health Care,medical,20.84,Bachelor,mpowerhealth,siena college,2
+344,3.0,Hospitals and Health Care,clinical,17.31,Doctor,icahn school of medicine at mount sinai,vu university medical center,2
+332,1.0,Broadcast Media Production and Distribution,electrician,24.42,Associate,local 52,connecticut school of broadcasting,2
+197,2.0,Mechanical Or Industrial Engineering,foreman,16.42,empty,vale,cerp centro educacional roberto porto,2
+381,5.0,Information Technology & Services,directors,8.33,Bachelor,geeks on wheels,state university of new york at buffalo,2
+199,2.0,Architecture and Planning,marketing coordinator,12.67,MBA,t y lin international,columbia university in the city of new york,2
+377,3.0,Management Consulting,business analyst,8.99,Master,housing solutions of new york,state university of new york college at buffalo,2
+177,2.0,Hospital & Health Care,physician,1.25,Master,new york orthopedics,st john s university,2
+310,5.0,Higher Education,professor,37.08,Doctor,hofstra northwell school of nursing and physician assistant studies,icahn school of medicine at mount sinai,2
+243,3.0,International Affairs,teaching,15.16,Master,un women,sciences po,2
+288,2.0,Human Resources,writer,4.16,Bachelor,vibrant emotional health,howard university,2
+394,2.0,Hospitals and Health Care,teaching,4.58,Doctor,newyork presbyterian hospital,new york medical college,2
+187,1.0,Primary/Secondary Education,teacher,4.16,Master,andrea b the va,relay graduate school of education,2
+258,3.0,Telecommunications,account sales,10.83,empty,altice usa,middlesex college,2
+166,2.0,Research,data science,6.66,Master,nyc data science academy,georgia institute of technology,2
+198,4.0,"Health, Wellness & Fitness",receiving,9.92,Bachelor,sol de janeiro,kean university,2
+188,4.0,Education Management,graphic design,8.33,Bachelor,kaplan,adelphi university,2
+258,2.0,Writing and Editing,journalist,8.57,Bachelor,mother jones,wesleyan university,2
+264,3.0,Higher Education,professor,7.67,Doctor,university of pennsylvania,university of pennsylvania,2
+385,1.0,International Affairs,hostess,8.67,MBA,sumitomo mitsui banking corporation smbc group,seton hall university,2
+389,1.0,Marketing & Advertising,promotions,18.92,Bachelor,tai ping,newbury college,2
+231,2.0,Higher Education,professor,9.49,Doctor,columbia university in the city of new york,new york university,2
+284,2.0,Financial Services,wealth,18.0,MBA,wander financial services llc,nyu stern school of business,2
+250,3.0,Higher Education,teacher,11.73,Master,english language programs,hunter college,2
+240,4.0,Hospital & Health Care,medical technologist,16.34,Master,clearmd,the city college of new york,2
+182,4.0,Financial Services,teaching,6.17,Bachelor,objecutive inc,ramapo college of new jersey,2
+307,1.0,Real Estate,real estate broker,14.0,Bachelor,douglas elliman,university of arizona,2
+306,1.0,Writing & Editing,public relations,6.07,Bachelor,rutgers graduate school of education,the college of new jersey,2
+312,3.0,Hospital & Health Care,teaching,3.67,Bachelor,maimonides medical center,rutgers university,2
+365,5.0,Sporting Goods,franchise,16.41,Bachelor,disrupt sports,stony brook university,2
+223,4.0,Insurance,nurse,18.17,Master,capital health us,drexel university s college of nursing and health professions,2
+241,1.0,Higher Education,counselor,3.5,empty,st lawrence university,st lawrence university,2
+270,1.0,Performing Arts,host,15.82,Bachelor,the museum of broadway,temple university,2
+349,3.0,Legal Services,attorney,5.91,Doctor,office of the new york state attorney general,indiana university maurer school of law,2
+304,1.0,Marketing & Advertising,customer service cashier,0.5,Bachelor,citizens,marist university,2
+323,2.0,Hospitals and Health Care,physician,3.84,Doctor,memorial sloan kettering cancer center,new york medical college,2
+188,2.0,Legal Services,substitute teacher,2.5,Doctor,new jersey courts,seton hall university school of law,2
+308,5.0,Computer Software,security,8.66,Doctor,octaura,unsw,2
+259,4.0,Book and Periodical Publishing,merchandise,22.91,Master,disney theatrical group,pace university new york,2
+401,3.0,Financial Services,sales training,1.83,Bachelor,rightcapital,purchase college suny,2
+184,2.0,Hospital & Health Care,teaching,7.0,Doctor,newyork presbyterian hospital,northwestern university the feinberg school of medicine,2
+230,4.0,Banking,lending,14.17,Bachelor,ey,the university of memphis,2
+335,5.0,Information Technology & Services,systems consultant,13.08,Bachelor,independent consultant,rutgers university newark,2
+290,3.0,Financial Services,real estate agent,6.0,Master,the agency re,alfred lerner college of business economics at university of delaware,2
+296,2.0,Computer Software,student,2.5,Bachelor,miter,vassar college,2
+304,4.0,Software Development,engineering project,13.17,Bachelor,datadog,carnegie mellon university,2
+168,1.0,Truck Transportation,driver,6.08,Bachelor,greyhound lines inc,grand canyon university,2
+345,1.0,Biotechnology,student,3.92,Doctor,georgia institute of technology,university of chicago,2
+354,6.0,Venture Capital & Private Equity,artist,2.0,empty,truarc partners,colgate university,2
+185,2.0,Computer Software,software engineer,7.5,Master,microsoft,new york university,2
+276,1.0,Retail Apparel and Fashion,promotions,7.66,Bachelor,met through friends,academy of creative coaching,2
+274,2.0,Mental Health Care,clinical,11.98,Master,west essex psychology center,william james college,2
+429,1.0,Architecture & Planning,project architect,15.99,Master,burr salvatore architects,yale university,2
+230,2.0,Research,research,6.25,Doctor,icahn school of medicine at mount sinai,imperial college london,2
+292,3.0,Information Technology & Services,software quality assurance engineer,20.49,Bachelor,gravystack,rutgers business school,2
+344,1.0,Law Practice,security guard,17.49,Doctor,securitas security services usa inc,cornell university,2
+314,2.0,Medical Practice,physician,11.41,Master,newyork presbyterian hospital,university of florida college of medicine,2
+308,1.0,Higher Education,substitute teacher,16.49,Master,ymca of greater new york,teachers college columbia university,2
+282,1.0,Music,photo,9.25,Master,wet paint art studio,university of southern california,2
+209,2.0,Hospital & Health Care,substitute teacher,17.49,Master,nyc department of education,boston university,2
+336,3.0,Hospital & Health Care,clinical,19.83,Doctor,hospital for special surgery,rocky mountain university of health professions,2
+160,1.0,"Health, Wellness & Fitness",carpenter,14.58,Bachelor,pro design inc,university of montenegro,2
+356,1.0,Apparel & Fashion,marketing coordinator,8.83,Bachelor,hearst magazines,university of wisconsin madison,2
+189,2.0,"Health, Wellness & Fitness",unemployed,25.66,Master,astrology with julie,university of cincinnati,2
+188,3.0,Information Technology & Services,software developer,18.16,Master,new york city office of technology innovation,university of computer studies mandalay,2
+292,1.0,Primary/Secondary Education,teacher,12.49,Master,kipp new jersey,rutgers university,2
+198,2.0,Hospital & Health Care,substitute teacher,11.82,Master,nyc department of education,lehman college,2
+281,2.0,Performing Arts,actor,22.82,Bachelor,self employed,goodman school of drama at the art institute of chicago aka the theatre school at depaul university,2
+354,6.0,Financial Services,trust officer,16.92,Bachelor,morgan stanley wealth management,city university of new york brooklyn college,2
+298,5.0,Public Relations & Communications,client services,13.83,Bachelor,4media group u s,william paterson university of new jersey,2
+261,1.0,Entertainment,social media,4.24,empty,perryscope productions llc,new york university,2
+156,2.0,Financial Services,insurance agent,19.25,Bachelor,national income life insurance company,iona college,2
+368,4.0,Medical Practice,clinical,4.92,Doctor,columbia university center for psychoanalytic training and research,columbia university center for psychoanalytic training and research,2
+192,3.0,Biotechnology Research,software engineering,15.25,Doctor,memorial sloan kettering cancer center,university of north carolina at charlotte,2
+297,2.0,Higher Education,stage,18.67,Doctor,rutgers university,florida state university,2
+226,2.0,Hospital & Health Care,nursing,11.33,Bachelor,u s department of veterans affairs,western governors university,2
+228,1.0,Hospitality,guest service representative,17.49,empty,langham hospitality group,university at albany suny,2
+167,6.0,Music,directors,8.25,Master,long island youth orchestra inc,university of michigan school of music theatre dance,2
+254,1.0,Law Enforcement,paralegal,1.92,Bachelor,manhattan district attorney s office,oxford college of emory university,2
+396,2.0,Utilities,project consultant,15.92,Bachelor,pseg,new york university polytechnic school of engineering,2
+396,2.0,Hospital & Health Care,rn,10.91,Bachelor,mount sinai queens,felician university,2
+274,3.0,Consumer Goods,courtesy,7.66,Bachelor,lowe s companies inc,angeles university foundation,2
+308,3.0,Information Technology & Services,student worker,9.91,Master,datagrokr,pace university,2
+265,2.0,Entertainment,producer,15.49,Bachelor,e t entertainment,baruch college city university of new york cuny,2
+263,2.0,Biotechnology,research,14.25,Master,memorial sloan kettering cancer center,boston university school of medicine,2
+214,5.0,Information Technology & Services,product,10.75,Bachelor,mastercard,william paterson university of new jersey,2
+292,2.0,Education Management,occupational therapist,3.43,Master,theradynamics,university at buffalo,2
+387,2.0,Pharmaceuticals,scientist,14.5,Master,wuxi biologics,old dominion university,2
+291,2.0,Fine Art,electronics engineer,6.83,Master,hellohost,boston university,2
+257,3.0,Research,research scientist,4.5,Doctor,nyu langone health,vanderbilt university,2
+275,5.0,Hospital & Health Care,research scientist,14.58,Doctor,northwell health,tulane university school of medicine,2
+295,6.0,Professional Training & Coaching,host,19.75,Bachelor,wise up new york,missouri state university,2
+197,3.0,Fine Art,professor,21.92,Doctor,colby college,the institute of fine arts nyu,2
+242,2.0,Venture Capital & Private Equity,administrative coordinator,10.33,empty,vista equity partners,hunter college,2
+207,6.0,Design,animator,6.42,Master,sharlayan partners llc,pratt institute,2
+370,2.0,"Health, Wellness & Fitness",call center representative,2.51,Master,alice health promotion,columbia university in the city of new york,2
+180,4.0,Law Practice,counsel,5.66,Doctor,swiss re,new york law school,2
+367,1.0,Civic & Social Organization,research,19.09,High School,brown university institute for biology engineering and medicine,brown university,2
+231,1.0,Libraries,clerical,7.0,Master,the new york public library,king s college london,2
+296,1.0,Public Relations & Communications,law,8.9,Master,mccormack and mattei pc,binghamton university,2
+167,5.0,Financial Services,audit,20.08,MBA,usaa,st john s university,2
+231,5.0,Aviation & Aerospace,system engineering,12.75,MBA,pratt whitney,university of connecticut,2
+348,2.0,Civil Engineering,project accountant,7.08,MBA,wsp usa,west texas a m university college of business,2
+283,4.0,Architecture & Planning,architect,7.82,Master,di domenico partners,university of michigan,2
+316,1.0,Hospital & Health Care,student,4.25,Doctor,tri institutional phd program in computational biology and medicine,northeastern university,2
+278,2.0,Banking,aml analyst,10.33,Bachelor,industrial and commercial bank of china,skidmore college,2
+306,4.0,Computer Software,data architect,12.08,Bachelor,argo group,universitat autònoma de barcelona,2
+346,7.0,Public Relations & Communications,site,7.67,Master,crazylaugh,isenberg school of management umass amherst,2
+192,2.0,Computer Software,technical support engineer,8.91,Associate,key code media,bergen community college,2
+250,3.0,Education Management,data analyst,19.58,Master,2u,youngstown state university,2
+340,4.0,Wine & Spirits,compliance,11.0,High School,mhw ltd,robert f kennedy community high school,2
+181,3.0,Hospital & Health Care,nurse,6.75,Master,schweiger dermatology group,pace university college of health professions,2
+221,5.0,Computer Software,system engineering,20.42,Doctor,u s army devcom,carnegie mellon university,2
+319,4.0,Architecture & Planning,architect,11.75,MBA,robert a cardello architects llc,sacred heart university,2
+390,4.0,Law Practice,law,8.24,empty,new york county defenders,brooklyn law school,2
+340,4.0,Government Administration,administrative coordinator,8.91,empty,nyc office of the comptroller,boston university,2
+285,2.0,Computer Software,design engineer,5.58,Bachelor,stealth startup,university of maryland,2
+174,4.0,Law Enforcement,affairs,14.67,Bachelor,nypd,columbia university pmi,2
+196,1.0,Entertainment,stage,10.84,Master,berkeley repertory theatre,rose bruford college,2
+213,1.0,Banking,administrative,6.0,empty,nuevas mueblerias avenida s a,hospital de clinicas de bs as,2
+276,5.0,Research,research engineer,16.76,Doctor,onsiteiq,udacity,2
+249,2.0,Computer Software,researcher,9.08,Doctor,amazon,university of toronto,2
+201,3.0,Computer & Network Security,software engineer,8.41,Bachelor,sift,binghamton university,2
+341,5.0,Banking,portfolio,15.25,MBA,mizuho,nyu stern school of business,2
+254,2.0,Mechanical Or Industrial Engineering,mechanical engineer,3.25,Bachelor,plantd,columbia university,2
+337,1.0,Performing Arts,hostess,8.08,Bachelor,sixplus,oberlin college,2
+167,1.0,Retail,oracle dba,3.76,Bachelor,walgreens,stamford university bangladesh,2
+356,3.0,Biotechnology,laboratory technician,2.08,Bachelor,merck,lafayette college,2
+359,2.0,Design Services,stylist,10.67,Bachelor,g iii apparel group,fashion institute of technology,2
+153,1.0,Accounting,audit,3.08,empty,kpmg us,rutgers university,2
+256,2.0,Writing & Editing,editor,9.16,Master,tag24 news us,nyu school of professional studies,2
+154,6.0,Legal Services,counsel,4.0,Doctor,garfunkel wild p c,boston university school of law,2
+233,1.0,Newspaper Publishing,press,20.76,High School,peddie school,state university of new york at new paltz,2
+194,3.0,Computer Software,software engineer,3.5,empty,bjss,providence college,2
+212,2.0,Insurance,actuary,1.42,Bachelor,vns health,yeshiva university,2
+167,1.0,Non-profit Organization Management,product development,1.5,Bachelor,dr idriss,queens college,2
+389,1.0,Writing & Editing,substitute teacher,9.41,empty,the adroit journal,columbia university,2
+158,2.0,Information Technology & Services,it analyst,26.34,Doctor,herrington technology,capitol technology university,2
+379,1.0,Architecture & Planning,cleaner,0.58,Bachelor,nuzine,drexel university,2
+187,3.0,Marketing & Advertising,media planner,2.66,Bachelor,um worldwide,john jay college cuny,2
+256,2.0,Apparel & Fashion,retail store,1.34,Bachelor,kendra scott,auburn university,2
+160,1.0,Hospital & Health Care,cna,0.75,Bachelor,mountainside medical center,rutgers university new brunswick,2
+225,1.0,Information Technology & Services,electrical engineering,6.25,Master,rutgers university new brunswick,rutgers university,2
+279,1.0,Hospital & Health Care,human resources,0.66,Master,the jewish theological seminary jts,columbia university graduate school of arts and sciences,2
+185,2.0,Higher Education,research,7.25,Doctor,columbia university,university of wisconsin madison,2
+191,5.0,Construction,superintendent,4.08,Bachelor,consigli construction co inc,stony brook university,2
+352,2.0,Computer Software,product analyst,4.34,Bachelor,tradeup securities inc,new york university,2
+315,2.0,Financial Services,claims representative,9.07,Bachelor,national futures association,the o malley school of business at manhattan university,2
+374,4.0,Construction,sales,6.25,Bachelor,flex wall specialties inc,st thomas aquinas college,2
+262,1.0,Performing Arts,teacher,12.41,Master,convent of the sacred heart 91st street,teachers college columbia university,2
+168,1.0,Human Resources,research,4.34,Bachelor,soft materials lab at columbia university,columbia university in the city of new york,2
+193,1.0,Real Estate,administrative,1.0,Bachelor,h 2 capital partners,southern methodist university,2
+234,2.0,Environmental Services,social,4.42,Master,nyc department of environmental protection nyc dep,the university of georgia,2
+246,1.0,Information Technology & Services,helpdesk,2.83,Bachelor,itcs,tbilisi state university,2
+160,1.0,Government Administration,phlebotomist,7.15,Bachelor,labcorp,rockland boces,2
+281,1.0,Management Consulting,analyst,0.25,Master,sdg group usa,new jersey institute of technology,2
+163,2.0,"Health, Wellness & Fitness",pharmacist,4.91,Doctor,newyork presbyterian hospital,long island university,2
+206,6.0,Information Technology & Services,user designer,15.41,MBA,david yurman,university at albany,2
+320,1.0,International Affairs,sustainability,2.58,Master,united nations escap,new york university,2
+199,2.0,Marketing & Advertising,engagement,6.41,Bachelor,the walt disney company,university of minnesota,2
+181,1.0,Hospital & Health Care,crew,5.26,Bachelor,nyu langone health,the george washington university,2
+202,2.0,Media Production,editor,7.4,Bachelor,good housekeeping,loyola university chicago,2
+166,1.0,Information Technology & Services,technical support analyst,2.16,Bachelor,moody s corporation,stony brook university,2
+292,3.0,Biotechnology,clinical,7.07,Bachelor,university spine center,emory university,2
+328,1.0,Information Technology & Services,research,1.83,Bachelor,mbzuai mohamed bin zayed university of artificial intelligence,yale university,2
+215,5.0,Import & Export,non,6.75,MBA,maypro ventures,kwansei gakuin university,2
+255,2.0,Architecture & Planning,designer,3.92,Master,theverymany,pratt institute,2
+276,1.0,Writing & Editing,writer,5.23,Bachelor,her campus media,st john s university,2
+297,1.0,Law Practice,editorial,6.0,Bachelor,cabinet magazine,bard college,2
+176,2.0,Banking,java developer,3.25,Bachelor,arvest wealth management,cuny new york city college of technology,2
+347,1.0,Accounting,tax,3.75,Bachelor,integrus,san diego state university,2
+397,5.0,Financial Services,financial analysis,22.25,Bachelor,barclays,nyu stern school of business,2
+265,1.0,Food & Beverages,retail salesperson,28.0,empty,omarsa s a,montclair state university,2
+222,1.0,Higher Education,research technician,3.07,Bachelor,cornell university college of veterinary medicine,cornell university,2
+328,2.0,Political Organization,student worker,0.67,empty,american moment,university of richmond,2
+183,2.0,Computer Software,software engineer,1.08,Master,ipvideo corporation,rensselaer polytechnic institute,2
+164,1.0,Marketing & Advertising,nanny,2.75,Bachelor,the city of palm beach gardens,school of visual arts,2
+253,5.0,Accounting,financial consultant,6.66,MBA,b a consultancy llc,keller graduate school of management nj,2
+374,2.0,Higher Education,guest service representative,21.42,MBA,mercydrive inc,monroe college,2
+282,4.0,Media Production,producer,2.66,Bachelor,freelance,new york university,2
+277,5.0,Marketing & Advertising,digital marketing,16.24,Associate,real grader,ashworth college,2
+207,3.0,Hospital & Health Care,nurse,15.08,Bachelor,capital health us,drexel university s college of nursing and health professions,2
+306,3.0,Law Practice,attorney,17.16,Master,dunnington bartholow miller llp,fordham university school of law,2
+157,1.0,Higher Education,substitute teacher,3.66,Master,nyc department of education,new york university,2
+175,5.0,Hospital & Health Care,rn,23.24,Master,nyc health hospitals,chamberlain university,2
+251,1.0,Museums & Institutions,student worker,8.07,Master,new york university,new york university,2
+206,4.0,Military,materials handler,14.75,Bachelor,united states marine forces reserve,penn state university,2
+197,3.0,Research,content creator,1.5,Bachelor,code and theory,parsons school of design the new school,2
+207,1.0,Primary/Secondary Education,substitute teacher,2.83,Master,chappaqua central school district,teachers college of columbia university,2
+293,3.0,Hospital & Health Care,teaching,11.5,Doctor,columbia university irving medical center,university of south florida,2
+159,4.0,Software Development,test analyst,22.0,empty,state street global advisors,city university of new york,2
+235,4.0,Research,research,2.66,Doctor,icahn school of medicine at mount sinai,icahn school of medicine at mount sinai,2
+332,4.0,Apparel & Fashion,customer,9.33,Bachelor,proper cloth,lim college,2
+177,1.0,Internet,stylist,0.25,Bachelor,free people,lim college,2
+310,3.0,Research,research,5.0,Doctor,howard hughes medical institute,eötvös loránd university,2
+223,1.0,Higher Education,nanny,11.41,Master,lincoln elementary school,misericordia university,2
+181,3.0,Banking,credit risk,13.41,Master,k2 integrity,columbia university in the city of new york,2
+164,2.0,Apparel & Fashion,artist,3.66,Bachelor,self employed,pratt institute,2
+166,5.0,Government Administration,strategic initiatives,4.0,Doctor,nyc department of parks recreation,university at albany school of business,2
+247,1.0,Information Technology & Services,machine engineer,5.25,Master,goodrx,new york university,2
+184,4.0,Environmental Services,quality,11.58,Master,als usa environmental formerly york analytical,wright state university,2
+197,1.0,Publishing,editorial,4.82,Bachelor,kensington publishing,university of florida,2
+162,3.0,Hospital & Health Care,salesforce consultant,7.33,Bachelor,johnson johnson,coursera,2
+335,1.0,Higher Education,flight attendant,19.94,Bachelor,american airlines,international tefl academy,2
+347,4.0,Biotechnology,consulting,12.5,Doctor,project hope,harvard medical school,2
+212,4.0,Staffing & Recruiting,housekeeper,12.0,Master,beacon hill,cleveland state university,2
+348,1.0,Restaurants,paralegal,2.75,empty,law offices of martin l lerner,fordham university,2
+327,2.0,Primary/Secondary Education,teaching,3.08,Bachelor,stanford university school of medicine,columbia university,2
+225,6.0,Hospital & Health Care,business strategy,3.33,MBA,freelance,columbia business school,2
+234,4.0,Public Relations & Communications,public affairs,7.41,Master,arch street communications,brandeis university,2
+227,1.0,Performing Arts,events,0.41,Master,new york city ballet,new york university,2
+246,1.0,Government Administration,phlebotomist,1.84,Bachelor,eye care associates of princeton,rutgers university new brunswick,2
+336,3.0,Financial Services,it business analyst,5.5,Bachelor,northwestern mutual,osun state university,2
+169,2.0,Hospital & Health Care,physician,1.34,empty,henry ford health,deccan college of medical sciences,2
+271,5.0,Marketing & Advertising,marketing consultant,9.08,Master,bristol myers squibb,health lens school of heamodialys technology stuɗies,2
+190,5.0,Financial Services,officer,15.33,MBA,bny mellon,st john s university,2
+215,1.0,Internet,web designer,3.17,Master,buffalo river events center,fashion institute of technology,2
+286,4.0,Financial Services,project finance,11.9,Master,weill cornell medicine,hunter college,2
+338,2.0,Hospital & Health Care,occupational therapist,15.5,Master,guttenberg school district,monmouth university,2
+243,1.0,Higher Education,journalist,5.34,Master,freelance,hunter college,2
+334,1.0,Higher Education,student worker,22.76,empty,commonpoint,stuyvesant high school,2
+192,1.0,Marketing & Advertising,community,2.67,Bachelor,roots marketing agency,rutgers university new brunswick,2
+342,2.0,Biotechnology,teaching,11.07,Doctor,the rockefeller university,new york university,2
+362,4.0,Information Technology & Services,delivery,10.92,MBA,surf,samara state university of economics,2
+154,5.0,Information Technology & Services,consultant project,30.0,Bachelor,ibm,new york university,2
+274,1.0,Human Resources,cna,0.67,High School,select human services inc,trinity college hartford,2
+173,4.0,Computer Software,business development consultant,4.5,Bachelor,1businessworld,long island university,2
+158,1.0,Design,education,15.99,Master,berkeley college,fashion institute of technology,2
+185,1.0,Staffing & Recruiting,medical,7.16,Bachelor,schweiger dermatology group,lafayette college,2
+182,2.0,Retail,substitute teacher,2.5,Bachelor,bergen community college,rutgers university,2
+312,3.0,Apparel & Fashion,design,1.92,empty,macy s,clark atlanta university,2
+222,3.0,Medical Practice,physician,5.67,Doctor,mount sinai health system,saba university school of medicine,2
+339,3.0,Hospital & Health Care,strategic,3.0,Master,memorial sloan kettering cancer center,duke university school of medicine,2
+358,4.0,Computer Software,consulting,1.08,Bachelor,intent hq ai company of the year,nyu tandon school of engineering,2
+271,6.0,Management Consulting,substitute teacher,16.91,Doctor,boston consulting group bcg,university of wisconsin madison,2
+382,3.0,Financial Services,programmer analyst,29.5,empty,bloomberg lp,university of waterloo,2
+247,1.0,Investment Management,spring,1.58,Bachelor,centersquare investment management,new york university,2
+281,1.0,Primary/Secondary Education,communications,0.42,empty,asian american arts alliance,the bronx high school of science,2
+304,3.0,Non-profit Organization Management,physician,7.16,Doctor,montefiore health system,umass chan medical school,2
+318,1.0,Sports,lifeguard,2.25,Bachelor,suny new paltz,suny new paltz,2
+220,3.0,Hospital & Health Care,clinical,13.16,Doctor,nyu langone health,capella university,2
+157,1.0,Higher Education,teaching,2.58,Bachelor,ccny grove school of engineering,the city college of new york,2
+256,1.0,Information Technology & Services,teaching,0.08,Bachelor,google,baruch college,2
+230,3.0,Marketing & Advertising,photo,0.08,Master,the working assembly,school of visual arts,2
+231,1.0,Renewables & Environment,student worker,6.09,Bachelor,nyc department of buildings,barnard college,2
+394,2.0,Restaurants,social media,4.67,Bachelor,delta zeta sorority,university of rhode island,2
+276,1.0,Design,social media marketing,1.91,Bachelor,hype audio hub,new york university,2
+250,1.0,Events Services,event,0.5,Bachelor,anm comms,fashion institute of technology,2
+182,5.0,Government Administration,education,5.5,Bachelor,alliance for positive change,the city college of new york,2
+229,1.0,Architecture & Planning,makeup artist,6.08,Bachelor,maybelline new york,fordham university,2
+184,1.0,Management Consulting,nanny,0.17,empty,wyckoff family ymca,penn state university,2
+259,1.0,Computer Software,teaching,0.66,empty,nyu tandon school of engineering,nyu tandon school of engineering,2
+312,4.0,E-learning,student,6.33,Doctor,delta theta phi law fraternity international,touro university jacob d fuchsberg law center,2
+405,4.0,Management Consulting,data scientist,5.49,Master,ekimetrics,edhec business school,2
+249,3.0,Banking,realtor,7.33,Bachelor,banco bradesco,seton hall university,2
+198,2.0,Fine Art,graphic design,4.91,Master,heritage auctions,sciences po,2
+282,3.0,Research,research,13.17,Doctor,columbia university in the city of new york,pontificia universidad católica de chile,2
+288,2.0,Government Administration,research analyst,11.16,Master,nyc department of health and mental hygiene,university of california san francisco,2
+215,1.0,Medical Practice,optician,1.17,High School,texas state optical tso,new york university,2
+166,1.0,Computer Software,human resources administrator,3.41,Bachelor,jcdecaux,binus university,2
+152,2.0,Information Technology & Services,engineer,3.17,Bachelor,proautomated,the college of new jersey,2
+216,1.0,Insurance,digital account,13.75,Bachelor,berkshire hathaway guard insurance companies,front range community college,2
+283,6.0,Banking,systems architect,26.91,empty,santander corporate investment banking,universidad de la salle,2
+307,4.0,Marketing & Advertising,media planner,8.92,Bachelor,itn networks,penn state university,2
+213,4.0,Performing Arts,artist,1.5,empty,la scène watteau théâtre de nogent sur marne,ailey,2
+201,1.0,Museums & Institutions,ambassador,6.0,High School,japan us friendship comission,wesleyan university,2
+243,5.0,Financial Services,recruitment,1.84,Bachelor,usc core consulting group,university of southern california,2
+162,2.0,Accounting,social worker,10.5,MBA,queens college,zicklin school of business,2
+298,5.0,Hospital & Health Care,substitute teacher,21.75,Doctor,medachieve,touro college of osteopathic medicine,2
+409,1.0,Performing Arts,teacher,4.43,Bachelor,sagittarian spin,pitzer college,2
+165,6.0,Information Technology & Services,business systems analyst,2.0,empty,wells fargo,st john s university the peter j tobin college of business,2
+164,1.0,Retail,retail salesperson,0.0,Bachelor,once upon a child randolph,fashion institute of technology,2
+239,1.0,Individual & Family Services,research,8.0,Master,columbia school of social work,columbia school of social work,2
+316,2.0,Financial Services,compliance analyst,9.33,Bachelor,bayview asset management llc,princeton university,2
+293,4.0,Retail Apparel and Fashion,production,6.0,empty,tory burch,university of scranton,2
+309,1.0,Research,teaching,0.25,High School,temple beth el early childhood center,university of wisconsin madison,2
+197,2.0,Research,researcher,6.51,Doctor,nyu langone health,université rennes 2,2
+286,2.0,Research,research scientist,10.83,Doctor,nyu langone health,université paris saclay,2
+262,1.0,Marketing & Advertising,marketing coordinator,4.33,Bachelor,optimum,s i newhouse school of public communications at syracuse university,2
+241,5.0,Hospital & Health Care,physician,7.5,Doctor,scribeamerica,joan sanford i weill medical college of cornell university,2
+348,1.0,Law Practice,law,10.75,Bachelor,polsinelli,rutgers university newark,2
+348,5.0,Financial Services,credit risk,13.01,MBA,natixis corporate investment banking,rutgers business school,2
+351,2.0,Hospital & Health Care,statistician,5.42,Master,memorial sloan kettering cancer center,johns hopkins bloomberg school of public health,2
+332,4.0,Hospital & Health Care,clinical,3.5,Master,nyu langone health,sarah lawrence college,2
+333,4.0,Financial Services,loss mitigation,21.16,Bachelor,open to new opportunity,stony brook university,2
+307,3.0,Information Technology & Services,technical project,27.5,Bachelor,hypr the identity assurance company,rutgers university,2
+285,3.0,Computer Software,sales account,0.84,Bachelor,self employed,federal university calabar,2
+270,4.0,Financial Services,campus ambassador,4.24,Bachelor,alpfa columbia university,barnard college,2
+194,1.0,Computer Software,web designer,0.33,Bachelor,la cima elementary charter school,nyu tandon school of engineering,2
+262,5.0,Information Technology & Services,data architect,18.34,Bachelor,slalom,vellore institute of technology,2
