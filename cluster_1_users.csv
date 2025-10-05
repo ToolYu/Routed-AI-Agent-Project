@@ -1,0 +1,1252 @@
+numconnections,seniority,currentindustry,mapped_role,total_experience_years,highest_degree,company_cleaned,campus_cleaned,cluster_id
+500,5.0,Marketing & Advertising,media relations,7.0,Bachelor,razorfish,texas christian university,1
+439,5.0,Entertainment Providers,producer,4.75,Bachelor,adolescent,parsons school of design the new school,1
+500,5.0,Financial Services,directors,27.0,Bachelor,kinsale capital advisors,michigan state university,1
+500,5.0,Marketing & Advertising,online,6.75,Bachelor,inspiren,pitzer college,1
+500,5.0,Musicians,digital media,21.25,Bachelor,wpp media,state university of new york maritime college,1
+500,5.0,Book and Periodical Publishing,writer,24.17,Bachelor,penguin random house,wingate college,1
+500,4.0,Design Services,artist,9.58,Bachelor,parsons school of design the new school,nanyang technological university,1
+500,2.0,Photography,photographer,14.24,Bachelor,redux pictures,hunter college,1
+500,5.0,Events Services,account sales,16.41,Bachelor,navan,university of wisconsin madison,1
+500,5.0,Public Relations & Communications,public affairs,12.41,Bachelor,arena,american university,1
+494,2.0,Higher Education,journalist,10.25,Bachelor,new york film academy,ramapo college of new jersey,1
+500,5.0,Computer Software,editor,17.0,Bachelor,fresco,the culinary institute of america,1
+500,5.0,Construction,project engineer,11.16,Bachelor,suffolk construction,new jersey institute of technology,1
+500,5.0,Financial Services,investment,29.0,Bachelor,credit suisse,nyu stern school of business,1
+500,6.0,Financial Services,investment,7.83,Bachelor,acre,tulane university a b freeman school of business,1
+394,1.0,Writing & Editing,content,37.51,Bachelor,mighty scribes,gettysburg college,1
+500,1.0,Higher Education,teaching,14.4,Bachelor,yale chemistry department,yale university,1
+500,2.0,Hospital & Health Care,clinical,3.84,Bachelor,bayada home health care,seton hall university,1
+500,2.0,Higher Education,directors,3.42,Bachelor,stuorg smith college investment club,smith college,1
+500,6.0,Computer Software,artist,3.25,Bachelor,the dinner table,george mason university,1
+500,5.0,Information Technology & Services,marketing representative,3.58,Bachelor,ibm,the university of texas at san antonio,1
+500,1.0,Marketing & Advertising,marketing representative,6.33,Bachelor,playfly sports,university of connecticut,1
+437,3.0,Motion Pictures & Film,model,10.65,Bachelor,freelance,montclair state university,1
+500,2.0,Design,production artist,16.24,Bachelor,aruliden,pratt institute,1
+500,3.0,Financial Services,broker,22.0,Bachelor,better business bureau,nyu stern school of business,1
+500,3.0,Entertainment,video editor,13.83,Bachelor,hat trick productions,hofstra university,1
+500,5.0,Financial Services,strategist,4.0,Bachelor,bloomberg,northeastern university,1
+500,2.0,Financial Services,investor relations,4.58,Bachelor,goldman sachs,texas mccombs school of business,1
+500,5.0,Non-profit Organizations,writer,4.42,Bachelor,bob woodruff foundation,drexel university,1
+500,4.0,Accounting,tax preparer,15.1,Bachelor,arab american family support center,georgia state university j mack robinson college of business,1
+500,2.0,Insurance,equity,3.17,Bachelor,macquarie group,university of south carolina,1
+500,4.0,Hospitals and Health Care,physician,7.82,Bachelor,weill cornell medicine,tufts university school of medicine,1
+396,2.0,Financial Services,bank,2.34,High School,merrill lynch,bucknell university,1
+445,3.0,Broadcast Media Production and Distribution,producer,21.58,Bachelor,cbs news,duke university,1
+500,3.0,Insurance,account,9.91,Bachelor,alliant insurance services,pace university,1
+500,1.0,Broadcast Media,journalist,8.75,Bachelor,fox corporation,nyu school of professional studies,1
+500,3.0,Financial Services,economist,3.17,Bachelor,citrin cooperman,university of georgia terry college of business,1
+451,7.0,Motion Pictures & Film,officer,0.42,Bachelor,this is global limited,mercy college,1
+500,2.0,Software Development,software engineering,4.25,Bachelor,grubhub,vanderbilt university,1
+500,5.0,Accounting,audit,15.73,Bachelor,deloitte,umn carlson school of management,1
+417,3.0,Computer Software,software engineer,8.67,Bachelor,carrot fertility,general assembly,1
+415,1.0,Museums & Institutions,teacher,1.0,Bachelor,topical cream,bates college,1
+500,5.0,Financial Services,consulting,6.99,Bachelor,boston consulting group bcg,claremont mckenna college,1
+500,2.0,Medical Practice,clinical research,1.0,Bachelor,columbia university irving medical center,cornell university,1
+500,7.0,Non-profit Organization Management,directors,25.92,Bachelor,food bank for new york city,bard college,1
+500,6.0,Investment Management,investment,33.09,Bachelor,five arrows,cornell johnson graduate school of management,1
+500,3.0,Financial Services,ambassador,3.17,Bachelor,jpmorgan chase co,marist college,1
+500,3.0,Financial Services,portfolio,5.75,empty,j p morgan,trinity college hartford,1
+459,1.0,Performing Arts,stage,21.31,Bachelor,walnut street theatre,penn state university,1
+500,3.0,Staffing & Recruiting,recruitment consultant,4.84,Bachelor,selby jennings,university of richmond robins school of business,1
+484,3.0,Investment Banking,strategic planning,2.17,Bachelor,nbcuniversal media llc,new york university leonard n stern school of business,1
+500,6.0,Financial Services,investment banking,15.5,Bachelor,tradeweb,bates college,1
+500,5.0,Computer Software,campaign,4.08,Bachelor,adobe,binghamton university school of management,1
+453,2.0,Hospital & Health Care,paramedic,3.0,Bachelor,us army,rutgers university,1
+500,4.0,Wellness and Fitness Services,underwriting,8.33,Bachelor,tokio marine hcc specialty group,university at albany,1
+500,7.0,Investment Management,wealth,23.0,Bachelor,frisch financial group inc,binghamton university school of management,1
+500,4.0,Public Relations & Communications,directors,9.58,Bachelor,national business disability council nbdc at the viscardi center,university of north carolina wilmington,1
+500,5.0,Advertising Services,creative,31.17,Bachelor,tag,university of hartford,1
+500,4.0,Financial Services,investment consultant,12.34,Bachelor,salesforce,rutgers university,1
+469,5.0,IT Services and IT Consulting,ambassador,8.0,Bachelor,meta,university of georgia terry college of business,1
+500,2.0,Software Development,software engineering,7.26,Bachelor,southwest airlines,texas a m university,1
+411,2.0,Retail Apparel and Fashion,design consultant,8.83,Bachelor,g iii apparel group,syracuse university,1
+417,5.0,Writing and Editing,copywriter,14.99,Bachelor,rutgers university,university of kansas,1
+500,5.0,Banking,investment,9.34,Bachelor,community capital technology cct,hobart and william smith colleges,1
+500,1.0,Judiciary,security guard,3.67,Bachelor,village of oyster bay cove ny,yale university,1
+500,2.0,Financial Services,equity analyst,3.17,Bachelor,cfa institute,questrom school of business boston university,1
+500,4.0,Management Consulting,financial consultant,9.25,Bachelor,protiviti,st john s university,1
+500,5.0,Marketing & Advertising,editor,6.25,Bachelor,rumpapi,the university of the west indies cave hill campus,1
+500,4.0,Management Consulting,portfolio analyst,7.0,Bachelor,kpmg us,northeastern university,1
+500,4.0,Financial Services,strategy analyst,4.33,Bachelor,akamai technologies,boston university questrom school of business,1
+474,1.0,Public Relations and Communications Services,sales customer service,4.16,Bachelor,halsbrook inc,drexel university,1
+421,1.0,Research,teaching,3.5,Bachelor,weill cornell medicine,university of chicago,1
+500,1.0,Business Consulting and Services,user researcher,7.49,Bachelor,seattle cancer care alliance,brown university,1
+500,4.0,Financial Services,law,6.51,Bachelor,thermo fisher scientific,university of north carolina at chapel hill,1
+500,4.0,Public Relations & Communications,communication,7.75,Bachelor,planned parenthood federation of america,hofstra university,1
+500,2.0,Investment Banking,investment banking analyst,10.06,Bachelor,evercore,binghamton university school of management,1
+359,7.0,Investment Management,financial officer,26.1,Bachelor,dws group,new york university,1
+500,5.0,Advertising Services,creative,12.83,Bachelor,work co,university of pittsburgh,1
+500,2.0,Software Development,software engineering,5.59,Bachelor,jane street,princeton university,1
+500,5.0,Banking,consulting,28.26,Bachelor,further advisory,america s community bankers national school of banking,1
+500,4.0,Information Technology & Services,business development consultant,25.91,Bachelor,courier health,emory university,1
+500,7.0,Computer Software,loan officer,41.66,Bachelor,maverick lending solutions llc,wake forest university,1
+500,3.0,Wholesale,product analyst,6.34,Bachelor,bj s wholesale club,city tech cuny,1
+500,3.0,Investment Banking,equity analyst,7.75,Bachelor,j p morgan,university of leeds,1
+495,2.0,Real Estate,analyst,0.58,Bachelor,legends equity group,rutgers business school,1
+500,2.0,Financial Services,equity analyst,9.74,Bachelor,td securities,babson college,1
+500,3.0,Information Technology & Services,contributor,4.41,Bachelor,nielseniq,rutgers university new brunswick,1
+500,4.0,Accounting,audit,8.16,Bachelor,loews hotels co,rutgers business school,1
+500,4.0,Executive Offices,marketing operations,17.57,Bachelor,persona,ucla,1
+485,2.0,Architecture and Planning,design consultant,5.0,Bachelor,ramsa robert a m stern architects,the cooper union for the advancement of science and art,1
+500,2.0,Accounting,audit,9.0,Bachelor,stonepeak,high point university,1
+500,5.0,Advertising Services,creative,13.57,Bachelor,biplane media,american university,1
+500,5.0,Advertising Services,advertising,22.92,Bachelor,matte projects,university of california berkeley,1
+500,4.0,Apparel & Fashion,creative,3.75,Bachelor,grace chen couture,parsons school of design the new school,1
+500,2.0,Architecture & Planning,teaching,2.67,High School,armour unsderfer engineering inc p s,princeton university,1
+500,7.0,Information Technology & Services,directors,5.92,Bachelor,green quotient solutions,the college of new jersey,1
+500,4.0,Computer Software,social media,19.57,Bachelor,salesforce,new york university,1
+340,5.0,Banking,accounting,7.09,Bachelor,sumitomo mitsui banking corporation smbc group,queens college,1
+500,5.0,Online Audio and Video Media,creative,16.67,Bachelor,resolute digital,berklee college of music,1
+500,3.0,Computer Software,marketing communications,14.0,Bachelor,a b creative studio,university of minnesota twin cities,1
+500,3.0,Online Audio and Video Media,marketing consultant,20.75,Bachelor,pinterest,university of melbourne,1
+500,3.0,Food Production,business analyst,2.5,Bachelor,mckinsey company,the wharton school,1
+500,4.0,Hospital & Health Care,strategic account,33.17,Bachelor,informatica,university of bridgeport,1
+500,4.0,Advertising Services,public relations,11.67,Bachelor,nyu langone health,new york university,1
+500,3.0,Sports,teaching,7.33,Bachelor,major league baseball mlb,columbia university in the city of new york,1
+500,3.0,Logistics & Supply Chain,marketing representative,3.58,Bachelor,mrs baking distribution corp,david b falk college of sport human dynamics at syracuse university,1
+500,5.0,IT Services and IT Consulting,tax preparer,12.17,Bachelor,fitch ratings,rutgers university,1
+500,6.0,Hospitals and Health Care,physician,2.83,Bachelor,american anesthesia partners,jacobi medical center,1
+500,5.0,Entertainment Providers,creative,19.41,Bachelor,amc networks,school of visual arts,1
+500,5.0,Venture Capital & Private Equity,financial services,12.75,Bachelor,cliffside capital management,monmouth university,1
+500,7.0,Media Production,model,20.0,Bachelor,stylelikeu,connecticut college,1
+441,2.0,Internet,sales marketing coordinator,9.18,Bachelor,career break,cornell university,1
+454,3.0,Financial Services,credit analyst,21.83,Bachelor,freelance,orta doğu teknik üniversitesi middle east technical university,1
+500,3.0,Chemical Manufacturing,project engineering,12.58,Bachelor,air water inc,new jersey institute of technology,1
+500,7.0,Non-profit Organizations,communications,17.49,Bachelor,iconiq capital,new york university,1
+500,1.0,Publishing,social media,24.25,Bachelor,roar forward,new york university,1
+500,4.0,Hospital & Health Care,clinical,8.75,Bachelor,wyckoff heights medical center,ucl,1
+500,2.0,Real Estate,financial,17.0,Bachelor,edward jones,eastern connecticut state university,1
+500,4.0,Hospitals and Health Care,strategist,9.42,Bachelor,kantar,university of north carolina at chapel hill,1
+500,7.0,Financial Services,financial officer,12.5,Bachelor,sabby capital,rensselaer polytechnic institute,1
+476,3.0,Marketing & Advertising,copywriter,9.57,Bachelor,fcb health new york an ipg health company,penn state university,1
+500,4.0,Marketing & Advertising,business development representative,16.41,Bachelor,linkedin,uc3m universidad carlos iii de madrid,1
+397,4.0,Human Resources,artist,20.56,Bachelor,alliance abroad group,optimize,1
+499,4.0,Research Services,mechanical design engineer,12.42,Bachelor,aurora flight sciences,princeton university,1
+500,2.0,Financial Services,relationship,23.09,Bachelor,axis capital,fairleigh dickinson university,1
+500,2.0,Apparel & Fashion,shopper,15.5,Bachelor,gap,indiana university bloomington,1
+500,5.0,Financial Services,wealth,14.74,Bachelor,fidelity investments,west virginia university,1
+500,6.0,Hospital & Health Care,physician,12.93,Bachelor,lehigh valley health network,carnegie mellon university,1
+500,2.0,Real Estate,realtor,3.24,Bachelor,the corcoran group,university of virginia,1
+500,1.0,Design,graphic design,10.67,Bachelor,nyc department of health and mental hygiene,general assembly,1
+500,4.0,Advertising Services,public relations,8.16,Bachelor,grow therapy,penn state university,1
+500,6.0,IT Services and IT Consulting,capital markets,26.67,Bachelor,bmo capital markets,the college of new jersey,1
+409,5.0,IT Services and IT Consulting,strategic,12.25,Bachelor,proteli llc,university of maryland college park,1
+500,4.0,Financial Services,consulting,2.09,High School,mainshares,university of pennsylvania,1
+500,5.0,Financial Services,resident,6.34,Bachelor,ares management corporation,zicklin school of business,1
+500,3.0,Software Development,software engineer,8.33,Bachelor,gemini,university of waikato,1
+500,5.0,Events Services,events,35.0,Bachelor,institutional investor,franklin marshall college,1
+500,1.0,Higher Education,nanny,8.84,Bachelor,jag physical therapy,quinnipiac university,1
+413,5.0,IT Services and IT Consulting,systems analyst,41.92,Bachelor,northwell health,brooklyn college,1
+500,5.0,Government Administration,coordinator,15.67,Bachelor,nyc department of parks recreation,hunter college,1
+500,3.0,Marketing & Advertising,social media marketing,17.75,Bachelor,freelance,university of southern california,1
+500,4.0,Venture Capital & Private Equity,investment,7.58,Bachelor,new enterprise associates nea,american university of kuwait auk,1
+470,5.0,Political Organization,journalist,5.75,Bachelor,yale undergraduate prison project,yale university,1
+500,6.0,International Affairs,writer,8.42,Bachelor,one for justice,brown university,1
+500,2.0,Events Services,host,7.57,Bachelor,don t tell comedy,syracuse university maxwell school,1
+500,4.0,Computer Software,strategist,10.57,Bachelor,horizon media,fullstack academy,1
+370,1.0,Financial Services,research,3.33,Bachelor,five rings,columbia university in the city of new york,1
+500,1.0,Advertising Services,creative,46.75,Bachelor,arc worldwide,the creative circus,1
+472,1.0,Motion Pictures & Film,video editor,14.67,Bachelor,hbo,hofstra university,1
+500,6.0,Marketing & Advertising,digital marketing,10.67,Bachelor,kinesso,northeastern university,1
+500,1.0,Apparel & Fashion,social media marketing,8.59,Bachelor,hwp insurance,florida international university,1
+500,4.0,"Technology, Information and Internet",social media,6.5,Bachelor,optimizely,san francisco state university,1
+500,2.0,Luxury Goods & Jewelry,marketing representative,4.75,Bachelor,chloé,parsons school of design the new school,1
+500,5.0,Marketing & Advertising,creative,26.66,Bachelor,dream job studios,the art institutes,1
+500,5.0,Advertising Services,sales marketing,9.66,Bachelor,fitch solutions,rochester institute of technology,1
+500,4.0,Consumer Services,consumer marketing,8.08,Bachelor,uber,the george washington university school of business,1
+500,5.0,Computer Software,media relations,10.84,Bachelor,linkedin,middlebury college,1
+500,5.0,Computer Software,business analyst,4.58,Bachelor,m t bank,university at buffalo,1
+500,6.0,Information Technology & Services,human resources consultant,12.84,Bachelor,mercer,cornell university,1
+500,4.0,Government Relations Services,communication,8.67,Bachelor,waikato regional council,university of colorado boulder,1
+500,5.0,Food Production,network administrator,23.75,Bachelor,community foodbank of new jersey,virginia union university,1
+500,1.0,Publishing,journalist,5.5,Bachelor,foreign affairs magazine,barnard college,1
+500,2.0,Financial Services,compliance analyst,2.17,Bachelor,millennium,university of michigan,1
+500,5.0,Information Services,strategic,5.0,Bachelor,bmc group inc,university of washington,1
+500,4.0,Retail,hris,10.0,Bachelor,nissan motor corporation,rajiv gandhi prodyogiki vishwavidyalaya,1
+500,5.0,Investment Banking,equity,8.67,Bachelor,mgg investment group lp,university of virginia,1
+473,2.0,Financial Services,research analyst,4.08,Bachelor,bank of america merrill lynch,harvard university,1
+500,6.0,Advertising Services,marketing consultant,25.59,Bachelor,doceree,university at albany suny,1
+500,6.0,Advertising Services,consumer marketing,22.5,Bachelor,kinesso,miami university,1
+500,4.0,Investment Management,equity,7.59,Bachelor,alpine investors,university school of milwaukee,1
+350,1.0,Non-profit Organization Management,food service worker,5.99,Bachelor,pelham country club,cornell university,1
+500,5.0,Marketing & Advertising,digital,24.75,Bachelor,merkle,university of louisville,1
+489,5.0,Financial Services,ambassador,8.0,Bachelor,new york institute of finance,berkeley college new york,1
+424,5.0,Retail,merchandising,16.25,Bachelor,story nyc,quinnipiac university,1
+500,3.0,Law Enforcement,supply chain coordinator,5.41,Bachelor,new york city police department,karunya institute of technology and sciences,1
+500,4.0,Financial Services,equity,9.5,Bachelor,goldman sachs,the institute of chartered accountants of india,1
+500,6.0,IT Services and IT Consulting,services consultant,41.83,Bachelor,michael p terracino llc,st john s university,1
+500,6.0,Executive Offices,strategic,45.0,Bachelor,media horizons,kent state university,1
+500,3.0,Financial Services,equity analyst,5.92,Bachelor,ares management corporation,wake forest university,1
+500,5.0,Financial Services,investment analyst,5.67,Bachelor,chobani,washington university in st louis,1
+500,1.0,Writing & Editing,teaching,4.68,Bachelor,brown university,brown university,1
+500,4.0,Media Production,video editor,7.23,Bachelor,last week tonight with john oliver,molloy college,1
+500,1.0,Legal Services,teaching,1.92,Bachelor,new york university school of law,new york university school of law,1
+494,6.0,Marketing & Advertising,advertising,2.25,Bachelor,carat,st thomas aquinas college,1
+500,7.0,Investment Management,content creator,8.0,Bachelor,accelerate investors,texas mccombs school of business,1
+490,3.0,Public Relations & Communications,tech support,5.58,Bachelor,hunter,marist college,1
+500,2.0,Consumer Goods,marketing sales,8.25,Bachelor,belly armor,new york university,1
+447,1.0,Music,public relations,13.5,Bachelor,congregation b nai israel millburn nj,cornell university,1
+319,5.0,Book and Periodical Publishing,writer,32.0,Bachelor,purple pen college essay advisory,new york university,1
+500,6.0,Retail,strategic sourcing,14.83,Bachelor,fortune 500 companies various,penn state university,1
+396,1.0,Hospital & Health Care,cna,1.82,Bachelor,wyckoff heights medical center,st francis college,1
+500,3.0,Non-profit Organization Management,physician,12.0,Bachelor,small door,cornell university college of veterinary medicine,1
+500,5.0,Human Resources,public relations,9.17,Bachelor,zocdoc,university of miami,1
+500,3.0,Investment Banking,equity research,6.16,High School,barclays,georgetown university,1
+500,2.0,Financial Services,ambassador,8.5,MBA,us faster payments council,university of pittsburgh katz graduate school of business,1
+500,5.0,Banking,commercial banking,6.0,Bachelor,dnb bank,hofstra university,1
+500,3.0,Financial Services,interaction designer,9.83,Bachelor,metropolitan partners group,duke university,1
+500,6.0,Public Relations & Communications,digital,16.25,Bachelor,nike communications inc,william mary,1
+500,4.0,Musicians,social media,16.25,Bachelor,slang music,university of central florida,1
+500,6.0,Entertainment Providers,treasurer,18.42,Bachelor,top drwr,zicklin school of business,1
+500,7.0,Financial Services,capital markets,31.58,Bachelor,16rock asset management,watchung regional high school,1
+500,5.0,Advertising Services,marketing coordinator,12.25,Bachelor,revolt,susquehanna university,1
+393,3.0,Computer Software,research,5.83,Bachelor,capital one,university of georgia terry college of business,1
+500,3.0,Management Consulting,lecturer,11.48,Bachelor,oliver wyman,dartmouth college,1
+500,5.0,Management Consulting,compliance officer,24.26,Bachelor,oliver wyman,association of certified fraud examiners,1
+500,2.0,Financial Services,tax preparer,12.25,Bachelor,guggenheim partners,marian university indianapolis,1
+500,5.0,Photography,photographer,4.33,Bachelor,philip nix,savannah college of art and design,1
+500,1.0,Media Production,editor,8.66,Bachelor,business insider,syracuse university,1
+500,2.0,Capital Markets,investment analyst,0.84,Bachelor,truist securities,penn state university,1
+500,4.0,Construction,construction project,15.58,Bachelor,holt construction corp,university of florida,1
+500,2.0,Computer Software,product,9.08,Bachelor,petal,harvard business school online,1
+500,2.0,Capital Markets,financial representative,3.16,Bachelor,jpmorgan chase co,seton hall university,1
+383,1.0,Education Management,actor,6.42,Bachelor,edinburgh festival fringe,university of central florida,1
+500,2.0,Financial Services,ambassador,2.34,Bachelor,mcgraw hill,university at buffalo,1
+500,1.0,Government Administration,lifeguard,2.91,Bachelor,cert division at the software engineering institute,the george washington university,1
+461,2.0,Media Production,producer,6.42,Bachelor,npr,new york university,1
+485,2.0,Cosmetics,copywriter,5.59,Bachelor,l oréal,penn state university,1
+500,6.0,Management Consulting,directors,7.67,Bachelor,henningson black level,lucerne university of applied sciences and arts,1
+500,1.0,Media Production,editor,16.41,Bachelor,daily kos,the george washington university,1
+500,6.0,Financial Services,investor relations,27.25,Bachelor,moomoo,university of pennsylvania the wharton school,1
+500,6.0,Insurance,insurance agent,20.67,Bachelor,metlife,the university of connecticut,1
+500,7.0,Travel Arrangements,directors,45.66,Bachelor,judy perl worldwide travel,the university of texas at austin,1
+500,5.0,Financial Services,investment,10.66,Bachelor,voice wealth management,harvard university,1
+500,5.0,Government Administration,communications,19.91,Bachelor,office of the queens borough president,queens college,1
+500,5.0,Entertainment Providers,actor,10.33,Bachelor,moviemaker film program,syracuse university,1
+500,4.0,Public Relations & Communications,account coordinator,12.08,Bachelor,karla otto,syracuse university s i newhouse school of public communications,1
+500,7.0,Market Research,marketing officer,23.08,Bachelor,brightside research solutions,providence college,1
+396,4.0,Management Consulting,scientific,7.16,Bachelor,accenture,cornell university,1
+500,3.0,Computer Software,talent acquisition coordinator,11.83,Bachelor,samsung ads,monroe university,1
+500,1.0,Music,actor,8.33,MBA,metropolitan opera,quantic school of business and technology,1
+500,2.0,Real Estate,brokerage,5.68,Bachelor,jpmorgan chase co,rutgers business school,1
+500,5.0,Higher Education,computer,15.0,Bachelor,braze,city university of new york college of staten island,1
+500,5.0,Advertising Services,digital media,19.41,Bachelor,liftoff mobile,fairleigh dickinson university,1
+500,5.0,Financial Services,nanny,4.17,Bachelor,northwestern mutual,suny new paltz,1
+500,7.0,"Technology, Information and Internet",software architect,26.16,Bachelor,verndale,boston college,1
+460,2.0,Higher Education,host,29.81,Bachelor,suffolk county community college,five towns college,1
+500,1.0,Insurance,underwriting,9.83,Bachelor,sompo,vassar college,1
+500,6.0,Retail Apparel and Fashion,creative,10.0,Bachelor,negative inc,university of pennsylvania,1
+500,2.0,Financial Services,investment banking analyst,9.66,Bachelor,j p morgan,dartmouth college,1
+500,5.0,Higher Education,substitute teacher,7.42,Bachelor,mathnasium the math learning center,rochester institute of technology,1
+500,5.0,Computer Software,talent,7.42,Bachelor,attio,university of virginia,1
+500,3.0,Computer Software,data scientist,3.0,High School,the graduate center city university of new york,james madison university,1
+500,5.0,Advertising Services,digital,21.25,Bachelor,mastercard,parsons school of design the new school,1
+500,6.0,Retail,strategist,13.33,Bachelor,parfums quartana,rutgers college,1
+500,4.0,Venture Capital and Private Equity Principals,ambassador,8.67,Bachelor,alixpartners,columbia university in the city of new york,1
+500,5.0,Entertainment,producer,10.84,Bachelor,macmillan audio,the ohio state university,1
+500,6.0,Higher Education,capital markets,23.75,Bachelor,capco,finra,1
+500,2.0,Computer Software,research,5.25,Bachelor,goldman sachs,columbia engineering,1
+500,5.0,Non-profit Organization Management,education,8.83,Bachelor,ndn collective,arizona state university,1
+500,3.0,Financial Services,tax preparer,5.34,Bachelor,celonis,auburn university harbert college of business,1
+456,5.0,Music,video editor,10.01,Bachelor,business insider,city university of new york hunter college,1
+396,1.0,Education Administration Programs,style,11.42,Bachelor,bergdorf goodman,barnard college,1
+436,1.0,Photography,artist,4.16,Bachelor,the lower eastside girls club of new york,new york university,1
+428,5.0,Design Services,graphic designer,8.91,Bachelor,the estée lauder companies inc,new jersey institute of technology,1
+500,4.0,Design,production,13.49,Bachelor,bb props,new york institute of technology,1
+500,3.0,Financial Services,finance,3.16,Bachelor,faropoint,baruch college,1
+500,5.0,Marketing and Advertising,creative,9.51,Bachelor,ogilvy,the university of texas at austin,1
+500,6.0,"Technology, Information and Internet",creative,8.26,Bachelor,1638 digital,university of wales cardiff,1
+500,5.0,Apparel & Fashion,design,7.17,Bachelor,signal brands,north carolina state university,1
+424,5.0,Airlines and Aviation,strategy business development,26.5,Bachelor,conciel,washington university in st louis olin business school,1
+358,1.0,Internet,social media marketing,5.34,Bachelor,doximity,rutgers business school,1
+475,1.0,Financial Services,phlebotomist,6.34,Bachelor,knipper health,penn foster,1
+500,3.0,Higher Education,journalist,33.0,Bachelor,medforth global healthcare education,university of miami,1
+500,7.0,Hospital & Health Care,clinical,19.75,Bachelor,newyork presbyterian hospital,university of south carolina,1
+500,4.0,Apparel & Fashion,sales,18.67,Bachelor,ripple junction design co,laboratory institute of merchandising,1
+500,4.0,Consumer Goods,mergers acquisitions,21.08,Bachelor,designlab,georgetown university,1
+500,5.0,Advertising Services,creative,29.0,Bachelor,freelance,lee strasberg theatre institute,1
+372,3.0,Performing Arts,teacher,7.41,Bachelor,new york city center,university of michigan college of literature science and the arts,1
+500,6.0,Investment Management,wealth,18.67,Bachelor,magnus financial group llc,the american college of financial services,1
+500,3.0,Media Production,substitute teacher,13.43,Bachelor,natural resources defense council nrdc,allegheny college,1
+500,5.0,Banking,equity analyst,4.08,Bachelor,education growth partners,university of north carolina at chapel hill,1
+500,1.0,Broadcast Media,reporter,24.49,Bachelor,univision communications inc,university of havana,1
+500,6.0,Computer Software,web developer,38.83,Bachelor,nasa international space apps challenge,state university of new york college at plattsburgh,1
+500,7.0,Import & Export,investment,7.75,Bachelor,bidlyt,bentley university,1
+500,4.0,Computer Software,machine engineer,9.51,Bachelor,eliseai,university of rochester,1
+478,2.0,Performing Arts,production,17.5,Bachelor,avant gardner,state university of new york college at plattsburgh,1
+500,6.0,Political Organization,strategist,12.5,Bachelor,english immersion association,princeton university,1
+500,2.0,Mechanical Or Industrial Engineering,project engineer,4.59,Bachelor,jaros baum bolles,washington and lee university,1
+437,3.0,Design Services,small business,15.75,Bachelor,max steiner design,parsons school of design the new school,1
+500,2.0,Publishing,writer,3.75,Bachelor,condé nast,florida a m university,1
+500,6.0,IT Services and IT Consulting,major account,36.5,Bachelor,kyndryl,fairleigh dickinson university,1
+500,7.0,Financial Services,counselor,12.58,Bachelor,gradshot,columbia university,1
+500,2.0,Musicians,hostess,8.5,Bachelor,c3 presents,penn state university,1
+500,5.0,Entertainment Providers,digital media,13.67,Bachelor,warnermedia,saint john s university,1
+500,2.0,Non-profit Organizations,law,13.57,Bachelor,pa lante harlem inc,city university of new york school of law,1
+500,1.0,Real Estate,real estate,24.08,Bachelor,william pitt sotheby s international realty,new york university leonard n stern school of business,1
+500,5.0,Gambling & Casinos,marketing communications,19.74,Bachelor,rivalry com,swinburne university of technology,1
+448,5.0,Marketing & Advertising,creative,14.91,Bachelor,dotdash meredith,new york university,1
+500,7.0,Food and Beverage Services,directors,10.25,Bachelor,le botaniste,united business institute,1
+500,4.0,Marketing & Advertising,press,17.16,Bachelor,abbvie,friends academy,1
+500,2.0,Financial Services,lifeguard,4.08,Bachelor,nuveen a tiaa company,boston university,1
+467,3.0,Design Services,art,8.5,Bachelor,inizio evoke,university of illinois at chicago,1
+500,3.0,Staffing & Recruiting,relations,21.75,Bachelor,barclays,lafayette college,1
+500,6.0,Information Technology & Services,business development consultant,27.09,Bachelor,golfstripes,university of maryland global campus,1
+500,5.0,Banking,treasurer,9.51,Bachelor,crossboundary,the wharton school,1
+415,1.0,Media Production,producer,10.08,Bachelor,freelance,castleton university,1
+500,5.0,Software Development,business development,17.0,Bachelor,apply digital,indiana university kelley school of business,1
+500,2.0,Financial Services,equity analyst,5.51,Bachelor,morgan stanley,syracuse university martin j whitman school of management,1
+500,2.0,Advertising Services,brand ambassador,13.51,Bachelor,gymshark,university of bridgeport,1
+500,5.0,Entertainment,producer,18.0,Bachelor,keller noll,american university,1
+500,6.0,Financial Services,investment banking,13.0,Bachelor,kohlberg company,washington university in st louis,1
+500,6.0,Media Production,marketing communications,17.57,Bachelor,vydia,monmouth university,1
+391,5.0,Public Relations and Communications Services,market,2.83,Bachelor,buttonwood mementos llc,le moyne college,1
+500,4.0,Management Consulting,social,6.9,Bachelor,guidehouse,fordham university,1
+500,1.0,Broadcast Media,journalist,1.67,High School,news decoder,new york university,1
+449,3.0,Information Technology & Services,mechanical engineering,5.83,Bachelor,axens,university of michigan,1
+500,7.0,IT Services and IT Consulting,information officer,23.92,Bachelor,hofstra university,hofstra university,1
+449,2.0,Computer Software,software development engineer,9.34,Bachelor,amazon,university of cape town,1
+500,5.0,Apparel & Fashion,social media,14.41,Bachelor,l oréal,university of delaware,1
+500,6.0,Marketing & Advertising,media,6.66,Bachelor,publicis groupe,clark university,1
+500,3.0,Computer Software,software engineering,6.0,Bachelor,linkedin,university of southern california,1
+500,5.0,Retail,communications,20.0,Bachelor,the vitamin shoppe,vassar college,1
+395,5.0,Retail Apparel and Fashion,design,12.16,Bachelor,tory burch,fashion institute of technology,1
+500,5.0,Retail Apparel and Fashion,design,22.33,Bachelor,republic clothing group,purdue university,1
+500,4.0,Financial Services,product marketing,10.92,Bachelor,nayya,product school,1
+500,6.0,"Technology, Information and Internet",technical product,29.76,Bachelor,everyday health,general assembly,1
+500,2.0,Law Practice,law,30.92,Bachelor,new york botanical garden,harvard university,1
+500,6.0,Software Development,public relations,14.18,Bachelor,pubmatic,georgia college state university,1
+474,1.0,Education Management,substitute teacher,2.4,Bachelor,nyc department of education,hunter college,1
+500,5.0,Education Administration Programs,coordinator,2.0,Bachelor,bitty city players,duke university,1
+500,5.0,Venture Capital and Private Equity Principals,brand marketing,26.92,Bachelor,peppermill,university of pennsylvania,1
+365,2.0,Hospital & Health Care,clinical research,18.5,Bachelor,icon plc,pace university,1
+398,5.0,Computer Software,software engineering,5.25,Bachelor,github,duke university,1
+500,4.0,Advertising Services,brand ambassador,9.0,empty,instacart,university of delaware,1
+443,1.0,Writing and Editing,unemployed,19.23,Bachelor,gannett usa today network,monmouth university,1
+432,3.0,Public Relations and Communications Services,writer,7.4,Bachelor,self employed,hofstra university,1
+500,3.0,Hospitality,hospitality,18.26,Bachelor,hilton hotels resorts,university of miami,1
+395,2.0,Writing and Editing,leasing,28.17,Bachelor,metropolitan property services inc,colegio de san juan de letran,1
+500,3.0,Staffing & Recruiting,spring,9.75,Bachelor,daversa partners,lafayette college,1
+500,5.0,Media Production,communication,27.5,Bachelor,ogilvy,springboard,1
+500,3.0,Management Consulting,strategist,10.5,Bachelor,zeta charter schools,university of southern california,1
+500,4.0,Financial Services,equity analyst,7.33,Bachelor,boothbay fund management llc,baruch college,1
+500,1.0,"Health, Wellness & Fitness",trainer,20.58,Bachelor,lifetime fitness,indiana university southeast,1
+500,5.0,Retail Apparel and Fashion,buying,21.33,Bachelor,joe fresh,fashion institute of technology,1
+500,4.0,Advertising Services,equity analyst,23.58,Bachelor,capco,drexel university,1
+491,2.0,Civil Engineering,cad designer,5.92,Bachelor,skanska,the city university of new york,1
+500,6.0,Education Administration Programs,writer,38.83,Bachelor,breaking walls,the school of the arts institute of chicago,1
+500,6.0,Investment Management,investment,15.59,Bachelor,broad reach investment management llp,university of oxford,1
+500,1.0,Libraries,nanny,5.91,Bachelor,bogota public schools,montclair state university,1
+500,6.0,Computer Software,strategic,9.16,Bachelor,activate consulting,swarthmore college,1
+500,2.0,Retail,staffing,31.0,Bachelor,walmart global tech india,university of new orleans,1
+500,6.0,Advertising Services,creative,17.66,Bachelor,klick,boston college,1
+410,5.0,Cosmetics,marketing sales,17.5,Bachelor,basf,rutgers school of engineering,1
+500,2.0,Information Technology & Services,software engineering,11.92,Bachelor,blackrock,university of michigan,1
+500,7.0,"Technology, Information and Internet",contributor,21.34,Bachelor,founders factory,wellesley college,1
+500,3.0,Computer Software,public relations,2.92,Bachelor,rokt,zicklin school of business,1
+500,5.0,Broadcast Media,producer,14.0,Bachelor,blink productions llc,the american film institute,1
+391,6.0,Design,ux ui designer,8.75,Bachelor,goods gang,university of washington,1
+500,3.0,Banking,stack developer,7.41,Bachelor,sumitomo mitsui banking corporation,columbia university in the city of new york,1
+500,6.0,Software Development,software engineering,6.84,Bachelor,goldman sachs,university of maryland a james clark school of engineering,1
+500,2.0,Events Services,real estate broker,6.0,Bachelor,kwnyc,russian university of the performing arts,1
+500,5.0,Financial Services,data science,14.25,Bachelor,mastercard,rensselaer polytechnic institute,1
+500,5.0,Online Audio and Video Media,digital sales,29.41,Bachelor,liveramp,webster university,1
+500,5.0,Advertising Services,social media,8.67,Bachelor,cnc agency coffee n clothes,scripps college,1
+500,6.0,Advertising Services,user,36.99,Bachelor,omnicom health,purdue university,1
+500,6.0,Information Technology & Services,ambassador,8.33,Bachelor,kairos research,georgia state university,1
+500,4.0,Pharmaceutical Manufacturing,security,27.17,Bachelor,confidential,stanford university graduate school of business,1
+500,6.0,IT Services and IT Consulting,business architect,18.25,Bachelor,american express,texas mccombs school of business,1
+500,1.0,Retail,merchandise,3.08,Bachelor,ross stores inc,university of wisconsin madison,1
+500,6.0,Banking,sales account,9.41,Bachelor,gds group,university of sydney,1
+500,2.0,Apparel & Fashion,stylist,8.0,Bachelor,alice olivia,kent state university,1
+500,7.0,"Technology, Information and Internet",business developer,7.83,Bachelor,just bath vanities,new york university,1
+500,5.0,Capital Markets,investments,14.49,Bachelor,santander us capital markets,hobart and william smith colleges,1
+500,3.0,Higher Education,journalist,11.33,Bachelor,southern westchester boces,mount saint mary college,1
+500,4.0,Advertising Services,social media,9.5,Bachelor,samsung electronics america,fordham university,1
+500,5.0,Environmental Services,outside sales representative,24.58,Bachelor,rk environmental services llc,christopher newport university,1
+500,6.0,Retail,financial,10.58,Bachelor,american rental association,tulane university a b freeman school of business,1
+500,6.0,Real Estate,real estate,17.42,Bachelor,atlantic retail,boston university graduate school of management,1
+500,3.0,Professional Training and Coaching,education,22.58,Bachelor,publicspeaking nyc,hku hogeschool voor de kunsten utrecht,1
+500,5.0,Advertising Services,public relations,6.42,Bachelor,denzel white entertainment llc,state university of new york at binghamton,1
+500,1.0,Publishing,editor,14.91,Bachelor,harpercollins publishers,new york university,1
+420,2.0,Financial Services,spring,2.92,Bachelor,nuveen a tiaa company,wake forest university,1
+500,1.0,Medical Practice,crew,7.49,Bachelor,bristol myers squibb,penn state university,1
+500,5.0,Entertainment Providers,producer,16.34,Bachelor,admosis media group,ithaca college,1
+500,5.0,Graphic Design,creative,26.42,Bachelor,radar,university of washington,1
+500,3.0,Online Audio and Video Media,qa analyst,13.33,Bachelor,vimeo,hunter college,1
+500,4.0,Entertainment Providers,social media,11.75,Bachelor,adobe,new york university,1
+500,3.0,Construction,project controls,7.42,Bachelor,pavarini mcgovern,borough of manhattan community college,1
+500,1.0,Marketing & Advertising,content creator,1.0,Bachelor,icon america,the george washington university,1
+500,3.0,Financial Services,spring,3.41,Bachelor,bridgewater associates,harvard university,1
+500,3.0,IT Services and IT Consulting,solutions consultant,33.42,Bachelor,insight,penn state university,1
+452,1.0,Hospital & Health Care,nanny,3.59,Bachelor,heights and hills,unc gillings school of global public health,1
+387,6.0,Retail,brand ambassador,22.17,Bachelor,gravity road,the new school,1
+500,7.0,Public Relations and Communications Services,social media,8.41,Bachelor,taylor made connections,somerville academy,1
+500,5.0,Venture Capital & Private Equity,equity,4.83,Bachelor,blackstone,stanford university,1
+500,3.0,Computer Software,teaching,9.08,Bachelor,palantir technologies,yale university,1
+500,5.0,Advertising Services,marketing coordinator,13.84,Bachelor,pepsico,montclair state university,1
+464,1.0,Higher Education,teaching,4.75,High School,brown university,brown university,1
+500,5.0,Graphic Design,art,2.99,Bachelor,publicis groupe,school of the art institute of chicago,1
+500,2.0,Internet,innovation,5.0,Bachelor,luminary,vanderbilt university,1
+500,5.0,Graphic Design,creative,8.66,High School,jam3,gobelins paris,1
+500,1.0,Higher Education,study,6.16,Doctor,metropolitan transportation authority,stony brook university,1
+500,5.0,Investment Management,investment,6.99,Bachelor,goldman sachs,georgetown university,1
+338,6.0,Marketing & Advertising,account services,11.24,Bachelor,mei,the george washington university school of business,1
+447,5.0,Wholesale,procurement,2.41,Bachelor,h d sheldon co,middlebury college,1
+500,6.0,Retail,photographer,15.83,Bachelor,american express,harvard university,1
+500,4.0,Advertising Services,small business,7.15,Bachelor,brown eyed flower child,james madison university,1
+500,5.0,Writing & Editing,writer,9.75,Bachelor,snapchat videos,bard college,1
+425,1.0,Graphic Design,sales representative,7.84,Bachelor,ebb flow nyc,parsons school of design the new school,1
+347,4.0,Financial Services,investment banking,10.0,Bachelor,fortress investment group,hofstra university,1
+500,2.0,Online Media,social media,10.72,Bachelor,refinery29 inc,lim college,1
+500,4.0,Financial Services,equity,9.67,Bachelor,stone point capital,mcgill university,1
+500,3.0,Banking,wealth,4.0,High School,barclays corporate investment bank,dickinson college,1
+440,4.0,Banking,strategy consultant,9.67,Bachelor,citi,university at buffalo,1
+500,4.0,Information Technology & Services,center,3.34,Bachelor,costo wholesale,syracuse university,1
+500,5.0,Investment Banking,equity,9.58,Bachelor,castlelake,yale university,1
+500,3.0,Financial Services,marketing,14.0,Bachelor,stripe,montclair state university,1
+500,2.0,Financial Services,host,3.25,High School,citi,fullstack academy,1
+500,5.0,Accounting,investment banking,9.91,Bachelor,evercore,the university of chicago booth school of business,1
+500,6.0,Online Media,coo,24.59,Bachelor,long island computers technology,new york university,1
+500,2.0,Financial Services,relationship,7.75,Bachelor,bloomberg,east china normal university,1
+500,7.0,Financial Services,capital markets,17.91,Bachelor,julius technologies,the wharton school,1
+500,4.0,Government Relations Services,compliance officer,16.42,Bachelor,mms group,university at albany,1
+500,6.0,Computer Software,social media marketing,10.74,Bachelor,oddity,columbia university,1
+500,5.0,Banking,financial consultant,15.32,Bachelor,jpmorgan chase co,new york university,1
+500,4.0,Media Production,events,7.58,Bachelor,rilla,san francisco state university,1
+500,6.0,Management Consulting,investor relations,11.58,Bachelor,c street advisory group,s i newhouse school of public communications at syracuse university,1
+500,5.0,Computer Software,investment analyst,7.25,High School,uber,harvard university,1
+500,3.0,Computer Software,stack engineer,2.16,Bachelor,digital service at centers for medicare medicaid services cms,hunter college,1
+500,2.0,Information Technology & Services,social media marketing,2.0,MBA,real estate muses,startup ignition,1
+500,5.0,Government Administration,administrative officer,41.33,Bachelor,new york city housing authority nycha,various professional institutions,1
+500,5.0,Information Technology & Services,sales business development,34.17,Bachelor,pegasystems,montclair state university,1
+371,2.0,Entertainment,artist,12.75,Bachelor,you must be joking,university of michigan,1
+500,3.0,Software Development,database engineer,41.33,Bachelor,smc data systems,empire state university,1
+500,3.0,Marketing & Advertising,creative,10.42,Bachelor,rubidex,bard college,1
+500,3.0,Financial Services,investment analyst,0.42,Bachelor,morgan stanley,the honors college at florida international university fiu,1
+500,2.0,Sports,media,12.5,Bachelor,vision insights,miami university,1
+500,5.0,Marketing & Advertising,web designer,37.58,Bachelor,the fwa,school of visual arts,1
+500,5.0,Marketing & Advertising,digital media,16.5,Bachelor,paramount,seton hall university,1
+500,2.0,Venture Capital & Private Equity,capital markets,16.26,Bachelor,no,university of north carolina at chapel hill,1
+385,5.0,Hospitality,human resources coordinator,10.51,Bachelor,meta,california state university east bay,1
+500,1.0,Non-profit Organization Management,market research,3.66,Bachelor,koisra,parsons school of design the new school,1
+500,1.0,Apparel & Fashion,stylist,8.09,Bachelor,untuckit,marist university,1
+500,1.0,Non-profit Organization Management,journalist,6.26,Bachelor,the reach institute resource for advancing children s health,manhattan college,1
+414,4.0,Public Relations and Communications Services,public relations,11.24,Bachelor,future of food entrepreneurship program,florida international university,1
+462,2.0,Broadcast Media Production and Distribution,producer,30.65,Bachelor,the walt disney company,bard college,1
+372,3.0,Marketing & Advertising,digital sales,14.49,Bachelor,snap inc,university of technology sydney,1
+500,1.0,Online Media,social media,7.97,Bachelor,the wall street journal,northeastern university,1
+500,1.0,Non-profit Organization Management,teaching,4.91,Bachelor,governo de goiás,columbia university,1
+500,4.0,Public Relations and Communications Services,promotions,14.75,Bachelor,zeta global,pace university,1
+389,2.0,Translation & Localization,teacher,17.5,Bachelor,welcoize inc discover ready new york,dod information assurance awareness,1
+500,2.0,Apparel & Fashion,stylist,10.17,Associate,ashley stewart inc,the art institute of new york city,1
+500,6.0,Entertainment,content creator,29.42,Bachelor,sinclair broadcast group,indiana university of pennsylvania,1
+500,6.0,Logistics & Supply Chain,strategic,4.0,Bachelor,sovereign t limited,cornell university,1
+500,2.0,Banking,investment analyst,3.01,Bachelor,atlas sp partners,columbia university,1
+500,1.0,Sporting Goods Manufacturing,shop,28.57,Bachelor,pacsun,suny empire state college,1
+500,3.0,Computer Software,software engineering,5.58,Bachelor,namely,app academy,1
+421,5.0,Accounting,accounting,3.17,Bachelor,ey,lehigh university college of business,1
+500,3.0,Financial Services,research,8.33,Bachelor,ethic,university of toronto,1
+500,4.0,Investment Management,portfolio,17.33,Bachelor,alliancebernstein,university of pennsylvania,1
+500,3.0,Architecture & Planning,research,6.74,Bachelor,new york city economic development corporation,cornell university,1
+500,4.0,IT Services and IT Consulting,social media marketing,15.91,Bachelor,disney streaming,university of arizona,1
+500,1.0,Marketing & Advertising,social media,2.43,High School,révive skincare,northeastern university,1
+500,1.0,Hospitality,human resources coordinator,17.75,Bachelor,la maison du chocolat usa,niagara university,1
+500,5.0,Medical Equipment Manufacturing,strategic accounts,15.0,Bachelor,johnson johnson,st john s university jamaica ny,1
+500,2.0,Financial Services,finance,4.92,Doctor,jane street,university of michigan,1
+500,4.0,Advertising Services,consumer marketing,32.75,Bachelor,netflix,boston university,1
+500,4.0,Philanthropic Fundraising Services,community relations,19.41,Bachelor,colgate university,claremont colleges,1
+500,2.0,Investment Banking,credit analyst,3.58,Bachelor,tpg twin brook capital partners,rutgers university,1
+500,2.0,Higher Education,teacher,4.91,Bachelor,edu together,yellowbrick,1
+500,6.0,Financial Services,business developer,33.91,Bachelor,the cline group llc,duke university,1
+500,2.0,Marketing & Advertising,ambassador,9.83,Bachelor,grey,boston university,1
+500,2.0,Higher Education,reporter,15.14,Bachelor,sv academy,university of north dakota,1
+500,5.0,Marketing & Advertising,marketing representative,12.25,Bachelor,elevated e commerce,california state university sacramento,1
+500,1.0,Management Consulting,promotions,19.33,Bachelor,deloitte,tuskegee university,1
+500,3.0,Internet,social media,7.16,Bachelor,central synagogue,tel aviv university,1
+500,4.0,Book and Periodical Publishing,writer,12.51,Bachelor,celebrity corner,the george washington university,1
+500,4.0,International Affairs,writer,36.59,Bachelor,instituto interamericano de derechos humanos oficial,yale university,1
+500,5.0,IT Services and IT Consulting,solutions consultant,24.16,Bachelor,levrx technology inc,purdue university,1
+500,6.0,Financial Services,substitute teacher,9.0,Bachelor,ubs,vanderbilt university,1
+500,2.0,Real Estate,equity analyst,3.76,Bachelor,the blackstone group,university of pennsylvania the wharton school,1
+500,3.0,Financial Services,market research analyst,5.58,Bachelor,onepay,washington university in st louis olin business school,1
+500,4.0,Apparel & Fashion,recruiter,13.75,Bachelor,windsor resources,california state university northridge,1
+500,3.0,Software Development,development engineer,5.49,Bachelor,chainalysis inc,rochester institute of technology,1
+442,5.0,Photography,photographer,8.08,Bachelor,american photographic artists inc,stony brook university,1
+500,5.0,Non-profit Organizations,directors,15.66,Bachelor,bt müzik ve tiyatro kurs merkezi,the juilliard school,1
+500,3.0,Writing and Editing,editor,12.41,Bachelor,indagare,harvard business school online,1
+500,1.0,Financial Services,investment analyst,0.67,Bachelor,real power capital,nyu stern school of business,1
+500,5.0,Computer Software,merchandising,13.0,Bachelor,amazon,new york university,1
+500,1.0,Photography,photographer,2.0,Bachelor,world picture news,evergreen,1
+500,6.0,Apparel & Fashion,advertising,14.07,Bachelor,akens group,fashion institute of technology,1
+500,4.0,Software Development,software engineering,8.25,Bachelor,flatiron health,princeton university,1
+500,4.0,"Technology, Information and Internet",marketing consultant,0.67,Bachelor,instal,università degli studi di firenze,1
+500,1.0,Writing and Editing,reporter,6.83,Bachelor,the wall street journal,university of pennsylvania,1
+500,3.0,Computer Software,software engineering,9.82,Bachelor,goodleap,eastern nazarene college,1
+500,5.0,Financial Services,ambassador,5.83,Bachelor,citi,bentley university,1
+500,2.0,Entertainment Providers,writer,13.73,Bachelor,hats ladders,ithaca college,1
+500,6.0,Non-profit Organization Management,directors,10.41,Bachelor,yeshiva gedolah zichron moshe,yeshiva darchei torah,1
+500,2.0,Computer Software,software engineer,9.83,Bachelor,kensho technologies,baruch college,1
+500,4.0,Management Consulting,investment,6.5,Bachelor,youtube,georgetown university,1
+500,1.0,Design,design consultant,3.16,Bachelor,tory burch,fashion institute of technology,1
+500,2.0,Software Development,software engineering,1.74,Bachelor,airbnb,university of waterloo,1
+500,4.0,Financial Services,directors,11.75,Bachelor,hj sims,the university of hong kong,1
+471,5.0,Management Consulting,marketing representative,3.83,Bachelor,business talent group,auburn university,1
+500,5.0,Design,graphic designer,8.09,Bachelor,razorfish,academy of art university,1
+500,5.0,Marketing & Advertising,brand representative,10.84,Bachelor,horizon media,adelphi university,1
+500,3.0,Financial Services,admissions,14.84,Bachelor,magnite,john jay college cuny,1
+441,6.0,Photography,lecturer,0.17,Bachelor,truetiv,new york university,1
+500,6.0,Financial Services,compensation,11.41,Bachelor,blackrock,university of connecticut,1
+500,2.0,Advertising Services,social media,20.75,Bachelor,mr magazine,fashion institute of technology,1
+500,6.0,IT Services and IT Consulting,products,29.0,Bachelor,newmark,university of pennsylvania,1
+419,1.0,Financial Services,actuary,2.75,Bachelor,mutual of america financial group,touro university,1
+500,4.0,IT Services and IT Consulting,technology architect,20.42,Bachelor,pfizer,university of mumbai,1
+500,1.0,Entertainment,media,7.16,Bachelor,sportfive,syracuse university martin j whitman school of management,1
+500,5.0,Accounting,food beverage,19.42,Bachelor,waldorf astoria new york,johnson wales university,1
+500,4.0,Retail Apparel and Fashion,creative,31.5,Bachelor,9j concept store,fashion institute of technology,1
+500,6.0,Higher Education,social media,17.58,Bachelor,the root remedy,athens state university,1
+500,4.0,Information Technology & Services,major account,34.92,Bachelor,salesforce,pace university,1
+435,2.0,Consumer Services,sales marketing,23.84,Bachelor,travel leisure co,douglass college rutgers university,1
+500,7.0,Retail,brand,16.0,Bachelor,someone somewhere,san diego state university,1
+386,2.0,Market Research,marketing representative,5.42,Bachelor,just worldwide ltd,hunter college,1
+500,2.0,Computer Software,stack developer,4.0,Bachelor,dailypay inc,app academy,1
+500,6.0,Banking,equity,9.74,Bachelor,imagefirst,fordham university,1
+438,3.0,Biotechnology,teaching,8.67,Bachelor,bluerock therapeutics,temple university,1
+460,5.0,Public Relations & Communications,public relations,12.17,Bachelor,arxada,northeastern university,1
+500,6.0,Business Consulting and Services,analytics,17.0,Bachelor,deluxe,princeton university,1
+500,2.0,Financial Services,financial,0.92,Bachelor,northeast financial network,pace university lubin school of business,1
+500,4.0,Legal Services,business analyst,4.84,Bachelor,shopify,the university of texas at austin,1
+500,4.0,Financial Services,spring,5.0,Bachelor,morgan stanley,brown university,1
+500,5.0,Marketing & Advertising,creative,9.25,Bachelor,fig,university of central florida,1
+342,5.0,Marketing & Advertising,social media marketing,9.83,Bachelor,what if media group,university of miami,1
+500,7.0,Personal Care Product Manufacturing,brand ambassador,3.66,Bachelor,esw beauty,babson college,1
+416,6.0,Financial Services,treasurer,7.91,Bachelor,jpmorgan chase co,virginia polytechnic institute and state university,1
+500,5.0,Higher Education,teaching,20.09,Bachelor,rutgers robert wood johnson medical school,new york college of osteopathic medicine,1
+500,1.0,Oil & Energy,student,3.18,High School,el dorado farms farming d california project,stanford university,1
+500,5.0,Retail,commercial analyst,16.76,Bachelor,sakara life,drexel university,1
+500,4.0,Apparel & Fashion,buying,11.26,Bachelor,komar,lim college,1
+500,6.0,Marketing & Advertising,creative,7.59,Bachelor,supernova,the college of new jersey,1
+450,1.0,Food & Beverages,admissions,8.59,Bachelor,pepsico,the college of new jersey,1
+500,6.0,Marketing & Advertising,digital media,14.08,Bachelor,wavemaker,university of massachusetts amherst,1
+500,5.0,Computer & Network Security,sales business development,22.08,Bachelor,palo alto networks,southern new hampshire university,1
+452,6.0,Design Services,creative,6.75,Associate,private consultant for mens fashion label,fashion institute of technology,1
+500,4.0,"Movies, Videos and Sound",video editor,38.0,Bachelor,studio rx,university of new haven,1
+500,6.0,Financial Services,mergers acquisitions,21.0,Bachelor,fti consulting,university at buffalo school of management the state university of new york,1
+500,3.0,"Technology, Information and Internet",product,7.58,Bachelor,meta,university of michigan,1
+500,5.0,Apparel & Fashion,customer,12.16,Bachelor,khaite,parsons school of design,1
+500,5.0,Government Relations Services,community relations,15.67,Bachelor,nyc mayor s office of criminal justice,queens college,1
+500,5.0,Internet,artist,14.42,Bachelor,south park commons,university of pennsylvania,1
+500,2.0,International Affairs,underwriting,6.09,Bachelor,the hartford,boston university,1
+500,2.0,Computer Software,development engineer,4.0,Bachelor,radar,university of waterloo,1
+500,4.0,Financial Services,equity,4.67,Bachelor,investment partnership,the wharton school,1
+500,3.0,Biotechnology,data science,4.49,Bachelor,deloitte consulting,university of pennsylvania,1
+462,4.0,Luxury Goods & Jewelry,visual merchandising,9.25,Bachelor,gucci,fashion institute of technology,1
+500,2.0,Computer Software,software designer,13.75,Bachelor,google,ucla,1
+500,3.0,Marketing & Advertising,business development representative,5.83,Bachelor,braze,university of colorado boulder leeds school of business,1
+500,3.0,Investment Banking,analyst,2.75,Bachelor,provident healthcare partners,northeastern university,1
+500,2.0,Computer Software,marketing services,9.75,Bachelor,google,columbia university in the city of new york,1
+500,1.0,Information Technology & Services,reporter,3.92,MBA,bitcoin com,zicklin school of business,1
+500,3.0,Financial Services,equity analyst,7.08,Bachelor,oppenheimer co inc,ucla,1
+448,5.0,Fundraising,administrative coordinator,10.0,Bachelor,network of jewish human service agencies njhsa,montclair state university,1
+500,5.0,Real Estate,officer,27.0,Bachelor,newmark,university at buffalo school of management the state university of new york,1
+458,2.0,Software Development,software engineering,11.07,Bachelor,google,grinnell college,1
+462,2.0,Non-profit Organizations,marketing communications,5.17,Bachelor,chelsea piers,lafayette college,1
+500,4.0,Advertising Services,marketing consultant,9.01,Bachelor,google,lehigh university college of business and economics,1
+384,4.0,Computers and Electronics Manufacturing,marketing,18.25,Bachelor,panasonic north america,miami university,1
+352,3.0,Financial Services,wealth,7.58,Bachelor,ubs,city university of new york hunter college,1
+478,3.0,Hospitality,admissions,9.0,Bachelor,policygenius,penn state university,1
+461,4.0,Museums & Institutions,creative,19.16,Bachelor,freelance,sarah lawrence college,1
+500,6.0,Financial Services,credit risk,15.41,Bachelor,n3xt,quinnipiac university,1
+500,3.0,Hospital & Health Care,cna,8.16,Bachelor,the mount sinai hospital,new york university,1
+500,5.0,Philanthropy,social,11.99,Bachelor,housing partnership network,state university of new york college of environmental sciences and forestry,1
+500,4.0,Manufacturing,strategic,39.84,Bachelor,the post,wharton executive education,1
+500,3.0,Design,design,10.08,Bachelor,hct by kdc one,parsons school of design,1
+500,6.0,Financial Services,marketing communications,11.25,Bachelor,american express,syracuse university martin j whitman school of management,1
+500,5.0,Financial Services,capital markets,12.76,Bachelor,merrill lynch,nyu stern school of business,1
+394,2.0,Investment Management,software engineering,4.35,Bachelor,lmr partners,university of st andrews,1
+402,2.0,Computer Software,software engineer,4.5,Bachelor,tiktok,carnegie mellon university,1
+500,3.0,Computer Software,account sales,25.41,Bachelor,actabl,weber state university,1
+500,3.0,Information Technology & Services,writer,6.0,Bachelor,grant thornton us,villanova university,1
+500,2.0,Financial Services,equity analyst,6.25,Bachelor,bayview asset management llc,marist college school of management,1
+500,4.0,Insurance,products,27.16,Bachelor,herald,yale university,1
+466,5.0,Retail,retail sales,7.09,Bachelor,florence by mills fashion,fashion institute of design merchandising,1
+410,2.0,Research,teaching,6.08,Bachelor,yale ventures,yale university,1
+500,1.0,Animation,art,16.34,Bachelor,blavity inc,minneapolis college of art and design,1
+500,6.0,Computer Software,media relations,25.41,Bachelor,pivotal communications,beloit college,1
+500,4.0,Investment Banking,substitute teacher,7.33,Bachelor,needham company llc,university of scranton,1
+500,2.0,Broadcast Media,writer,9.17,Bachelor,abc news,northeastern university,1
+500,2.0,Law Practice,public relations,5.0,Bachelor,nyc public schools,st edward s university,1
+500,1.0,Apparel & Fashion,stylist,2.74,Bachelor,pembley,university of missouri columbia,1
+425,2.0,Architecture and Planning,stack developer,1.42,Bachelor,the tuesday company,pomona college,1
+500,5.0,Marketing & Advertising,communications,5.0,Bachelor,havas,suny new paltz,1
+500,3.0,Apparel & Fashion,brand ambassador,14.5,Bachelor,inmocean,oklahoma state university,1
+500,5.0,Manufacturing,marketing representative,12.83,Bachelor,mars,lebanon valley college,1
+500,5.0,Real Estate,public relations,9.92,Bachelor,l oréal,harvard business school online,1
+500,3.0,Financial Services,courtesy,8.32,Bachelor,deloitte,rutgers business school,1
+500,4.0,Marketing & Advertising,social media marketing,9.01,Bachelor,computer lunch games,university of pittsburgh,1
+500,4.0,Apparel & Fashion,production,3.58,Bachelor,naeem khan,cornell university,1
+500,1.0,Public Relations & Communications,communications coordinator,33.48,Bachelor,private school,columbia university,1
+500,5.0,Design Services,design,9.26,Bachelor,naadam,fashion institute of technology,1
+500,2.0,Marketing & Advertising,advertising,15.5,Bachelor,coralwagnerrodrigues,institute of practitioners in advertising ipa,1
+500,5.0,Marketing & Advertising,graphic designer,20.66,Bachelor,momentum worldwide,monmouth university,1
+500,4.0,Management Consulting,counselor,0.58,Bachelor,pwc,the george washington university,1
+500,2.0,Financial Services,equity analyst,8.84,Bachelor,goldman sachs,rutgers university,1
+411,3.0,Construction,architecture,13.5,Bachelor,dbi projects,new york institute of technology,1
+500,5.0,Insurance,underwriter,13.08,Bachelor,zurich north america,quinnipiac university,1
+500,2.0,Hospital & Health Care,student worker,6.09,Bachelor,lockheed martin,rollins college,1
+500,5.0,Information Technology & Services,marketing sales,16.08,Bachelor,amazon web services aws,horace mann school,1
+500,4.0,Internet,marketing consultant,9.08,Bachelor,jun group,university of connecticut,1
+500,2.0,Broadcast Media,producer,3.24,Bachelor,msnbc,brooklyn college,1
+500,3.0,Marketing & Advertising,events,18.42,Bachelor,crg productions,university of maryland,1
+500,4.0,Real Estate,resident,7.75,Associate,nyu langone health,beacon high school,1
+500,3.0,Computer Software,embedded software engineer,13.5,Bachelor,ramp,thayer school of engineering at dartmouth,1
+500,3.0,Financial Services,portfolio analyst,5.83,Bachelor,moody s ratings,university of connecticut,1
+500,1.0,Financial Services,financial representative,20.59,Bachelor,symmetry financial group,school of public affairs american university,1
+500,1.0,Entertainment,teacher,13.34,Bachelor,artists first,university of michigan,1
+391,4.0,Marketing & Advertising,media,7.25,Bachelor,initiative,university of delaware,1
+500,5.0,Financial Services,investment analyst,5.91,Bachelor,bridgewater associates,cornell university,1
+404,3.0,Civil Engineering,construction project,6.92,Bachelor,etc companies llc,university of vermont,1
+480,1.0,Non-profit Organization Management,teaching,8.17,Bachelor,cardiovascular research foundation,bowdoin college,1
+500,5.0,Management Consulting,installer,16.08,Bachelor,self employed,central connecticut state university,1
+387,5.0,Graphic Design,creative,9.91,Bachelor,moxie,seton hall university,1
+391,3.0,Retail Apparel and Fashion,beauty consultant,6.0,Bachelor,macy s,fashion institute of technology,1
+500,3.0,Retail,social media,14.17,Bachelor,unilever,the catholic university of america,1
+428,3.0,Events Services,hospitality,30.32,Bachelor,nobu restaurants,lycee sainte claire lille,1
+500,6.0,Online Media,advertising,11.24,Bachelor,condé nast,university of canterbury,1
+500,1.0,Musicians,real estate broker,5.17,Bachelor,the corcoran group,washington and lee university,1
+500,4.0,Public Relations and Communications Services,brand ambassador,13.17,Bachelor,google,university of delaware,1
+500,2.0,Legal Services,paralegal,14.08,Bachelor,konner gershburg melnick,columbia college chicago,1
+500,6.0,Public Relations and Communications Services,government affairs,13.5,Bachelor,fti consulting,queen mary u of london,1
+500,5.0,Arts & Crafts,directors,6.0,Bachelor,haus der kunst,new jersey city university,1
+500,7.0,IT Services and IT Consulting,information systems,28.0,Bachelor,cleary gottlieb steen hamilton llp,university at albany,1
+500,2.0,Marketing & Advertising,content creator,1.5,Bachelor,mcdermott will schulte,d amore mckim school of business at northeastern university,1
+500,3.0,Medical Equipment Manufacturing,solutions,2.33,Bachelor,arthrex representatives,kent state university,1
+500,6.0,Advertising Services,strategy analyst,12.24,Bachelor,lyft,east china normal university,1
+500,4.0,Internet,sales development representative,5.49,Bachelor,insideview technologies inc,university of virginia,1
+500,5.0,Musicians,creative,21.59,Bachelor,halo music sound,university of north texas,1
+366,1.0,Outsourcing/Offshoring,nanny,2.08,Bachelor,sacred heart university,sacred heart university,1
+500,6.0,Primary/Secondary Education,ambassador,7.25,Bachelor,d b enterprises,university of wisconsin madison,1
+500,2.0,Entertainment Providers,recruiting,12.24,Bachelor,soni,western kentucky university,1
+500,5.0,Advertising Services,advertising,20.0,Bachelor,nbcuniversal,juniata college,1
+500,3.0,Non-profit Organizations,community relations,11.17,Bachelor,the lesbian gay bisexual and transgender community center,san francisco state university,1
+500,5.0,Marketing & Advertising,marketing coordinator,6.41,Bachelor,nbcuniversal,the university of georgia,1
+345,3.0,Hospital & Health Care,statistician,30.25,Bachelor,nyu langone health,university of medicine and dentistry of new jersey,1
+500,4.0,Financial Services,credit analyst,8.59,Bachelor,everest insurance,fordham university,1
+456,3.0,Information Technology & Services,business analyst,7.75,Bachelor,molex,anna university,1
+480,3.0,Sporting Goods,brand ambassador,9.09,High School,nike,borough of manhattan community college,1
+448,5.0,Retail,store,13.84,Associate,john varvatos,nassau community college,1
+500,3.0,Beverage Manufacturing,marketing coordinator,10.25,Bachelor,proximo spirits,university of connecticut,1
+500,5.0,Retail Apparel and Fashion,creative,8.91,Bachelor,freelance,fashion institute of technology,1
+500,6.0,Advertising Services,digital,19.91,Bachelor,equativ,harvard business school online,1
+500,5.0,Advertising Services,social media marketing,11.67,empty,samsara,massachusetts institute of technology,1
+500,2.0,Financial Services,research analyst,4.25,Bachelor,american capital management inc,swarthmore college,1
+500,4.0,Management Consulting,professor,6.42,Bachelor,southpoint consulting inc,university of virginia,1
+500,7.0,Real Estate,strategist,4.67,Bachelor,nimbus,yale university,1
+500,3.0,Mechanical Or Industrial Engineering,architecture,11.74,Bachelor,batska consulting group llc,rutgers university,1
+500,5.0,Retail,promotions,13.75,Bachelor,neiman marcus,la salle university,1
+500,4.0,Management Consulting,consulting,12.24,Bachelor,ey parthenon,cornell university,1
+500,6.0,Financial Services,human resources coordinator,22.5,Bachelor,oliver wyman,wagner college,1
+500,3.0,Software Development,product marketing,7.17,Bachelor,intel corporation,university of california berkeley,1
+500,4.0,Entertainment Providers,sales marketing,2.17,Bachelor,vseen,pace university lubin school of business,1
+500,3.0,Public Relations & Communications,public relations,8.56,Bachelor,m booth,new york university,1
+411,3.0,Investment Management,hardware engineer,4.91,Bachelor,tower research capital,syracuse university,1
+500,2.0,"Health, Wellness & Fitness",product marketing,9.59,Bachelor,first stop health,university of california berkeley,1
+500,1.0,Fine Art,creative,3.09,Bachelor,ruth ansel,sotheby s institute of art,1
+435,1.0,Mechanical Or Industrial Engineering,industrial engineer,0.66,Doctor,united states postal service,rutgers law school,1
+479,3.0,Financial Services,product development,10.66,Bachelor,american express,syracuse university,1
+500,2.0,Design,graphic design,4.24,Bachelor,rimini street,school of the art institute of chicago,1
+500,5.0,Non-profit Organizations,artist,21.58,Bachelor,lenox hill neighborhood house,savannah college of art and design,1
+500,6.0,Computer Software,technology architect,18.58,Bachelor,amazon web services aws,bharati vidyapeeth,1
+368,4.0,Financial Services,business development analyst,9.5,Bachelor,versana,university of delaware lerner college of business and economics,1
+500,7.0,IT Services and IT Consulting,technology officer,6.33,Bachelor,stealth startup,baruch college,1
+500,6.0,Online Audio and Video Media,digital media,24.33,Bachelor,conductor,sacred heart university,1
+500,4.0,Financial Services,investment banking,7.42,Bachelor,btig,georgetown university the mcdonough school of business,1
+500,3.0,IT Services and IT Consulting,technical sales representative,8.33,Bachelor,dsm firmenich,university of belgrade faculty of geography,1
+442,3.0,Music,teaching,8.59,Bachelor,oberlin college,oberlin college,1
+500,7.0,Advertising Services,creative,18.26,Bachelor,downtime,university of south florida,1
+500,3.0,Design Services,product designer,26.67,Bachelor,spin master,georgia institute of technology,1
+500,7.0,Artists and Writers,financial officer,30.75,Bachelor,david zwirner,franklin marshall college,1
+458,4.0,Fine Art,business development officer,31.08,Bachelor,crozier fine arts,american university,1
+500,6.0,Retail,market,24.84,Bachelor,mango,university of rhode island,1
+500,5.0,Financial Services,trader,7.67,Bachelor,j p morgan,virginia tech,1
+500,2.0,Information Technology & Services,it technician,18.75,Bachelor,dbi staffing,harvard business school online,1
+500,2.0,Biotechnology,research,8.67,Bachelor,fulbright association,emory university,1
+500,4.0,IT Services and IT Consulting,technical product,8.67,Bachelor,mastercard,missouri university of science and technology,1
+500,4.0,Computer Software,design,8.42,Bachelor,mongodb,rochambeau the french international school,1
+360,3.0,Fine Art,professor,3.49,Bachelor,career break,columbia university graduate school of architecture planning preservation,1
+500,3.0,Staffing and Recruiting,talent acquisition consultant,20.08,Bachelor,talentful,university at albany,1
+357,2.0,Law Practice,photo,7.59,Bachelor,white case llp,rochester institute of technology,1
+500,4.0,Marketing & Advertising,public relations,7.32,Bachelor,shadow,chapman university,1
+500,6.0,"Health, Wellness & Fitness",strategy consultant,10.01,Bachelor,cvs health,lehigh university,1
+500,3.0,Management Consulting,user researcher,3.5,empty,ibm,trinity college dublin,1
+500,3.0,Computer Software,brand ambassador,15.66,Bachelor,attio,rutgers university new brunswick,1
+500,5.0,Pharmaceuticals,quality assurance,25.0,Bachelor,abbvie formerly allergan inc,university of puerto rico mayaguez campus,1
+500,4.0,Architecture & Planning,designer,6.34,Bachelor,the architect s newspaper,carnegie mellon university,1
+500,2.0,Non-profit Organization Management,writer,18.31,Bachelor,trinity times,university of toronto,1
+500,2.0,Marketing & Advertising,writer,18.57,Bachelor,wild geese productions limited,the university of texas at austin red mccombs school of business,1
+418,2.0,Human Resources,staffing,9.01,Bachelor,freelance,boston university,1
+500,5.0,Investment Banking,research engineer,10.24,Bachelor,citi,penn state university,1
+488,3.0,Music,public relations,14.09,Bachelor,culture file,bard college,1
+500,3.0,Advertising Services,brand,11.9,Bachelor,kapitus,washington university in st louis olin business school,1
+500,4.0,"Technology, Information and Internet",product,24.0,Bachelor,publicis sapient,harvard business school online,1
+500,1.0,Research,teaching,10.66,Bachelor,albert einstein college of medicine,lehigh university,1
+500,5.0,Events Services,media relations,9.84,Bachelor,forbes,university of washington,1
+500,3.0,Entertainment Providers,market,14.83,Bachelor,uber,maine media college,1
+500,6.0,Public Relations and Communications Services,media relations,12.0,Bachelor,m booth,stony brook university,1
+497,2.0,Commercial Real Estate,analyst,3.58,empty,alvarez marsal property investments llc,santa clara university,1
+500,1.0,Entertainment,student,3.49,Bachelor,likely story,nyu tisch school of the arts,1
+500,5.0,Financial Services,data analytics,5.59,Bachelor,capital one,carnegie mellon university,1
+500,7.0,Consumer Goods,marketing product,28.91,Bachelor,bark,rutgers business school,1
+500,4.0,Information Technology & Services,host,13.07,Bachelor,888 aligned podcast,binghamton university school of management,1
+500,5.0,Industrial Machinery Manufacturing,sales business development,11.49,Bachelor,bea fasteners usa inc,fachhochschule worms,1
+500,6.0,Marketing & Advertising,brand marketing,15.41,Bachelor,blackrock,university of north carolina at chapel hill,1
+500,3.0,Investment Management,research analyst,2.33,Bachelor,balyasny asset management l p,university of pennsylvania,1
+500,4.0,Hospital & Health Care,cyber security,20.59,Bachelor,aphinia,university at buffalo,1
+500,4.0,Non-profit Organizations,investigator,8.34,Bachelor,truman national security project,university of cape town,1
+500,1.0,Design,marketing,13.33,Bachelor,we ar4,washington university in st louis,1
+431,3.0,Financial Services,broker,15.57,Bachelor,shamrock funeral services,saint thomas aquinas college,1
+500,7.0,Entertainment,creative,12.91,Bachelor,the nifty,american university kogod school of business,1
+500,3.0,Management Consulting,ambassador,1.42,Bachelor,huron,indiana university kelley school of business,1
+500,5.0,Management Consulting,investment analyst,0.42,Bachelor,ey,boston college,1
+500,5.0,Financial Services,business finance,5.0,Bachelor,coinbase,chester academy,1
+381,4.0,Marketing & Advertising,tax preparer,12.93,Bachelor,interpublic group ipg,university of scranton,1
+500,7.0,Wellness and Fitness Services,directors,48.16,Bachelor,internet content creation agency i c c a,university of cincinnati college of business,1
+489,1.0,Capital Markets,real estate agent,17.58,Bachelor,brooklyn low voltage supply,city university of new york brooklyn college,1
+500,6.0,Advertising Services,creative,14.01,Bachelor,leo new york,iaad institute of applied art and design,1
+500,3.0,Design,photographer,5.25,Bachelor,david weisz,parsons school of design the new school,1
+500,4.0,Management Consulting,strategy consultant,3.58,Bachelor,deloitte,texas mccombs school of business,1
+500,4.0,Information Technology & Services,lifeguard,6.83,Bachelor,ss c technologies,university of south carolina,1
+463,2.0,Financial Services,equity research,6.84,Bachelor,bridgewater associates,university of toronto,1
+500,2.0,Real Estate,property,21.58,Bachelor,aml,real estate associate program reap,1
+424,2.0,Financial Services,lifeguard,10.0,Bachelor,greco nader wealth navigation,alvernia university,1
+500,2.0,Public Relations and Communications Services,promotions,7.91,Bachelor,bitwise asset management,iona university,1
+500,5.0,Marketing & Advertising,social media,15.68,Bachelor,annex88,miami ad school,1
+500,5.0,Broadcast Media,writer,6.24,Bachelor,meta,baruch college,1
+500,3.0,Industrial Automation,business development,7.67,Bachelor,festo didactic north america,yale school of management,1
+500,7.0,Financial Services,strategic marketing,13.25,Bachelor,general catalyst,university of illinois urbana champaign,1
+500,2.0,Advertising Services,writer,40.59,Bachelor,medium,university of michigan stephen m ross school of business,1
+500,2.0,Computer Software,stack developer,5.75,Bachelor,doorcast,university of north carolina at pembroke,1
+500,1.0,Civil Engineering,project coordinator,6.41,Bachelor,kc engineering and land surveying p c,university of dayton,1
+489,4.0,Computer Software,data science,4.59,Bachelor,pymetrics now harver,columbia university,1
+444,2.0,Insurance,writer,3.33,Bachelor,lockton re,wesleyan university,1
+500,6.0,Hospital & Health Care,investment analyst,2.67,Bachelor,coverright,university of notre dame,1
+347,1.0,Consumer Electronics,electrical engineering,0.84,Bachelor,naval air warfare center aircraft division nawcad,lehigh university,1
+500,1.0,Computer Software,crew,14.43,Bachelor,apple,cuny school of professional studies,1
+500,7.0,Entertainment,marketing officer,17.0,Bachelor,sony music publishing,university of dayton,1
+500,4.0,Advertising Services,community,7.75,Bachelor,soundcloud,columbia university,1
+500,2.0,Performing Arts,community,18.07,Bachelor,new york university,new york university,1
+500,5.0,Computer Software,media relations,20.66,Bachelor,hubspot,western michigan university,1
+451,2.0,Artists and Writers,web designer,6.66,Bachelor,american express,flatiron school,1
+454,6.0,Financial Services,investment analyst,11.08,Bachelor,wtw,new jersey institute of technology,1
+500,2.0,Design,social media marketing,7.41,Bachelor,kith,s i newhouse school of public communications at syracuse university,1
+500,6.0,"Leisure, Travel & Tourism",broker,7.0,Bachelor,sarahwlee,massachusetts institute of technology,1
+500,4.0,Information Technology & Services,business solutions,10.34,Bachelor,wipro,guru gobind singh indraprastha university,1
+500,3.0,Computer Software,ux ui designer,5.67,Bachelor,fieldworker,rutgers university new brunswick,1
+500,4.0,Music,ambassador,4.91,Bachelor,sony music entertainment,clemson university,1
+500,5.0,Design,interior designer,29.25,Bachelor,national kitchen bath assoc,metropolitan institute of design,1
+500,4.0,Public Relations & Communications,lecturer,10.65,Bachelor,fti consulting,miami university,1
+409,2.0,Advertising Services,procurement,28.25,Bachelor,state of new jersey,new england college,1
+347,5.0,Marketing & Advertising,community,16.92,Bachelor,szway marketing events,endicott college,1
+491,4.0,Writing & Editing,copywriter,18.6,Bachelor,skdk,wesleyan university,1
+500,3.0,Hospital & Health Care,teaching,10.57,Bachelor,department of otolaryngology head and neck surgery columbia university irving medical center,columbia university college of physicians and surgeons,1
+497,4.0,Food & Beverages,producer,20.08,Bachelor,nbc sports,villanova university,1
+500,3.0,Computer Software,software engineer,9.83,Bachelor,datadog,hack reactor,1
+500,5.0,Advertising Services,advertising,22.83,Bachelor,epic records,rutgers the state university of new jersey new brunswick,1
+500,3.0,Hospitals and Health Care,research development,11.98,Bachelor,roon,stanford university,1
+500,2.0,Writing & Editing,writer,3.83,Bachelor,freelance,ithaca college,1
+500,3.0,Financial Services,strategy analyst,6.66,Bachelor,visa,the ohio state university fisher college of business,1
+500,4.0,Civil Engineering,architect,26.17,Bachelor,akrf,clemson university,1
+500,3.0,Management Consulting,writer,3.66,Bachelor,pwc,university of southern california,1
+463,3.0,Retail Apparel and Fashion,marketing coordinator,12.43,Bachelor,genna morgan media,s i newhouse school of public communications at syracuse university,1
+500,6.0,Human Resources Services,account development,8.0,Bachelor,happeo,suny oneonta,1
+500,3.0,Writing & Editing,writer,12.32,Bachelor,cnn,wellesley college,1
+500,3.0,Marketing & Advertising,campus ambassador,4.59,Bachelor,veeva systems,university of wisconsin madison,1
+500,2.0,Computer Software,quantitative analyst,12.91,Bachelor,the d e shaw group,university of california berkeley,1
+500,3.0,Apparel & Fashion,graphic design,5.25,Bachelor,isaacmorris,pratt institute,1
+500,5.0,Advertising Services,creative,12.0,Bachelor,the global leaders,the tuck school of business at dartmouth,1
+500,3.0,Information Technology & Services,major account,14.16,Bachelor,myrec com recreation software,university of central arkansas,1
+500,5.0,Information Technology & Services,business analyst,11.25,Bachelor,ibm,adelphi university,1
+500,3.0,Management Consulting,researcher,4.75,Bachelor,fti consulting,wellesley college,1
+500,6.0,IT Services and IT Consulting,research analyst,23.42,Bachelor,gartner,wesleyan university,1
+500,3.0,Business Consulting and Services,commercial sales,13.83,Bachelor,enterprise mobility,monmouth university,1
+500,6.0,Information Technology & Services,system architect,22.91,Bachelor,capgemini engineering,vellore institute of technology,1
+500,4.0,Marketing & Advertising,marketing officer,10.42,Bachelor,openmind,s i newhouse school of public communications at syracuse university,1
+500,2.0,Retail Apparel and Fashion,style,7.82,Bachelor,g iii apparel group,lim college,1
+500,5.0,Advertising Services,marketing communications,14.5,Bachelor,rugs usa,miami university,1
+500,6.0,Real Estate,equity,17.85,Bachelor,cbre,concordia university,1
+500,6.0,Financial Services,equity,6.17,Bachelor,jpmorgan chase co,university of north carolina at chapel hill kenan flagler business school,1
+500,3.0,Entertainment,producer,28.41,Bachelor,nbcuniversal,temple university,1
+500,6.0,Real Estate,investments,14.66,Bachelor,109co,nyu stern school of business,1
+500,1.0,Public Relations & Communications,promotions,4.57,Bachelor,berk communications,rutgers university new brunswick,1
+500,5.0,Marketing & Advertising,creative,5.58,Bachelor,giant spoon,miami ad school,1
+500,5.0,Graphic Design,creative,9.5,Bachelor,aki technologies,montclair state university,1
+500,7.0,Law Practice,strategic,30.0,Bachelor,simpson thacher bartlett llp,tel aviv university,1
+500,5.0,Human Resources,equity,20.59,Bachelor,morgan stanley,aston university,1
+500,5.0,Financial Services,marketing consultant,37.58,Bachelor,fidelity investments,bard college,1
+500,2.0,Financial Services,tax preparer,22.49,Bachelor,kpmg us,university of scranton,1
+500,5.0,Advertising Services,relations,16.58,Bachelor,real chemistry,state university of new york at oswego,1
+500,5.0,Financial Services,strategy consultant,10.67,Bachelor,stripe,harvard university,1
+500,3.0,Computer Software,teacher,14.57,Bachelor,baobao babywearing,arizona state university,1
+500,5.0,Hospital & Health Care,physician,14.5,Bachelor,ge healthcare,university of arizona eller college of management,1
+500,3.0,Management Consulting,teaching,7.18,Bachelor,pwc,penn state college of information sciences and technology,1
+500,5.0,Marketing & Advertising,creative,12.84,Bachelor,goodby silverstein partners,award school,1
+472,3.0,Higher Education,teaching,9.34,Bachelor,memorial sloan kettering cancer center,bowdoin college,1
+500,6.0,Financial Services,business development consultant,6.51,Bachelor,øxprop,sae institute uk,1
+500,1.0,Management Consulting,teaching,7.24,Bachelor,wtw,emory university,1
+500,4.0,Public Relations and Communications Services,promotions,6.51,Bachelor,kate spade new york,marist college,1
+500,5.0,Financial Services,equity,7.0,Bachelor,brookfield asset management,fordham university,1
+500,4.0,Financial Services,research,5.41,Bachelor,jpmorgan chase co,university of maryland,1
+500,5.0,Market Research,account development,12.83,Bachelor,forrester research,commonwealth university lock haven,1
+500,4.0,Public Relations & Communications,distributor,9.34,Bachelor,clarté,fashion institute of technology,1
+500,5.0,IT Services and IT Consulting,communication,25.5,Bachelor,tata consultancy services,city st george s university of london,1
+500,2.0,Software Development,equity research,10.32,Bachelor,citadel,swarthmore college,1
+500,1.0,Financial Services,community relations,8.25,Bachelor,girls who invest,michigan state university the eli broad college of business,1
+500,2.0,Broadcast Media,reporter,8.73,Bachelor,new york city fc,cornell university,1
+475,4.0,Retail Luxury Goods and Jewelry,sale,20.83,Bachelor,j e caldwell co,les eucalyptus,1
+500,2.0,Financial Services,analyst,1.75,Bachelor,point72,university of toronto,1
+500,4.0,Broadcast Media Production and Distribution,marketing research,21.59,Bachelor,amazon web services aws,texas state university,1
+500,4.0,Management Consulting,consulting,7.6,Bachelor,protiviti,binghamton university,1
+500,2.0,Information Services,student worker,9.17,Bachelor,career break,lehigh university,1
+500,2.0,Online Audio and Video Media,business strategy,11.83,Bachelor,fay,the wharton school,1
+500,5.0,Financial Services,investment,12.5,Bachelor,betterment,villanova university,1
+500,2.0,Computer Software,software engineering,8.24,Bachelor,google,university of southern california,1
+500,6.0,Advertising Services,advertising,13.67,Bachelor,mondelēz international,the wharton school,1
+298,5.0,Staffing & Recruiting,strategist,7.0,Bachelor,america works of new york inc,university of washington,1
+500,3.0,Software Development,software engineering,1.49,Bachelor,meta,university of waterloo,1
+500,2.0,Public Relations & Communications,analyst,9.99,Bachelor,weber shandwick,elon university,1
+500,2.0,Medical Practices,research,7.08,Bachelor,icahn school of medicine at mount sinai,icahn school of medicine at mount sinai,1
+500,6.0,Marketing & Advertising,creative,18.09,Bachelor,shutterstock,binghamton university,1
+500,5.0,Software Development,sales business development,35.5,Bachelor,darktrace,new york university,1
+500,3.0,Hospitality,hospitality,12.67,Bachelor,quintessentially,california state polytechnic university pomona,1
+500,6.0,Environmental Services,business development,13.09,Bachelor,aarco environmental services corp,union college,1
+500,6.0,Manufacturing,buyer planner,18.83,Bachelor,l oréal,cornell university,1
+500,6.0,Pharmaceutical Manufacturing,chemical engineer,14.34,Bachelor,cellares,bucknell university,1
+500,5.0,Accounting,strategic,17.75,Bachelor,kpmg,virginia tech,1
+500,2.0,Financial Services,equity analyst,7.09,Bachelor,manulife investment management,university of victoria,1
+500,6.0,Investment Banking,investments,28.75,Bachelor,td securities,harvard university,1
+500,2.0,Architecture and Planning,lecturer,19.58,Bachelor,ecole national d architecture de versailles,the manchester metropolitan university,1
+500,4.0,Computer Software,social media marketing,11.09,Bachelor,monday com,texas a m university,1
+500,7.0,Book and Periodical Publishing,marketing,19.24,Bachelor,unidad editorial,nyu stern school of business,1
+393,4.0,Computer Software,consulting,30.83,Bachelor,orion global solutions,st leo college,1
+500,2.0,Higher Education,realtor,7.26,Bachelor,leslie j garfield real estate,susquehanna university,1
+500,1.0,Aviation & Aerospace,consulting,31.75,Bachelor,cra inc,loretta scott accreditation certification academy,1
+500,5.0,Broadcast Media Production and Distribution,video editor,8.08,Bachelor,linkedin,new york university,1
+500,5.0,Real Estate,purchasing,15.33,Bachelor,wework,lehigh university college of business,1
+500,5.0,Public Relations & Communications,education,23.16,Bachelor,mary help of christians academy,st thomas university,1
+500,7.0,Animation,writer,1.26,Bachelor,blunt action,state university of new york at new paltz,1
+452,3.0,Market Research,marketing research,10.51,Bachelor,pmdojo,university of notre dame,1
+493,2.0,Law Practice,ambassador,14.99,Bachelor,white case llp,new york university school of law,1
+500,4.0,Design,design engineer,35.58,Bachelor,petal llc,university of the arts,1
+500,4.0,Architecture and Planning,designer,7.42,Bachelor,journey,harvard university,1
+466,1.0,Marketing & Advertising,public relations,0.91,Bachelor,kharon,binghamton university,1
+500,2.0,Software Development,software designer,5.99,Bachelor,betterment,rose hulman institute of technology,1
+500,4.0,Marketing & Advertising,marketing communications,16.42,Bachelor,stensul,northern kentucky university,1
+500,3.0,Investment Banking,investment banking,5.0,Bachelor,citi,university of california berkeley,1
+500,3.0,Software Development,account,2.58,Bachelor,rilla,vanderbilt university,1
+500,1.0,Broadcast Media,journalist,14.23,Bachelor,oprah daily,american university,1
+500,7.0,Financial Services,software engineering,6.75,Bachelor,tradepost,syracuse university,1
+500,3.0,Financial Services,trader,11.17,Bachelor,capula investment management llp,alfred lerner college of business economics at university of delaware,1
+500,5.0,Advertising Services,creative,9.58,Bachelor,meta,fashion institute of technology,1
+491,3.0,Media Production,producer,8.08,Bachelor,footballco,elon university,1
+500,5.0,Financial Services,markets,3.0,Bachelor,capital alpha partners llc,lafayette college,1
+500,1.0,Online Audio and Video Media,reporter,10.83,Bachelor,nbc news,ohio university,1
+500,1.0,Non-profit Organization Management,social,5.91,Bachelor,aamara biswas,vanderbilt university,1
+500,6.0,Computer Software,directors,43.49,Bachelor,harvard business review,eo college,1
+500,2.0,Financial Services,equity research,1.17,Bachelor,wells fargo,nyu stern school of business,1
+361,1.0,"Movies, Videos and Sound",animator,23.0,Bachelor,burning windmills pictures disney,university of the arts,1
+409,3.0,Architecture & Planning,graphic designer,7.34,Bachelor,studio db,high point university,1
+419,2.0,Mental Health Care,pharmaceutical sales,24.66,Bachelor,intra cellular therapies,new york university,1
+500,1.0,Media Production,producer,4.01,Bachelor,nbcuniversal,james madison university,1
+500,6.0,Investment Management,investment analyst,14.59,Bachelor,crescent capital group lp,lafayette college,1
+500,3.0,Apparel & Fashion,retail store,4.0,Bachelor,the bouqs company,university of central florida,1
+500,4.0,IT Services and IT Consulting,security engineer,9.08,Bachelor,accenture,northeastern illinois university,1
+395,3.0,Advertising Services,advertising,8.83,Bachelor,the new york times,syracuse university,1
+500,5.0,Travel Arrangements,travel,17.5,Bachelor,morninglory productions,temple university,1
+500,2.0,Government Administration,analyst,3.24,Bachelor,private foundation,yeshiva university,1
+446,2.0,Government Administration,events,27.24,Bachelor,stv,rutgers the state university of new jersey rutgers business school,1
+500,5.0,Financial Services,researcher,11.58,Bachelor,american express,university of michigan stephen m ross school of business,1
+500,5.0,Financial Services,financial,16.33,Bachelor,goldman sachs,cornell university school of industrial labor relations,1
+500,4.0,Information Technology & Services,consulting,6.77,Bachelor,exl,indian institute of technology kanpur,1
+500,2.0,E-learning,project coordinator,6.5,Bachelor,confidential,columbia university,1
+500,5.0,Advertising Services,creative,34.51,Bachelor,vital start health,pratt institute,1
+500,6.0,Entertainment Providers,directors,38.0,Bachelor,mga entertainment,northwestern university kellogg school of management,1
+459,5.0,Non-profit Organizations,teacher,35.41,Bachelor,kg strategy llc,new york university,1
+500,2.0,Financial Services,audit,16.17,Bachelor,the bank of nova scoatia scotiabank,temple university,1
+500,7.0,Public Relations and Communications Services,communications,34.16,Bachelor,edelman,baylor university,1
+394,2.0,Biotechnology,research,8.67,Bachelor,lehigh university,lehigh university,1
+500,2.0,Real Estate,real estate broker,7.25,Bachelor,sotheby s international realty,california polytechnic state university san luis obispo,1
+500,3.0,Computer Software,support engineer,13.5,Bachelor,grafana labs,pc age career institute,1
+500,4.0,Banking,relationship,18.33,Bachelor,dime community bank,queens college,1
+454,2.0,Public Policy,teacher,11.68,Bachelor,whedco,binghamton university,1
+441,4.0,Media Production,social media,29.75,Bachelor,news product alliance,washington university in st louis,1
+500,4.0,Management Consulting,host,4.0,Bachelor,pwc,isenberg school of management umass amherst,1
+500,3.0,Financial Services,wealth,12.42,Bachelor,perigon wealth management llc,binghamton university,1
+500,6.0,Marketing & Advertising,creative,11.42,Bachelor,neon bobcat,syracuse university,1
+500,4.0,Real Estate,social media marketing,10.33,Bachelor,otg management,university of northern colorado,1
+500,2.0,Media Production,social media,17.23,Bachelor,mlb network,pace university,1
+500,6.0,Public Relations and Communications Services,media relations,25.34,Bachelor,cbs,tufts university,1
+500,3.0,Financial Services,investment analyst,9.24,Bachelor,w p carey inc,harvard business school online,1
+500,3.0,Management Consulting,strategy analyst,7.33,Bachelor,mckinsey company,university of colorado boulder leeds school of business,1
+500,5.0,Telecommunications,writer,7.5,Bachelor,leadership for democracy and social justice,macaulay honors college at the city university of new york,1
+500,6.0,Non-profit Organization Management,community relations,8.25,Bachelor,fountain house,atlas corps virtual leadership institute,1
+500,7.0,Spectator Sports,distributor,13.08,Bachelor,sny,villanova university,1
+402,3.0,Design,graphic designer,2.16,Bachelor,vimeo,type cooper,1
+500,6.0,Design Services,strategic accounts,19.25,Bachelor,sfa marketing,syracuse university,1
+500,6.0,Broadcast Media Production and Distribution,editor,14.42,Bachelor,white label media nyc,the university of alabama school of journalism,1
+500,5.0,Marketing & Advertising,promotions,13.0,Bachelor,glassview neuropowered media,columbia university in the city of new york,1
+500,5.0,Marketing & Advertising,promotions,11.31,Bachelor,meta,tulane university,1
+500,1.0,Public Relations & Communications,public relations,10.25,Bachelor,united hatzalah of israel,the university of alabama,1
+500,5.0,Broadcast Media Production and Distribution,community,30.92,Bachelor,abc news,florida agricultural and mechanical university,1
+500,5.0,Entertainment,writer,10.39,Bachelor,hernan lopez family foundation,university of auckland,1
+442,2.0,Software Development,software engineer,13.01,Bachelor,notion,university of washington,1
+406,2.0,Photography,content creator,6.25,Bachelor,freelance digital marketing,university of delaware,1
+500,5.0,Advertising Services,strategist,16.75,Bachelor,vaynermedia,rutgers university,1
+500,4.0,Accounting,writer,19.25,Bachelor,bank magic,hampton university,1
+500,4.0,Marketing & Advertising,promotions,8.83,Bachelor,wavemaker,fordham gabelli school of business,1
+500,2.0,Law Practice,audit,0.67,Bachelor,pwc,new york university,1
+500,6.0,Marketing & Advertising,strategist,11.08,Bachelor,viacom,fairfield university,1
+500,2.0,Financial Services,research analyst,13.83,Bachelor,blackrock,university of michigan,1
+500,1.0,Medical Practice,student,8.57,Bachelor,hackensack meridian school of medicine,university of michigan college of literature science and the arts,1
+500,4.0,Public Relations & Communications,public relations,6.84,Bachelor,zeno group,university of richmond,1
+500,2.0,Accounting,tax preparer,5.17,Bachelor,pwc,university of florida warrington college of business,1
+500,5.0,Management Consulting,consultant project,7.83,Bachelor,squid brands inc,rice university,1
+500,4.0,Advertising Services,art,11.99,Bachelor,concentriclife,temple university,1
+500,5.0,Information Technology & Services,major account,16.49,Bachelor,bcm one,rutgers university,1
+500,7.0,Advertising Services,creative,32.5,Bachelor,fg pg,university of hartford,1
+500,2.0,Investment Banking,equity research,4.91,Bachelor,axium infrastructure,università bocconi,1
+500,6.0,Financial Services,resident,9.5,Bachelor,citi,nyu stern school of business,1
+500,1.0,Human Resources,counselor,9.43,Bachelor,yipitdata,penn state university,1
+500,6.0,Business Consulting and Services,research analyst,22.92,Bachelor,shallenberger intelligence services aka targeted knowledge,sla click university,1
+500,2.0,Animation,graphic design,2.5,Bachelor,google,savannah college of art and design,1
+500,5.0,Events Services,events,41.09,Bachelor,burlington stores inc,new york university,1
+500,3.0,Gambling & Casinos,marketing project,35.41,Bachelor,genius sports,syracuse university,1
+500,2.0,Financial Services,equity analyst,6.67,Bachelor,restaurant pro insurance,columbia university,1
+500,5.0,Hospitality,technology officer,26.0,Bachelor,washington and lee university,washington and lee university,1
+500,3.0,Financial Services,investment banking analyst,9.0,Bachelor,bank of america,harvard university,1
+468,5.0,Construction,realtor,18.83,Bachelor,gotham cabinetry and design,iona college,1
+466,1.0,Higher Education,hostess,9.09,Bachelor,dartmouth college,dartmouth college,1
+500,3.0,Financial Services,credit analyst,4.83,Bachelor,citi,purdue university,1
+377,4.0,Information Technology & Services,technology architect,39.99,Bachelor,tierpm,morgan state university,1
+500,4.0,Pharmaceutical Manufacturing,market development,21.75,Bachelor,celgene,rutgers the state university of new jersey rutgers business school,1
+500,4.0,Computer Software,law,9.24,MBA,google,insper instituto de ensino e pesquisa,1
+500,4.0,Software Development,professor,37.51,Bachelor,american management association,university of hartford,1
+500,1.0,Non-profit Organization Management,call center representative,2.51,Bachelor,the city of new york office of labor relations,uc santa barbara,1
+500,7.0,Advertising Services,interaction designer,33.58,Bachelor,ibm,king s college london,1
+500,3.0,Investment Banking,quantitative analyst,25.02,Bachelor,wells fargo,university of kent,1
+500,3.0,Motion Pictures & Film,writer,6.16,Bachelor,sotheby s,new york university,1
+500,1.0,Accounting,tax preparer,13.92,Bachelor,tiffany co,ramapo college of new jersey,1
+500,1.0,Higher Education,hostess,9.25,Bachelor,nbc news,montclair state university,1
+500,2.0,Information Technology & Services,scrum,7.33,Bachelor,optum,universidad carlos iii de madrid,1
+500,6.0,Computer Software,communications consultant,16.26,Bachelor,servicenow,university of oxford,1
+500,4.0,Marketing & Advertising,marketing communications,16.6,Bachelor,astroscale,the johns hopkins university,1
+419,5.0,Architecture and Planning,architect,19.33,Bachelor,ennead architects,university of north carolina at charlotte,1
+500,1.0,Entertainment,brand ambassador,2.42,Bachelor,creative artists agency,columbia grammar and preparatory school,1
+500,1.0,Computer & Network Security,guest service representative,18.66,Bachelor,apple,coop apprentice,1
+500,1.0,Research,student,12.17,Bachelor,queens college psychological center,haverford college,1
+500,5.0,Law Practice,market development,22.59,Bachelor,k l gates,columbia university,1
+500,6.0,Design Services,creative,38.25,Bachelor,dsgn by d,university of pennsylvania,1
+467,4.0,Design,visual designer,37.5,Bachelor,design magic ny,school of visual arts,1
+500,4.0,Financial Services,strategic marketing,17.65,Bachelor,vestwell,the wharton school,1
+500,5.0,Computer Software,technical,5.16,Bachelor,pryon,massachusetts institute of technology,1
+500,5.0,Spectator Sports,promoter,9.09,Bachelor,nerdwallet,university of massachusetts amherst,1
+500,3.0,Design Services,design,13.08,Bachelor,wework,universidad central de venezuela,1
+500,3.0,Financial Services,mergers acquisitions,29.08,Bachelor,transamerica retirement solutions,cold spring harbor high,1
+500,4.0,Online Media,editor,23.74,Bachelor,vocativ,maine media workshops,1
+500,3.0,Financial Services,equity research,6.41,Bachelor,american express,the wharton school,1
+420,3.0,Events Services,events,11.42,Bachelor,medscape,university of wisconsin whitewater,1
+500,2.0,Venture Capital & Private Equity,spring,5.51,Bachelor,invus,vanderbilt university,1
+429,2.0,Non-profit Organizations,relations,8.59,Bachelor,u s department of housing and urban development,southern illinois university carbondale,1
+447,1.0,Information Technology & Services,help technician,6.5,Bachelor,phillips nizer llp,syracuse university,1
+500,4.0,Management Consulting,development consultant,9.99,Bachelor,black glass,terra do,1
+500,4.0,Retail,key account sales,29.42,Bachelor,rye beverage,kaplan university,1
+394,5.0,Staffing & Recruiting,web developer,6.83,Bachelor,third republic,queens college,1
+418,5.0,Retail Apparel and Fashion,key holder,9.24,Associate,macy s,rutgers business school,1
+500,3.0,IT Services and IT Consulting,software engineer analyst,16.91,Bachelor,nomura,biju patnaik university of technology odisha,1
+500,4.0,Management Consulting,equity analyst,6.17,Bachelor,success academy charter schools,indiana university kelley school of business,1
+500,6.0,Advertising Services,advertising,29.49,Bachelor,king features a unit of hearst,kean university,1
+500,2.0,Investment Banking,software engineering,16.0,MBA,stealth,mit sloan school of management,1
+500,2.0,Financial Services,research analyst,5.84,Bachelor,cqs,northeastern university,1
+467,6.0,Financial Services,investment,36.16,Bachelor,brown advisory,penn state university,1
+500,4.0,Advertising Services,video editor,31.17,Bachelor,freelance clutch edit,the new school,1
+500,4.0,Marketing & Advertising,marketing analyst,4.75,Bachelor,google,saïd business school university of oxford,1
+500,6.0,Information Technology & Services,data architect,34.26,Bachelor,birlasoft,project management institute,1
+500,3.0,Management Consulting,researcher,7.41,Bachelor,putnam,university of california berkeley,1
+500,6.0,Design,ux ui designer,12.25,Bachelor,startupbootcamp,tyumen institute of finance and economics,1
+345,2.0,Internet,web designer,7.75,Bachelor,david goliath,general assembly,1
+500,6.0,Financial Services,equity,10.34,Bachelor,cypress forest holdings,wharton school university of pennsylvania,1
+415,5.0,Banking,broker,4.58,Bachelor,bank of america,university of arizona,1
+500,4.0,Hospitality,seller,6.92,Bachelor,the marmara park avenue,stockton university,1
+500,2.0,Restaurants,cook,6.83,Bachelor,noho hospitality group,the culinary institute of america,1
+500,1.0,Computer Software,teaching,12.18,Bachelor,yale university office of undergraduate admissions,yale university,1
+500,2.0,Retail Apparel and Fashion,art,19.75,Bachelor,hugo boss,fashion institute of technology,1
+500,5.0,Architecture and Planning,architect,16.42,Bachelor,evos construction turnkey solutions,mississippi state university,1
+500,4.0,Advertising Services,marketing consultant,9.32,Bachelor,zelis,university of arizona eller college of management,1
+500,6.0,Public Relations and Communications Services,communications,19.42,Bachelor,msl global,university of cincinnati,1
+424,1.0,Medical Practice,host,3.17,Bachelor,patel kavita dds,touro college of dental medicine,1
+500,4.0,Hospitality,consulting,14.91,Bachelor,eliseai,cornell university,1
+500,1.0,Financial Services,client support,7.17,Bachelor,fidelity investments,rutgers business school,1
+500,5.0,Public Relations & Communications,journalist,13.08,Bachelor,iff,fashion institute of technology,1
+500,2.0,Insurance,underwriting,3.5,Bachelor,berkshire hathaway specialty insurance,new york university,1
+500,1.0,Design,graphic design,4.51,Bachelor,it cosmetics,parsons school of design the new school,1
+500,6.0,Financial Services,credit analyst,6.08,Bachelor,angelo gordon,university of maryland,1
+500,2.0,Human Resources,hr coordinator,3.75,Bachelor,yai,dublin city university,1
+500,5.0,Hospital & Health Care,development,6.42,Bachelor,free market health,university of geneva,1
+500,3.0,Investment Banking,investment banking analyst,1.17,Bachelor,ubs,florida international university,1
+500,3.0,Education Management,teacher,12.17,Bachelor,command education,dartmouth college,1
+500,1.0,Political Organization,administrative,14.32,Bachelor,communities united for police reform,xavier high school,1
+488,5.0,Banking,directors,10.92,Bachelor,ubs,nyu stern school of business,1
+473,1.0,Publishing,communication,5.66,Bachelor,f a davis company,seton hall university,1
+500,5.0,Computer Software,communications coordinator,18.51,Bachelor,mozilla,skidmore college,1
+500,4.0,Marketing & Advertising,marketing communications,6.92,Bachelor,tripleseat,merrimack college,1
+500,3.0,Media Production,creative,15.83,Bachelor,constell media,mit sloan executive education,1
+500,4.0,Financial Services,unemployed,42.49,Bachelor,happily retired enjoying a new beginning,university of delaware,1
+437,2.0,Design,product designer,1.66,Bachelor,bombas,university of the andes,1
+500,6.0,Hospitality,business developer,9.25,Bachelor,blacktail,suny empire state college,1
+444,2.0,Graphic Design,designer,15.67,Bachelor,american christmas llc,savannah college of art and design,1
+500,5.0,Financial Services,treasurer,6.0,Bachelor,long ridge partners,northeastern university,1
+500,2.0,Marketing & Advertising,digital media,3.59,Bachelor,edo,university of denver daniels college of business,1
+432,1.0,Government Administration,stage,6.91,Bachelor,national park service,university of virginia,1
+478,1.0,Financial Services,substitute teacher,6.5,Bachelor,s p global,louisiana state university,1
+500,2.0,Marketing & Advertising,promotions,5.49,Bachelor,bbdo new york,boston university,1
+354,1.0,Publishing,press,7.83,Bachelor,w w norton company inc,università degli studi di padova,1
+500,1.0,Consumer Services,front house,18.25,Bachelor,confidential,saint peter s university,1
+500,6.0,Internet,contributor,8.25,Bachelor,teachup ai,fullstack academy,1
+500,3.0,Newspapers,photographer,15.33,Bachelor,people magazine people com,boston university,1
+415,2.0,Research,physician,10.4,Bachelor,beth israel deaconess medical center,university of miami,1
+500,4.0,Outsourcing/Offshoring,law,3.75,Bachelor,spring health,lehman college,1
+500,2.0,Online Media,marketing communications,13.42,Bachelor,apollo theater,rutgers university mason gross school of the arts,1
+500,5.0,Cosmetics,brand marketing,12.59,Bachelor,colgate palmolive,lebanese american university,1
+500,3.0,Computer Software,business account,4.41,Bachelor,dow jones,dickinson college,1
+500,6.0,Financial Services,wealth,4.17,Bachelor,j p morgan,university of chicago,1
+500,2.0,Marketing & Advertising,communications coordinator,17.5,Bachelor,brooklyn college,queens college,1
+500,4.0,Marketing & Advertising,sales representative,4.84,Bachelor,undercover snacks,indiana university bloomington,1
+500,6.0,Information Technology & Services,nanny,10.66,Bachelor,pwc,villanova university,1
+500,5.0,Higher Education,writer,9.08,Bachelor,columbia university,the studio new york,1
+500,5.0,Computer Software,strategic accounts,19.66,Bachelor,vimeo,villanova university,1
+500,6.0,Financial Services,strategic,18.83,Bachelor,seeklab,coursera,1
+500,5.0,Real Estate,investment,32.08,Bachelor,rfr holding llc,the wharton school,1
+500,4.0,Financial Services,business services,3.42,Bachelor,crowe,texas mccombs school of business,1
+441,5.0,Non-profit Organization Management,producer,23.0,Bachelor,the municipal art society of new york,university at buffalo,1
+500,3.0,Public Relations & Communications,photographer,6.34,Bachelor,codeword,saint louis university,1
+500,2.0,Government Administration,event,17.65,Bachelor,nyc department of parks recreation,ohio wesleyan university,1
+500,4.0,Human Resources,relations,8.08,Bachelor,compass,baruch college zicklin school of business,1
+500,4.0,Investment Management,capital markets,5.5,Bachelor,intermediate capital group icg,carnegie mellon university tepper school of business,1
+443,1.0,Electrical & Electronic Manufacturing,quality engineer,3.33,Bachelor,narda miteq,stony brook university,1
+500,5.0,Law Practice,marketing business development,26.84,Bachelor,farrell fritz p c,university at albany,1
+500,1.0,Graphic Design,graphic design,8.58,Bachelor,paloma studio,parsons school of design the new school,1
+500,5.0,Food Production,professor,12.41,Bachelor,little spoon,university of connecticut,1
+500,3.0,"Health, Wellness & Fitness",style,19.07,Bachelor,savvy intrapreneur,the art institute of fort lauderdale,1
+500,3.0,Real Estate,resident,7.83,Bachelor,copperwood real estate,fordham university,1
+500,2.0,Architecture & Planning,architect,8.17,Bachelor,populous,school of architecture at syracuse university,1
+457,4.0,Investment Management,capital markets,12.08,Bachelor,spf investment management,baruch college,1
+500,2.0,Internet,software engineer,3.0,Bachelor,meta,rutgers university,1
+500,3.0,Marketing & Advertising,site,8.17,Bachelor,yelp,suny oneonta,1
+500,7.0,Marketing & Advertising,strategist,19.5,Bachelor,officina 1397,williston northampton school,1
+500,4.0,Medical Device,sales representative,28.16,Bachelor,american endovascular amputation prevention,susquehanna university,1
+500,2.0,Accounting,project coordinator,15.0,Bachelor,jrm construction management,state university of new york at oswego,1
+416,1.0,Real Estate,real estate broker,9.91,MBA,compass,chapman university the george l argyros school of business and economics,1
+500,3.0,Apparel & Fashion,photographer,13.17,Bachelor,circle 5 showroom,fidm,1
+500,6.0,Financial Services,markets,37.58,Bachelor,trade treasury payments ttp,the london school of economics and political science lse,1
+500,4.0,Investment Management,portfolio,32.66,Bachelor,elequin capital lp,brown university,1
+500,3.0,Research,investment analyst,1.67,Bachelor,nasdaq,university of michigan stephen m ross school of business,1
+500,2.0,Sports,promotions,6.83,Bachelor,new york mets,elon university,1
+500,6.0,Commercial Real Estate,directors,19.58,Bachelor,vail resorts,cornell university,1
+500,5.0,Real Estate,advertising,14.16,Bachelor,colliers,syracuse university school of information studies,1
+500,5.0,"Health, Wellness & Fitness",commercial,12.92,Bachelor,audible,general assembly,1
+500,1.0,Information Technology & Services,stage,23.25,Bachelor,site and scene podcast,binghamton university,1
+500,6.0,Advertising Services,marketing consultant,33.18,Bachelor,regal resilience,st thomas university,1
+500,2.0,Fine Art,social,3.34,Bachelor,whitney museum of american art,new york university,1
+500,5.0,Commercial Real Estate,broker,7.92,Bachelor,cbre,union college,1
+500,2.0,Marketing & Advertising,public relations,3.25,Bachelor,servicenow,tulane university,1
+500,5.0,Architecture & Planning,design,17.0,Bachelor,gregory tuck architecture,university of technology sydney,1
+500,3.0,Management Consulting,business analyst,1.59,MBA,jman group,texas mccombs school of business,1
+500,1.0,Management Consulting,research,26.43,Bachelor,columbia school of social work,columbia university in the city of new york,1
+500,5.0,Biotechnology Research,human resources business,21.85,Bachelor,regeneron pharmaceuticals inc,muhlenberg college,1
+413,2.0,Financial Services,investment banking analyst,2.33,empty,evercore,brigham young university,1
+500,4.0,Computer Software,customer success,5.5,Bachelor,sap,davidson college,1
+500,7.0,Hospitality,game designer,4.76,Bachelor,flite,new york university,1
+500,1.0,Law Practice,claims examiner,5.92,Bachelor,nfp an aon company,fordham university,1
+500,3.0,Computer Software,marketing representative,8.24,Bachelor,the wall street journal,schreyer honors college at penn state,1
+500,1.0,Writing & Editing,photo,5.43,Bachelor,future,fashion institute of technology,1
+500,1.0,Financial Services,research,5.17,Bachelor,williams college,williams college,1
+500,2.0,Computer Software,cleaner,10.25,Bachelor,something fast growing awesome,university of chicago,1
+500,3.0,Cosmetics,photographer,5.09,Bachelor,nars cosmetics,fashion institute of technology,1
+500,1.0,Writing & Editing,communications coordinator,8.42,Bachelor,cure copy llc,university of utah school of medicine,1
+500,3.0,Banking,athlete,1.41,Bachelor,wells fargo,the wharton school,1
+500,1.0,Financial Services,banquet server,6.0,Bachelor,ubs,denison university,1
+453,3.0,Sports,cleaner,11.02,Bachelor,kennedys,rutgers university camden,1
+500,1.0,Broadcast Media,crew,6.0,Bachelor,msnbc,northwestern university,1
+500,2.0,Financial Services,writer,9.49,Bachelor,bloomberg lp,university of california davis,1
+500,4.0,Sports,investment analyst,13.0,Bachelor,altair quant macro fund management llc,william mary,1
+500,1.0,Computer Software,software engineering,1.34,Bachelor,stealth startup,columbia university,1
+500,1.0,Entertainment,social media,5.5,Bachelor,legoland new york resort,suny oneonta,1
+500,2.0,Non-profit Organization Management,trader,3.0,Bachelor,chimera securities,wake forest university,1
+363,3.0,Research,writer,3.25,Bachelor,columbia university,barnard college,1
+500,1.0,Fine Art,video editor,14.42,Bachelor,welcome change productions,new york university,1
+422,2.0,Biotechnology,research technician,6.41,Bachelor,memorial sloan kettering cancer center,barnard college,1
+500,2.0,Computer Software,software designer,8.75,Bachelor,dell technologies,boston college,1
+500,1.0,Law Enforcement,clerical,21.34,Bachelor,new jersey state police,montclair state university,1
+500,1.0,Law Practice,student worker,1.92,Bachelor,proskauer rose llp,colby college,1
+500,1.0,Judiciary,campaign,1.25,Bachelor,alvin bragg for manhattan district attorney,fordham university,1
+500,2.0,Financial Services,analyst,4.25,Bachelor,citadel,indiana university bloomington,1
+445,1.0,Government Administration,student worker,4.0,Bachelor,alliance for living,connecticut college,1
+500,2.0,Media Production,crew,4.58,Bachelor,cnn,fordham university,1
+500,3.0,Financial Services,financial,3.16,Bachelor,ekcl llc,new york university,1
+500,1.0,Higher Education,substitute teacher,19.75,Bachelor,henry luce foundation inc,hunter college,1
+416,2.0,Financial Services,sales consultant,0.33,Bachelor,brighthouse financial,the ohio state university fisher college of business,1
+500,2.0,Financial Services,business development officer,5.5,Bachelor,ars investment partners llc,columbia university,1
+500,2.0,Investment Banking,teaching,2.17,Bachelor,jpmorgan chase co,fordham gabelli school of business,1
+500,1.0,Biotechnology,research scientist,1.75,Bachelor,momentive,fordham university,1
+500,3.0,Computer Software,student,2.17,Bachelor,ccny grove school of engineering,the city college of new york,1
+454,4.0,Retail,site,23.49,Bachelor,l oréal,florida southern college,1
+500,2.0,Public Safety,affairs,16.49,Bachelor,henry schein,stony brook university,1
+500,2.0,Medical Practice,physician,2.08,Bachelor,bronxcare health system,nri medical college guntur,1
+500,3.0,Financial Services,portfolio analyst,2.58,Bachelor,bny wealth,georgia college state university,1
+500,1.0,Apparel & Fashion,style,6.17,Bachelor,danielle frankel,indiana university bloomington,1
+500,1.0,Civic & Social Organization,secretary,0.84,Bachelor,the switch,university of wisconsin madison,1
+500,3.0,Management Consulting,spring,0.58,Bachelor,deloitte,wake forest university,1
+428,1.0,Non-profit Organization Management,student,3.74,Bachelor,nyu department of history,new york university,1
+500,1.0,Construction,research,1.75,Bachelor,national science foundation nsf,new jersey institute of technology,1
+500,1.0,Publishing,teaching,12.0,Bachelor,court appointed special advocates of new york state casanys,northwestern university,1
+500,3.0,Staffing & Recruiting,strategy,10.09,Bachelor,college nannies sitters and tutors,arizona state university,1
+500,4.0,Marketing & Advertising,content,5.58,Bachelor,preply,istanbul technical university,1
+500,1.0,Financial Services,client services,2.75,Bachelor,alphasights,seton hall university,1
+500,4.0,Computer Software,marketing consultant,3.66,Bachelor,otter,occidental college,1
+461,3.0,Computer Software,ambassador,23.41,Bachelor,fti consulting,boston college,1
+500,1.0,Non-profit Organization Management,research,5.75,Bachelor,university of delaware,university of delaware,1
+478,3.0,Media Production,social media,10.33,Bachelor,sloomoo institute,university at albany suny,1
+500,2.0,Financial Services,photographer,3.34,Bachelor,morgan stanley,florida atlantic university college of business,1
+500,1.0,Marketing & Advertising,cashier sales,2.66,Bachelor,sotheby s,boston university,1
+500,5.0,Financial Services,investment banking,8.5,Bachelor,jefferies,schreyer honors college at penn state,1
+500,2.0,Financial Services,student worker,3.59,Bachelor,industrial and commercial bank of china,baruch college,1
+500,1.0,Marketing & Advertising,student worker,0.75,Bachelor,salesforce,new york university,1
+500,3.0,Computer Software,application developer,2.34,Bachelor,horizon blue cross blue shield of new jersey,rutgers university new brunswick,1
+494,3.0,Apparel & Fashion,hr business,3.0,Bachelor,skims,benjamin n cardozo high school,1
+500,3.0,Design,designer,23.92,Bachelor,self employed,pratt institute,1
+500,2.0,Information Technology & Services,teaching,7.17,Bachelor,princeton university,princeton university,1
+500,5.0,Marketing & Advertising,art,8.0,Bachelor,gotham,san jose state university,1
+457,1.0,Music,mechanical engineering,4.0,Bachelor,trützschler group,ahmedabad international school,1
+500,3.0,Luxury Goods & Jewelry,customer relations,8.66,Bachelor,spot on networks,fashion institute of technology,1
+500,4.0,Hospital & Health Care,strategist,30.48,Bachelor,hello heart,harvard business school online,1
+500,3.0,Marketing & Advertising,business account,9.75,Bachelor,ogilvy,tulane university,1
+379,1.0,Information Technology & Services,technical support,22.08,Bachelor,tritech communications inc,university at buffalo,1
+500,4.0,Security and Investigations,marketing communications,38.75,Bachelor,mckinsey company,the interdisciplinary center,1
+500,2.0,Entertainment,marketing representative,8.75,Bachelor,the walt disney company,loyola university maryland,1
+382,5.0,Environmental Services,environment health safety,6.83,Bachelor,bristol myers squibb,colorado state university,1
+500,2.0,Computer Software,research engineer,14.0,Bachelor,amazon web services aws,pamukkale üniversitesi paü,1
+500,6.0,Hospital & Health Care,project development,38.09,Bachelor,valley health system,the city college of new york,1
+500,4.0,Publishing,unemployed,38.32,Bachelor,december publishing inc,university of missouri saint louis,1
+500,2.0,Financial Services,engineer,4.33,Bachelor,bridgewater associates,the wharton school,1
+500,2.0,Retail,hostess,12.84,Bachelor,iyer worldwide services,mumbai university mumbai,1
+500,5.0,Manufacturing,customer success,9.0,Bachelor,linkedin,michigan state university eli broad college of business,1
+500,1.0,Financial Services,analyst,7.42,Bachelor,obra capital,duke university,1
+473,1.0,Financial Services,account officer,2.33,Bachelor,point72,fordham gabelli school of business,1
+373,5.0,Sports,unemployed,14.57,Bachelor,img,new york university,1
+500,5.0,Software Development,software engineering,15.76,Bachelor,reddit inc,carnegie mellon university,1
+500,6.0,Venture Capital and Private Equity Principals,strategic,23.25,Bachelor,beautymatter,georgetown university,1
+500,3.0,Financial Services,investment analyst,25.75,Bachelor,longwave real estate,fairfield university,1
+500,7.0,Online Media,directors,30.34,Bachelor,time,hobart and william smith colleges,1
+500,2.0,Management Consulting,event coordinator,20.08,Bachelor,dial car inc,new england college,1
+500,7.0,Information Technology & Services,technology officer,3.25,Bachelor,simplify tech,new york university,1
+419,3.0,Computer Software,software engineering,9.58,Bachelor,galvanize inc,tsinghua university,1
+380,5.0,Investment Management,investments,16.0,Bachelor,mae advisors llc,bucknell university,1
+354,2.0,Financial Services,wealth,1.33,High School,morgan stanley,tulane university,1
+389,3.0,Financial Services,investment analyst,6.0,empty,lawrence evans co llc,university of rochester,1
+500,6.0,Financial Services,research engineer,24.34,Bachelor,sixth street,northeastern university,1
+500,1.0,Higher Education,student,0.84,Bachelor,yale law journal,yale university,1
+500,2.0,Financial Services,portfolio analyst,7.66,MBA,altum capital management llc,st john s university,1
+500,6.0,Computer Software,resident,22.58,Bachelor,subway,harvard university,1
+500,5.0,Professional Training & Coaching,marketing communications,23.0,Bachelor,guidewell education,colby college,1
+500,2.0,Apparel & Fashion,digital designer,4.59,Bachelor,amorepacific,school of visual arts,1
+500,1.0,Writing & Editing,writer,9.25,Bachelor,freelance,elon university,1
+432,1.0,Government Administration,social media,11.41,High School,community lifestyle,monmouth university,1
+500,7.0,Education Management,directors,23.66,Bachelor,democracy prep public schools,caldwell university,1
+500,2.0,Political Organization,equity research,3.32,Bachelor,zuanic associates llc,fordham gabelli school of business,1
+337,1.0,Research,writer,4.5,Bachelor,yale university,yale university,1
+455,4.0,Computer Software,solutions architect,10.33,Bachelor,nbcuniversal,hunter college,1
+500,2.0,Financial Services,analyst,4.5,Bachelor,waterfall asset management llc,columbia university,1
+500,2.0,Financial Services,investment analyst,5.16,Bachelor,barings,university of north carolina at chapel hill,1
+459,1.0,Computer Software,application analyst,6.75,Bachelor,alvita care,queens college,1
+500,5.0,Marketing & Advertising,creative,0.67,Bachelor,praetors pvt ltd,institute of business administration,1
+500,2.0,Restaurants,spring,2.83,Bachelor,ubs,southern methodist university,1
+500,1.0,Management Consulting,investment analyst,9.51,Bachelor,company ventures,baruch college,1
+500,2.0,Think Tanks,research engineer,11.83,Bachelor,penn state university,rutgers school of engineering,1
+437,2.0,Design,clinical project,3.83,Bachelor,k health,fordham university,1
+500,1.0,Publishing,social media,1.67,Bachelor,her campus media,parsons school of design the new school,1
+500,3.0,Financial Services,spring,13.75,Bachelor,providence equity partners,ucla,1
+500,1.0,Research,resident,12.92,Bachelor,barnard college,barnard college,1
+413,1.0,Real Estate,spring,0.25,Bachelor,bbg inc,wisconsin school of business,1
+500,3.0,Investment Banking,investment banking analyst,5.0,Bachelor,wells fargo,dartmouth college,1
+500,2.0,Information Technology & Services,student worker,1.84,Bachelor,outfront media,montclair state university,1
+500,2.0,Computer Software,software engineer,1.33,Bachelor,mathworks,university of toronto,1
+484,2.0,Financial Services,help technician,21.67,Bachelor,the tudor group,new york university polytechnic school of engineering,1
+500,1.0,Writing & Editing,editorial,9.83,Bachelor,gagosian,columbia university,1
+478,1.0,Marketing & Advertising,retail salesperson,4.41,Bachelor,reformation,purchase college suny,1
+500,1.0,Biotechnology,mechanical engineering,4.08,Bachelor,cellino,columbia university,1
+500,1.0,Retail,industrial engineer,9.42,Bachelor,spacex,carnegie mellon university,1
+439,2.0,Hospital & Health Care,teacher,0.34,Bachelor,elevate education,the city college of new york,1
+500,3.0,Pharmaceuticals,medical writer,45.33,Bachelor,cognitive research corporation,university of pennsylvania,1
+440,2.0,Management Consulting,wealth,0.25,Bachelor,seasons of advice wealth management,southern methodist university,1
+500,2.0,Information Technology & Services,merchandise,4.0,Bachelor,burlington stores inc,rutgers university new brunswick,1
+442,2.0,Research,clinical research,3.91,Bachelor,the parsons research center for psychedelic healing,hamilton college,1
+500,2.0,Higher Education,teaching,1.25,Bachelor,publicolor,new york university,1
+500,1.0,Civic & Social Organization,lifeguard,14.16,Bachelor,city national bank,the george washington university,1
+500,1.0,Fine Art,photographer,2.16,Bachelor,dyckman farmhouse museum,riverdale country school,1
+500,4.0,Financial Services,investments,5.25,Bachelor,goldman sachs,cornell university,1
+447,1.0,Marketing & Advertising,graphic design,9.26,Bachelor,coloring on canvas,purchase college suny,1
+383,3.0,Government Administration,architect,2.17,Bachelor,interboro partners,new jersey institute of technology,1
+500,2.0,Financial Services,brand ambassador,6.33,Bachelor,s p global,university of vermont,1
+500,1.0,Public Relations & Communications,creative,19.56,Bachelor,fox entertainment,new york university,1
+500,3.0,Accounting,spring,9.08,Bachelor,bdo usa,iona university,1
+500,1.0,Media Production,computer technician,7.17,Bachelor,new york city police department,hofstra university,1
+500,1.0,Higher Education,student,1.83,Bachelor,jane street,carnegie mellon university,1
+500,1.0,Law Practice,student worker,0.66,Bachelor,cross county savings bank,archbishop molloy high school,1
+497,1.0,Performing Arts,writer,3.0,Bachelor,broadcast music inc bmi,northeastern university,1
+500,1.0,Professional Training & Coaching,teaching,3.42,Bachelor,university of maryland robert h smith school of business,university of maryland robert h smith school of business,1
+500,5.0,Higher Education,editor,5.49,Bachelor,saban onyx inc,queens college,1
+500,2.0,Management Consulting,marketing research,7.24,Bachelor,analytic partners,university of richmond,1
+500,6.0,Architecture & Planning,writer,34.33,Bachelor,nelson worldwide,university of maryland,1
+500,3.0,Hospital & Health Care,specialty sales representative,20.75,Bachelor,natera,new york university,1
+500,5.0,Financial Services,resident,5.68,Bachelor,u s bank,university of wisconsin milwaukee,1
+500,1.0,Non-profit Organization Management,social media,5.98,Bachelor,cypress hills local development corporation,brown university,1
+500,2.0,Computer Software,developer,6.84,Bachelor,everstory,university of michigan,1
+500,4.0,Computer Software,talent acquisition,9.08,Bachelor,tiktok,rutgers university newark,1
+425,1.0,Computer Software,software engineering,1.08,Bachelor,vibranium labs,njit ying wu college of computing,1
+500,2.0,Primary/Secondary Education,financial adviser,5.16,Bachelor,premium merchant funding,university of connecticut,1
+500,2.0,Financial Services,lifeguard,9.75,Bachelor,gallagher,emory university goizueta business school,1
+500,1.0,Non-profit Organization Management,student worker,2.92,Bachelor,international rescue committee,new york university,1
+500,1.0,Fine Art,stage,1.5,Bachelor,nino mier gallery,new york university,1
+500,3.0,Computer Software,art,27.5,Bachelor,9j concept store,fashion institute of technology,1
+500,1.0,Financial Services,logistics coordinator,1.84,Bachelor,nyu model united nations,new york university,1
+500,1.0,Financial Services,crew,0.83,empty,lohss construction inc,providence college,1
+500,1.0,Apparel & Fashion,graphic designer,4.25,Bachelor,wonton design,parsons school of design the new school,1
+500,3.0,Financial Services,financial adviser,24.9,Bachelor,epic wealth management llc,the wharton school,1
+500,3.0,Financial Services,equity analyst,0.59,Bachelor,morgan stanley,university of wisconsin madison,1
+500,1.0,Marketing & Advertising,brand marketing,7.33,Bachelor,haddad brands,s i newhouse school of public communications at syracuse university,1
+500,4.0,Entertainment,marketing consultant,3.42,Bachelor,vevo,franklin marshall college,1
+500,1.0,Food & Beverages,spring,0.25,Bachelor,the wc group,new york university,1
+500,1.0,Computer Software,software engineering,1.0,Bachelor,brown university school of engineering,brown university,1
+500,2.0,Design,user researcher,3.57,Bachelor,gensler,pratt institute,1
+500,6.0,Computer Software,directors,12.42,Bachelor,alphasense,brown university,1
+391,5.0,Entertainment,teaching,14.41,Bachelor,hallmark media,st john s university,1
+394,1.0,Higher Education,teaching,12.4,Bachelor,lafayette college writing program,lafayette college,1
+413,2.0,Financial Services,client service,11.41,Bachelor,corient,high point regional high school,1
+453,1.0,Financial Services,event coordinator,0.24,Bachelor,celebrations in the kitchen,stony brook university college of business,1
+500,5.0,Professional Training & Coaching,creative,3.25,Bachelor,w signature,harvard extension school,1
+500,1.0,Public Relations & Communications,graphic designer,7.99,Bachelor,merged media,northeastern university,1
+500,4.0,Advertising Services,software engineering,11.08,Bachelor,evolutioniq,new york institute of technology,1
+500,1.0,Apparel & Fashion,supply chain analyst,6.58,Bachelor,core home,university of wisconsin madison,1
+429,3.0,Venture Capital & Private Equity,operations,14.83,Bachelor,apax,hunter college,1
+500,1.0,Law Practice,law,3.16,Bachelor,new york supreme court appellate division first department,baruch college,1
+500,1.0,Financial Services,campus ambassador,0.08,Bachelor,ncaa,yeshiva university,1
+500,3.0,Computer Networking Products,software designer,11.33,Bachelor,siemens,comsats university islamabad,1
+409,1.0,Accounting,financial analyst,2.0,Bachelor,becker electronics,zicklin school of business,1
+500,1.0,Computer Software,software engineering,3.5,Bachelor,neuralseek,rutgers university new brunswick,1
+500,5.0,Advertising Services,media planner,5.42,Bachelor,mindshare,ithaca college,1
+418,1.0,Computer & Network Security,data scientist,2.25,Bachelor,shraddha infosystems,rutgers university new brunswick,1
+500,4.0,Investment Management,investment analyst,1.0,Bachelor,abs global investments,university of auckland,1
+500,2.0,Computer Software,recruitment coordinator,3.75,Bachelor,justworks,university of arizona,1
+500,1.0,Investment Banking,equity,2.58,Bachelor,canyon partners llc,nyu stern school of business,1
+500,6.0,Management Consulting,compensation,8.92,Bachelor,accordion,the university of connecticut school of business,1
+398,3.0,Hospital & Health Care,clinical,7.5,Bachelor,memorial sloan kettering cancer center,long island university,1

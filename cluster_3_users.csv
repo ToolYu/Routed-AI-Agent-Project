@@ -1,0 +1,718 @@
+numconnections,seniority,currentindustry,mapped_role,total_experience_years,highest_degree,company_cleaned,campus_cleaned,cluster_id
+500,2.0,Government Administration,nanny,28.28,Doctor,free people,medical university of south carolina,3
+373,6.0,Biotechnology,research scientist,26.25,Doctor,tb alliance,university of houston,3
+500,5.0,Biotechnology,scientist,16.33,Doctor,bristol myers squibb,ut southwestern medical center,3
+500,2.0,Medical Practice,medical,19.25,Doctor,new york university college of dentistry,new york university college of dentistry,3
+500,6.0,Law Practice,attorney,3.0,Doctor,kaufmann gildin robbins llp,villanova university charles widger school of law,3
+500,1.0,Consumer Electronics,laboratory technician,21.0,Doctor,brookhaven national laboratory,university of cambridge,3
+500,5.0,Legal Services,attorney,31.5,Doctor,practising law institute pli,touro university jacob d fuchsberg law center,3
+500,6.0,Advertising Services,directors,73.25,MBA,newyork presbyterian hospital,stanford university graduate school of business,3
+471,3.0,Research Services,research,3.66,Doctor,columbia university in the city of new york,harvard university,3
+500,5.0,Strategic Management Services,lecturer,28.74,Doctor,world monuments fund,university of california los angeles,3
+500,2.0,Law Practice,spring,24.23,Doctor,linklaters,georgetown university law center,3
+500,1.0,Public Relations and Communications Services,host,20.24,Doctor,communicating education podcast,university of oxford department for continuing education,3
+500,7.0,Telecommunications,network architect,22.83,Doctor,nokia,university of wisconsin madison,3
+408,4.0,Higher Education,professor,54.83,Doctor,the graduate center city university of new york cuny,harvard university,3
+500,3.0,Law Practice,attorney,35.5,Doctor,salesforce,washington university in st louis school of law,3
+500,2.0,Law Practice,law,5.67,Doctor,latham watkins,st john s university school of law,3
+500,6.0,Law Practice,attorney,1.75,Doctor,hunton andrews kurth llp,university of pennsylvania law school,3
+500,5.0,Law Practice,attorney,10.51,Doctor,greenberg traurig llp,seton hall university school of law,3
+500,5.0,Information Technology & Services,marketing consultant,57.57,Bachelor,clarifai,duke university,3
+500,2.0,Financial Services,quantitative analyst,19.58,Doctor,code org,ucl,3
+500,3.0,Financial Services,education,13.41,Doctor,jpmorganchase,the george washington university school of business,3
+500,2.0,Law Practice,attorney,17.08,Doctor,geoffrey g gussis esq,washington university school of law,3
+500,2.0,Law Practice,teaching,22.09,Doctor,harvard carr center for human rights policy,harvard law school,3
+500,4.0,Pharmaceuticals,instructional designer,28.33,Doctor,daiichi sankyo inc,seton hall university,3
+500,5.0,Research Services,scientist,21.08,Doctor,regeneron,seconda università degli studi di napoli,3
+500,5.0,Law Practice,attorney,89.5,Doctor,university at buffalo alumni association,new york law school,3
+500,2.0,Hospital & Health Care,physical therapist,4.92,Doctor,metro physical aquatic therapy,northeastern university,3
+500,2.0,Entertainment,actor,81.88,Bachelor,signature theatre,harvard university,3
+500,1.0,Biotechnology,research,13.24,Doctor,columbia university irving medical center,columbia university,3
+500,5.0,Law Practice,counsel,21.91,Doctor,bny mellon,columbia law school,3
+500,6.0,Law Practice,attorney,11.25,Doctor,slager madry llc,the university of connecticut school of law,3
+500,4.0,Software Development,technical product,45.0,Master,actian,esig strasbourg,3
+500,4.0,Renewable Energy Semiconductor Manufacturing,innovation,18.58,Doctor,amplo global inc,uncc learn,3
+500,2.0,Research Services,quantitative analyst,9.92,Doctor,point72,columbia university,3
+500,4.0,Law Practice,law,7.09,Doctor,sullivan cromwell llp,mcgill university faculty of law,3
+500,4.0,Law Practice,attorney,31.76,Doctor,meta,st john s university school of law,3
+500,4.0,Civil Engineering,professor,12.74,Doctor,southeast university,columbia university in the city of new york,3
+500,4.0,Broadcast Media Production and Distribution,producer,19.16,Doctor,pbs news hour,university of arizona,3
+500,6.0,Environmental Services,directors,40.91,Master,acgih american conference of governmental industrial hygienists,columbia university mailman school of public health,3
+500,6.0,Law Practice,attorney,9.99,Doctor,latham watkins,brooklyn law school,3
+425,1.0,Non-profit Organization Management,front receptionist,10.16,Doctor,weill cornell imaging at newyork presbyterian,rutgers new jersey medical school,3
+386,1.0,Information Technology & Services,teaching,15.41,Doctor,barnard college,the graduate center city university of new york,3
+500,2.0,Financial Services,analyst,21.24,Doctor,blue owl healthcare opportunities,purdue university outstanding graduate student award recipient the arnold kent balls award,3
+500,5.0,Pharmaceuticals,systems engineering,10.66,Doctor,pfizer,arizona state university,3
+500,3.0,Law Practice,counsel,14.91,Doctor,justworks,university of pennsylvania,3
+500,4.0,Management Consulting,economist,11.75,Doctor,icon wirtschaftstreuhand gmbh,new york university school of law,3
+500,2.0,Hospital & Health Care,nursing,27.48,Doctor,columbia university irving medical center,columbia university school of nursing,3
+500,3.0,Mental Health Care,clinical,18.0,Doctor,teachers college columbia university,columbia university,3
+500,5.0,Higher Education,professor,68.99,Doctor,the new school,chatham university,3
+500,4.0,Law Enforcement,security guard,46.41,Master,ocean county prosecutor s office,carlow university,3
+500,3.0,Biotechnology,research scientist,15.5,Doctor,proteovant therapeutics,university of kentucky,3
+500,4.0,Law Practice,lawyer,14.76,Doctor,infosys,louisiana state university,3
+500,3.0,Higher Education,research scientist,34.25,Doctor,dana foundation,rockefeller university,3
+500,4.0,Computer Software,research scientist,5.09,Doctor,meta,cornell university,3
+435,6.0,Law Practice,attorney,5.66,Doctor,rende ryan downes llp,pace university school of law,3
+315,3.0,Law Practice,attorney,4.58,Doctor,the shapiro firm,fordham university school of law,3
+500,5.0,Medical Practice,teacher,14.25,Doctor,columbia university,columbia university college of dental medicine,3
+500,3.0,Research Services,scientist,17.5,Doctor,integra lifesciences,rutgers business school,3
+500,3.0,Mental Health Care,clinical,84.67,Doctor,self employed,columbia university in the city of new york,3
+500,5.0,Law Practice,law,17.25,Doctor,new york university,fordham university school of law,3
+298,7.0,Hospital & Health Care,researcher,105.92,Doctor,signpath pharma,new york university graduate school of arts and science,3
+500,3.0,Capital Markets,law,13.59,Doctor,citadel securities,loyola university chicago school of law,3
+448,3.0,Research,research scientist,10.92,Doctor,bytedance,boston college,3
+410,3.0,Law Practice,law,3.75,Doctor,rosenberg family law pc,cardozo school of law,3
+500,6.0,Legal Services,attorney,7.0,Doctor,mcdermott will emery,elisabeth haub school of law at pace university,3
+500,7.0,Higher Education,directors,20.35,Doctor,logos ri,sapienza università di roma,3
+500,2.0,Research,teaching,15.91,Doctor,northwell health,touro college of osteopathic medicine,3
+500,4.0,Higher Education,teacher,64.0,Doctor,teachers college columbia university,rand school of public policy,3
+500,2.0,Performing Arts,actor,45.66,Doctor,theater,royal college of dramatic art,3
+500,5.0,Medical Practice,physical therapist,13.58,Doctor,the pelvic connection physical therapy,utica university,3
+500,3.0,Law Practice,law,3.24,Doctor,rivkin radler llp,maurice a deane school of law at hofstra university,3
+500,4.0,Real Estate,directors,33.16,Doctor,university of michigan stephen m ross school of business,syracuse university college of law,3
+457,2.0,Research,researcher,7.5,Doctor,new york genome center,columbia university in the city of new york,3
+500,5.0,Retail,actor,41.07,Doctor,starbucks,american university,3
+500,3.0,Law Practice,law,8.08,Doctor,quinn emanuel,columbia law school,3
+500,5.0,Professional Training & Coaching,actor,4.08,Bachelor,kairacenter,international open university,3
+456,5.0,Law Practice,professor,13.66,Doctor,indiana university kelley school of business,state university of new york at buffalo law school,3
+500,1.0,Law Practice,law,26.16,Doctor,goodwin,york university osgoode hall law school,3
+500,5.0,Graphic Design,creative,52.91,Bachelor,freelance,milwaukee institute of art design,3
+500,3.0,Higher Education,law,12.99,Doctor,perry law,harvard law school,3
+500,5.0,Information Technology & Services,development engineer,26.41,Doctor,canonical,university at albany,3
+500,4.0,Market Research,professor,22.84,Doctor,fors marsh,university of iowa,3
+500,4.0,Commercial Real Estate,resident,9.33,Doctor,new york city economic development corporation,westminster theological seminary,3
+449,2.0,Research Services,professor,10.5,Doctor,nyu school of medicine,cornell university,3
+397,5.0,Higher Education,researcher,17.75,Doctor,the shalom hartman institute of north america,university of chicago,3
+500,2.0,Music,actor,107.82,Master,chrono international,manhattan school of music,3
+433,2.0,Computer Software,software engineer,14.08,Doctor,google,weizmann institute of science,3
+494,2.0,Higher Education,writer,8.91,Doctor,princeton university,princeton university,3
+500,4.0,Writing & Editing,content creator,52.41,Master,ai educator brain,teachers college columbia university,3
+500,3.0,Higher Education,research scientist,11.09,Doctor,columbia university in the city of new york,oregon state university,3
+500,6.0,Accounting,cfo,58.4,Bachelor,hexagon consulting group llc,nyu stern school of business,3
+500,6.0,IT Services and IT Consulting,solutions architect,63.49,Bachelor,komodo health,university of brighton,3
+500,2.0,International Affairs,law,14.74,Doctor,morgan lewis bockius llp,albany law school,3
+500,4.0,Hospitals and Health Care,technology consultant,57.25,Master,self employed,the city university of new york richmond college,3
+395,1.0,Writing & Editing,teaching,6.08,Doctor,yale university,university of oxford,3
+375,3.0,Primary/Secondary Education,writer,0.75,High School,fide world chess federation,harvard university,3
+420,1.0,Higher Education,professor,11.66,Doctor,adelphi university,icahn school of medicine at mount sinai,3
+500,4.0,Legal Services,law,15.0,Doctor,pepsico,vermont law and graduate school,3
+500,5.0,Computer Networking Products,machine engineer,12.41,Doctor,amazon,columbia university,3
+500,1.0,Financial Services,quantitative analyst,17.58,Doctor,millennium,princeton university,3
+402,3.0,Law Practice,attorney,10.41,Doctor,u s attorney s office for the southern district of new york,yale law school,3
+500,2.0,Higher Education,scientist,14.92,Doctor,neochromosome inc,mcgill university,3
+500,6.0,Marketing & Advertising,creative,19.92,Doctor,sap,university of pennsylvania,3
+500,2.0,Computer Games,artist,64.5,Master,parsons school of design the new school,university of architecture civil engineering and geodesy,3
+500,2.0,Hospital & Health Care,physician,17.92,Doctor,icahn school of medicine at mount sinai,icahn school of medicine at mount sinai,3
+500,5.0,Law Practice,counsel,15.17,Doctor,pillsbury winthrop shaw pittman llp,vermont law and graduate school,3
+500,3.0,Performing Arts,teacher,27.55,Doctor,craigardan,columbia university vagelos college of physicians and surgeons,3
+304,3.0,Law Practice,law,6.15,Doctor,reed smith llp,st john s university school of law,3
+500,5.0,Higher Education,social,14.15,Doctor,united nations,rutgers university,3
+414,3.0,Research,research scientist,11.33,Doctor,the metropolitan museum of art,università di pavia,3
+500,5.0,Pharmaceutical Manufacturing,medical,21.08,Doctor,abbvie,edinburgh napier university,3
+500,6.0,Law Practice,lawyer,7.58,Doctor,mcdermott will schulte,new york university school of law,3
+500,1.0,Hospital & Health Care,substitute teacher,7.75,Doctor,robert wood johnson university hospital,rutgers university,3
+500,4.0,Business Consulting and Services,professor,12.59,Doctor,vesterager consulting,institute for psychoanalytic psychotherapy,3
+393,5.0,Pharmaceuticals,scientific,8.16,Doctor,bristol myers squibb,vanderbilt university,3
+500,6.0,Computer Software,strategist,56.75,Master,fortune,new york university,3
+500,1.0,Software Development,machine engineer,11.49,Doctor,capital one,columbia university,3
+500,2.0,Research,teaching,11.5,Doctor,columbia engineering,columbia university in the city of new york,3
+500,4.0,Medical Device,scientist,13.58,Doctor,quidelortho,icahn school of medicine at mount sinai,3
+500,6.0,Hospitals and Health Care,clinical,2.17,Doctor,philips,paracelsus medizinische privatuniversität,3
+415,2.0,Financial Services,law,7.67,Doctor,sidley austin llp,fordham university school of law,3
+390,6.0,Accounting,cfo,52.58,MBA,prager metis cpas,pace university,3
+500,4.0,Law Practice,attorney,20.66,Doctor,fried frank,georgetown university law center,3
+500,1.0,Law Practice,law,4.92,Doctor,cherre,columbia law school,3
+500,4.0,Higher Education,professor,7.26,Doctor,long island university,st john s university,3
+483,5.0,Education Management,teacher,49.67,Master,middle way school,university of pennsylvania,3
+500,5.0,Higher Education,professor,20.83,Doctor,utrecht university,yale law school,3
+500,2.0,Law Practice,lawyer,20.75,Doctor,career break,new york university,3
+500,1.0,Non-profit Organizations,social,9.59,Doctor,suffolk county bar association,dowling college,3
+500,6.0,Medical Practices,medical,31.67,Doctor,roy g geronemus md,university of miami leonard m miller school of medicine,3
+500,5.0,Biotechnology,research scientist,12.33,Doctor,azenta life sciences,dartmouth college,3
+500,5.0,Pharmaceutical Manufacturing,medical affairs,19.67,Doctor,syndax pharmaceuticals,temple university lewis katz school of medicine,3
+500,3.0,Law Practice,law,10.74,Doctor,kim serritella llp,university of pennsylvania carey law school,3
+500,5.0,Legal Services,counsel,30.25,Doctor,unified law group pb llc,university of connecticut school of law,3
+500,2.0,Research Services,developer,20.25,Doctor,hudson river trading,university of california davis,3
+407,2.0,Pharmaceuticals,statistician,9.0,Doctor,boehringer ingelheim,university of michigan rackham graduate school,3
+500,7.0,Pharmaceuticals,medical,26.92,Doctor,vivace therapeutics inc,roswell park cancer institute,3
+403,4.0,"Health, Wellness & Fitness",rn,15.91,Doctor,hospital for special surgery,columbia university in the city of new york,3
+347,3.0,Law Practice,law,12.41,Doctor,law office of linda j hockstein,new york law school,3
+500,4.0,Pharmaceuticals,research scientist,14.92,Doctor,wuxi biologics,peking university,3
+500,3.0,Electrical & Electronic Manufacturing,research scientist,11.09,Doctor,columbia university,korea advanced institute of science and technology,3
+500,3.0,International Affairs,law,18.09,Doctor,akin gump strauss hauer feld llp,university of ottawa,3
+453,2.0,International Affairs,law,10.15,Doctor,perkins coie llp,american university washington college of law,3
+470,7.0,Law Practice,attorney,30.83,Doctor,nomosfit,university of virginia school of law,3
+500,2.0,Higher Education,teaching,14.58,Doctor,columbia university school of general studies,columbia university in the city of new york,3
+500,2.0,Law Practice,law,12.5,Doctor,chiesa shahinian giantomasi pc,fordham university school of law,3
+437,4.0,Pharmaceuticals,medical science liaison,9.75,Doctor,bayer,temple university lewis katz school of medicine,3
+500,2.0,Research,teaching,9.83,Doctor,new york university,university of california davis,3
+500,3.0,Hospital & Health Care,physician,13.66,Doctor,catholic health,northwell health staten island university hospital,3
+500,6.0,Executive Offices,financial officer,44.25,Doctor,marex,new york university leonard n stern school of business,3
+500,2.0,Law Practice,research scientist,14.33,Doctor,servilla whitney llc,seton hall university school of law,3
+500,3.0,Research,user researcher,15.5,Doctor,klarna,rutgers university school of communication and information,3
+500,4.0,Legal Services,counsel,19.0,Doctor,the bazooka companies llc,university of colorado anschutz medical campus,3
+500,4.0,IT Services and IT Consulting,public affairs,16.58,Doctor,new york state bar association,university of illinois college of law,3
+414,2.0,Non-profit Organization Management,law,8.92,Doctor,j h rosenblum pllc,new york university,3
+500,2.0,Music,editor,58.11,Bachelor,real life cinema,long island university global,3
+500,5.0,Medical Practice,physician,8.84,Doctor,icahn school of medicine at mount sinai,university of florida college of medicine,3
+500,6.0,Hospital & Health Care,clinical,33.49,Doctor,upstate medical university,state university of new york upstate medical university,3
+500,6.0,Information Technology & Services,software architect,32.5,Doctor,aidaa,rutgers university,3
+500,7.0,Financial Services,information security officer,27.24,Doctor,prudential financial,university of pittsburgh school of law,3
+383,2.0,Research Services,editor,11.09,Doctor,nature research publishing,the university of freiburg,3
+500,3.0,Public Policy Offices,research,8.0,Doctor,rand,the data incubator,3
+500,4.0,Higher Education,research scientist,49.82,Doctor,the cooper union for the advancement of science and art,yale university,3
+500,7.0,Executive Offices,coo,68.99,Bachelor,khubani enterprises,montclair state university,3
+390,3.0,Research,research scientist,8.33,Doctor,fauna robotics,university of tsukuba,3
+500,4.0,Book and Periodical Publishing,editor,45.08,empty,us weekly,universidad de san andrés,3
+500,4.0,Public Relations and Communications Services,teaching,20.99,Doctor,fairleigh dickinson university,university of arizona,3
+500,7.0,Software Development,research engineer,19.92,Doctor,mitek systems,saint petersburg state electrotechnical university leti,3
+500,6.0,Law Practice,attorney,13.34,Doctor,crowell moring llp,columbia law school,3
+500,6.0,Higher Education,social,39.67,Doctor,thenet training for health equity network,new york medicine jobs,3
+500,1.0,Hospital & Health Care,research,9.83,Doctor,genentech,the city university of new york,3
+500,6.0,Law Practice,directors,31.26,Doctor,bailey duquette p c,university of maryland francis king carey school of law,3
+500,2.0,Primary/Secondary Education,teacher,42.16,Master,atypical ai,the city college of new york,3
+500,5.0,"Museums, Historical Sites, and Zoos",strategic,18.0,Doctor,leap beijing,new york university,3
+500,2.0,Research,professor,16.99,Doctor,adams state university,university of missouri columbia,3
+500,5.0,Non-profit Organization Management,researcher,45.16,Doctor,upstate ny energy storage engine,the state university of new york,3
+455,2.0,Hospital & Health Care,research,9.16,Doctor,hospital for special surgery,albert einstein college of medicine,3
+500,5.0,Higher Education,writer,69.08,Doctor,hunter college,ucla,3
+500,5.0,Law Practice,attorney,9.0,Doctor,jackson lewis p c,new york university school of law,3
+464,2.0,Research Services,research technician,15.0,Doctor,freelance,university of münster,3
+500,6.0,Hospitals and Health Care,attorney,23.42,Doctor,mcdermott will schulte,boston university school of law,3
+500,2.0,Semiconductors,research scientist,11.5,Doctor,intel corporation,columbia university in the city of new york,3
+500,4.0,Higher Education,professor,5.17,Doctor,baruch college,baruch college,3
+500,1.0,Law Practice,community,22.74,Doctor,poshmark,elisabeth haub school of law at pace university,3
+500,1.0,Law Practice,law,10.67,Doctor,new york state executive chamber,harvard kennedy school of government,3
+500,6.0,Investment Banking,equity,30.75,Doctor,ascento capital invest,new york university school of law,3
+500,4.0,Hospital & Health Care,physician,16.25,Doctor,northwell health,suny downstate medical center,3
+500,4.0,Law Practice,attorney,19.92,Doctor,cozen o connor,temple university james e beasley school of law,3
+500,4.0,Law Practice,law,6.66,Doctor,con edison,temple university james e beasley school of law,3
+458,2.0,Biotechnology Research,equity research,13.33,Doctor,stifel financial corp,weill cornell graduate school of medical sciences,3
+500,3.0,Research Services,research scientist,9.66,Doctor,columbia university in the city of new york,utah state university,3
+500,2.0,Hospital & Health Care,physician,2.83,Doctor,new york presbyterian hospital weill cornell medical center,geisel school of medicine at dartmouth,3
+500,2.0,Research Services,teacher,8.99,Doctor,princeton university,columbia university in the city of new york,3
+500,5.0,Motion Pictures & Film,writer,51.62,Master,purchase college suny,city university of new york city college,3
+500,1.0,Law Practice,law,5.91,Doctor,staff attorney s office united states court of appeals for the second circuit,cardozo school of law,3
+500,5.0,Law Practice,attorney,21.83,Doctor,meister seelig fein pllc,maurice a deane school of law at hofstra university,3
+500,2.0,Law Practice,equity,1.66,Doctor,davis polk wardwell llp,new york university school of law,3
+500,2.0,Law Practice,food service worker,1.75,Doctor,davis polk wardwell llp,william mary law school,3
+500,5.0,Law Practice,attorney,12.08,Doctor,morvillo abramowitz grand iason anello pc,columbia law school,3
+500,5.0,Education Administration Programs,strategist,19.67,Doctor,columbia business school,insead,3
+500,5.0,Philanthropy,professor,15.42,Doctor,foundation for opioid response efforts,rutgers university,3
+500,6.0,Online Audio and Video Media,directors,45.24,Doctor,golden peak media creative enthusiast network,harvard law school,3
+392,4.0,Accounting,tax accountant,51.17,Bachelor,rotenberg meril certified public accountants,the university of connecticut,3
+500,4.0,Financial Services,development consultant,29.33,Doctor,federal reserve bank of new york,grenoble ecole de management,3
+500,1.0,Research,teaching,20.67,Doctor,net impact nyc,drexel university college of medicine,3
+399,3.0,Biotechnology Research,teaching,15.32,Doctor,columbia university irving medical center,joan sanford i weill medical college of cornell university,3
+500,3.0,Law Practice,law,5.91,Doctor,simpson thacher bartlett llp,duke university school of law,3
+500,1.0,Mental Health Care,teaching,13.66,Doctor,vibrant journey counseling pllc,midwestern state university,3
+500,5.0,Biotechnology,medical science liaison,19.25,Doctor,bristol myers squibb,university of illinois chicago,3
+457,2.0,Law Practice,law,8.83,Doctor,willkie farr gallagher llp,cornell law school,3
+500,4.0,Pharmaceuticals,scientist,8.5,Doctor,merck,university of wisconsin madison,3
+500,2.0,Medical Device,technical sales representative,15.16,Doctor,nikon instruments,northwestern university pritzker school of law,3
+500,5.0,Pharmaceutical Manufacturing,research scientist,13.66,Doctor,weill cornell medicine,university of iowa,3
+500,5.0,Education Administration Programs,professor,27.92,Doctor,state university of new york college at old westbury,city university of new york graduate center,3
+500,2.0,Capital Markets,quantitative analyst,5.08,Doctor,citadel securities,columbia university,3
+500,1.0,Primary and Secondary Education,teaching,10.0,Doctor,trevor day school,the university of chicago,3
+500,1.0,Information Technology & Services,business development,50.83,Master,lunch break,university of denver,3
+500,2.0,Non-profit Organizations,writer,50.67,Master,the aspen institute,michigan state university,3
+500,5.0,Consumer Goods,analytics,24.0,Doctor,whirlpool corporation,virginia commonwealth university,3
+500,2.0,Law Practice,attorney,18.74,Doctor,tor ekeland law pllc,maurice a deane school of law at hofstra university,3
+500,5.0,Biotechnology,scientist,14.92,Doctor,regeneron,university of alabama at birmingham,3
+500,5.0,Higher Education,professor,9.75,Doctor,hunter college,boston college,3
+400,4.0,Mental Health Care,teacher,18.25,Doctor,bushwick therapy,fordham university,3
+500,5.0,Biotechnology,research,17.41,Doctor,rutgers university,northwestern university,3
+422,5.0,Hospital & Health Care,physician,22.09,Doctor,nyu grossman school of medicine,new york university,3
+500,3.0,Education Administration Programs,teacher,47.93,Doctor,university of miami,lesley university,3
+500,2.0,Higher Education,teaching,11.9,Doctor,universidade federal de rondônia,new york university,3
+500,4.0,Pharmaceutical Manufacturing,strategy consultant,10.26,Doctor,sanofi,tufts university school of medicine,3
+500,3.0,Hospital & Health Care,research scientist,18.0,Doctor,memorial sloan kettering cancer center,indian institute of technology guwahati,3
+500,5.0,Research Services,software engineering,41.08,Doctor,the walt disney company,columbia business school,3
+500,2.0,Semiconductors,research,3.49,Doctor,new york university,new york university,3
+373,3.0,Law Practice,law,5.0,Doctor,law offices of michael s weinstock llc,st john s university school of law,3
+500,7.0,Professional Training and Coaching,directors,1.0,Doctor,access consultation and psychology pc,university of denver,3
+500,5.0,Legal Services,investigator,15.75,Doctor,cravath swaine moore llp,harvard law school,3
+500,2.0,Capital Markets,research,5.67,Doctor,citadel securities,carnegie mellon university school of computer science,3
+500,5.0,Design Services,professor,34.83,Doctor,farmingdale state college,edinburgh napier university,3
+500,5.0,Law Practice,professor,2.0,Doctor,new york university school of law,new york university school of law,3
+500,5.0,Public Policy,social,23.83,Doctor,community sponsorship hub,american university,3
+500,2.0,Book and Periodical Publishing,writer,73.23,Master,u s naval institute,cornell university,3
+500,4.0,Law Practice,law,19.0,Doctor,new jersey state office of governor jon corzine,columbia law school,3
+500,6.0,Financial Services,quantitative analyst,12.0,Doctor,the options group,university of illinois urbana champaign,3
+500,5.0,Insurance,lawyer,19.01,Doctor,balance partners,northeastern university school of law,3
+500,2.0,Research Services,law,3.67,Doctor,u s district court district of massachusetts,harvard law school,3
+500,3.0,Computer Hardware,attorney,11.16,Doctor,fct administration,the university of texas at austin,3
+500,5.0,Higher Education,professor,25.26,Doctor,columbia engineering,the united states army war college,3
+439,6.0,Law Practice,strategic,15.42,Doctor,hanschke associates,new york law school,3
+500,7.0,Internet,marketing consultant,58.34,Bachelor,consortium brand partners,yale university,3
+500,2.0,Transportation/Trucking/Railroad,communication,38.67,High School,local district,brookdale community college,3
+500,3.0,Research Services,teaching,25.07,Doctor,american council of trustees and alumni,university of cambridge,3
+500,2.0,Semiconductor Manufacturing,materials engineer,24.08,Doctor,mckinsey company,michigan state university,3
+500,5.0,Non-profit Organization Management,teacher,58.4,Bachelor,pace university,pace university,3
+500,4.0,Financial Services,research analyst,34.57,Doctor,free university of tbilisi,cornell university,3
+500,5.0,Civil Engineering,civil engineer,11.0,Doctor,aecom consult,harvard university,3
+313,3.0,Law Practice,law,9.83,Doctor,jones day,tulane university law school,3
+500,5.0,Higher Education,education,21.91,Doctor,yale university school of medicine,teachers college columbia university,3
+500,4.0,Civil Engineering,engagement,14.74,Doctor,capgemini invent,university of cambridge,3
+500,2.0,Software Development,system software engineer,43.75,Doctor,meta,rice university,3
+500,6.0,Law Practice,attorney,10.08,Doctor,the bazelon center for mental health law,fordham university school of law,3
+159,3.0,Research,writer,104.08,empty,inaturalist org,university of cambridge,3
+500,6.0,Law Practice,counsel,6.34,Doctor,paul weiss rifkind wharton garrison,university of california los angeles school of law,3
+500,6.0,Computer Software,software engineering,16.74,Doctor,pendo io,university of haifa,3
+500,2.0,Financial Services,research,17.0,Doctor,castleton commodities international,mcgill university,3
+500,6.0,Biotechnology,research scientist,24.25,Doctor,gameto,harvard university,3
+475,3.0,Chemical Manufacturing,research scientist,11.08,Doctor,columbia university,columbia university,3
+500,4.0,Higher Education,professor,16.33,Doctor,john jay college cuny,bar ilan university,3
+500,6.0,Capital Markets,unemployed,8.67,Doctor,two sigma,the graduate center city university of new york,3
+500,2.0,Mental Health Care,social worker,18.0,Doctor,center for family guidance,the new school for social research,3
+352,4.0,Pharmaceuticals,research chemist,77.72,Doctor,yabao pharmaceutical group co ltd,university of utah,3
+500,5.0,Biotechnology,research scientist,11.0,Doctor,gsk,cornell law school,3
+500,5.0,Law Practice,lawyer,32.67,Doctor,aig,syracuse university college of law,3
+500,3.0,Cosmetics,research scientist,13.08,Doctor,l oréal,carnegie mellon university,3
+500,7.0,Entertainment Providers,producer,70.65,Master,sundance institute,universidade católica portuguesa,3
+500,6.0,Financial Services,capital markets,9.17,Doctor,royal bank of canada,princeton university,3
+500,4.0,Research Services,research,15.83,Doctor,columbia university mailman school of public health,medical university of south carolina,3
+500,5.0,Spectator Sports,attorney,11.92,Doctor,national basketball association nba,columbia business school,3
+500,5.0,Law Practice,attorney,14.91,Doctor,kroll,the george washington university law school,3
+500,5.0,Law Practice,law,40.76,Doctor,columbia university graduate school of architecture planning preservation,new york university,3
+500,5.0,Research Services,researcher,20.91,Doctor,world economic forum,columbia sipa,3
+500,5.0,Computer Software,research scientist,25.74,Doctor,google,moravian university,3
+500,1.0,Computer Software,research,8.99,Doctor,new york university,new york university,3
+500,3.0,Biotechnology,research scientist,3.41,Doctor,genentech,university of oxford,3
+500,5.0,Management Consulting,scientific,9.25,Doctor,l e k consulting,university of toronto,3
+500,3.0,Higher Education,law,25.07,Doctor,asian american bar association of new york,binghamton university,3
+344,6.0,Legal Services,counsel,17.42,Doctor,milbank llp,university of iowa college of law,3
+402,4.0,Medical Practice,emergency medical technician,32.83,Doctor,louisiana irt mission,air university officer training school maxwell afb alabama,3
+500,2.0,Research,research,14.0,Doctor,the d e shaw group,harvard university,3
+405,1.0,Hospital & Health Care,teaching,4.75,Doctor,harvard university,yale school of medicine,3
+417,4.0,Research Services,research,10.99,Doctor,new york medical college,cornell university,3
+500,2.0,Photography,creative,44.77,High School,limelife by alcone,fundación universidad de bogotá jorgetadeo lozano,3
+500,3.0,Higher Education,law,9.98,Doctor,cleary gottlieb steen hamilton llp,harvard law school,3
+466,2.0,Biotechnology Research,professor,12.33,Doctor,advanced science research center gc cuny,duke university,3
+418,2.0,Apparel & Fashion,professor,14.09,Doctor,north carolina state university,iowa state university,3
+447,1.0,Medical Practice,medical,5.99,Doctor,connecticut skin institute omar a ibrahimi md phd,new york medical college,3
+438,2.0,Law Practice,attorney,4.33,Doctor,dorsey whitney llp,william mary law school,3
+500,5.0,Medical Practices,research technician,31.83,Doctor,labcorp,columbia university in the city of new york,3
+500,6.0,Philanthropic Fundraising Services,social,48.58,Doctor,democracy funders network,amherst college,3
+500,2.0,Civil Engineering,engineer,8.42,Doctor,wsp usa,university of the cumberlands,3
+500,3.0,Biotechnology,research scientist,20.5,Doctor,azenta life sciences,university of pennsylvania,3
+500,3.0,Law Practice,attorney,15.16,Doctor,blank rome llp,cooley law school,3
+500,2.0,Hospital & Health Care,researcher,15.07,Doctor,weill cornell graduate school of medical sciences,joan sanford i weill medical college of cornell university,3
+500,5.0,Law Practice,attorney,14.84,Doctor,polsinelli,boston university school of law,3
+500,2.0,Research Services,scientific,16.58,Doctor,haug partners llp,university of colorado at boulder,3
+500,5.0,Law Practice,attorney,31.25,empty,davis polk wardwell llp,harvard law school,3
+500,6.0,Law Practice,capital markets,19.83,Doctor,lowenstein sandler llp,harvard law school,3
+500,1.0,Government Administration,research analyst,16.0,Doctor,congressional budget office,new york university school of law,3
+500,5.0,Biotechnology,research scientist,15.91,Doctor,apertura gene therapy,university of california berkeley,3
+500,5.0,Design,interior designer,16.08,High School,zebra,northumbria university,3
+500,7.0,Venture Capital and Private Equity Principals,treasurer,81.09,Bachelor,muev brands,cornell university,3
+500,5.0,Spectator Sports,admissions,15.67,Doctor,gatnation llc,st john s university school of law,3
+500,5.0,Law Practice,lawyer,17.67,Doctor,world gold council,new york law school,3
+500,2.0,Hospitals and Health Care,physician,17.92,Doctor,memorial sloan kettering cancer center,vanderbilt university,3
+500,6.0,Pharmaceutical Manufacturing,research scientist,19.17,Doctor,arvinas,university of massachusetts amherst,3
+500,3.0,Architecture & Planning,architect,6.0,Doctor,private practice,cuny school of professional studies,3
+476,3.0,Research Services,professor,7.0,Doctor,columbia university in the city of new york,mcgill university,3
+500,5.0,Hospital & Health Care,professor,20.26,Doctor,cold spring harbor laboratory,university of california davis,3
+448,3.0,Research,research scientist,6.17,Doctor,albert einstein college of medicine,institute of genomics and integrative biology csir,3
+500,5.0,Civic & Social Organization,content creator,7.0,Doctor,health plus,national louis university,3
+500,4.0,Research Services,research scientist,10.25,Doctor,memorial sloan kettering cancer center,university of oxford,3
+500,3.0,Law Practice,law,6.08,Doctor,kasowitz benson torres llp,fordham university school of law,3
+435,1.0,Pharmaceuticals,research,21.98,Doctor,merck,university of illinois at urbana champaign,3
+500,6.0,Law Practice,counsel,18.08,Doctor,atlantic records,seton hall university school of law,3
+500,5.0,Pharmaceuticals,clinical pharmacist,27.0,Doctor,johnson johnson,university of florida,3
+500,1.0,Mental Health Care,editor,15.57,Doctor,contemporary psychoanalysis,washington baltimore center for psychoanalysis new directions program,3
+500,5.0,Research Services,research scientist,16.51,Doctor,sumitomo mitsui banking corporation smbc group,the college of william and mary,3
+500,3.0,Law Practice,attorney,16.5,Doctor,gibson dunn crutcher llp,columbia law school,3
+500,5.0,Environmental Services,environmental engineer,33.08,Doctor,ghd,university of massachusetts amherst,3
+500,2.0,Chemical Manufacturing,scientist,13.92,Doctor,exxonmobil,ohio university,3
+500,1.0,Research,professor,9.83,Doctor,columbia university vagelos college of physicians and surgeons,university of florida,3
+334,5.0,Law Practice,directors,29.08,Doctor,lagalante pllc,st john s university school of law,3
+500,6.0,Law Practice,lawyer,18.41,Doctor,paul hastings,hofstra university school of law,3
+411,4.0,Higher Education,research,9.24,Doctor,columbia graduate consulting club,columbia university in the city of new york,3
+474,2.0,Retail Art Supplies,social,2.75,Doctor,goucher college,university of pennsylvania,3
+500,2.0,Research,research scientist,7.75,Doctor,baginski wegner and company bw co,duke university school of medicine,3
+440,3.0,Hospital & Health Care,rn,6.25,Doctor,nyu langone health,new york university,3
+500,5.0,Financial Services,non,32.99,Doctor,goldman sachs,the wharton school,3
+500,4.0,Entertainment Providers,attorney,34.58,Doctor,latham watkins,american university washington college of law,3
+500,5.0,Civil Engineering,structural engineer,21.75,Doctor,parsons corporation,university of arizona,3
+500,5.0,Computer Software,law,13.67,Doctor,match group,the university of alabama school of law,3
+500,1.0,Publishing,writer,16.66,Doctor,western news info inc,teachers college columbia university,3
+500,3.0,Law Practice,spring,19.25,Doctor,sidley austin llp,university of virginia school of law,3
+500,3.0,Higher Education,investigator,38.0,Doctor,n y u,columbia law school,3
+500,7.0,Research Services,research engineer,15.0,Doctor,stealth mode startup full time,university of michigan ann arbor,3
+362,5.0,Higher Education,research,52.83,Doctor,long island university,department of chemistry university of pune,3
+500,6.0,Artists and Writers,creative,59.67,Bachelor,brooklinen,columbia university in the city of new york,3
+435,1.0,Research Services,research,15.92,Doctor,mcgill university,new york medical college,3
+500,6.0,Legal Services,strategist,25.59,Doctor,gmi rocket,brooklyn law school,3
+500,5.0,Entertainment Providers,actor,59.67,Master,ucsb residency commission and performances,university per stranieri,3
+500,7.0,Hospital & Health Care,researcher,13.34,Doctor,kubera health,harvard business school,3
+397,4.0,Higher Education,laboratory,3.51,Doctor,默克集團,university of veterinary medicine hanover,3
+500,3.0,Government Relations,reporter,46.34,Master,kpmg us,the london school of economics and political science lse,3
+500,4.0,Internet,machine engineer,4.93,Doctor,amazon,north carolina state university,3
+500,2.0,Hospitals and Health Care,medical,17.52,Doctor,the institute for family health,american university of antigua,3
+500,3.0,Law Practice,spring,2.08,Doctor,morvillo abramowitz grand iason anello pc,university of california los angeles school of law,3
+500,2.0,Medical Practices,physician,5.58,Doctor,englewood hospital and medical center,albert einstein college of medicine,3
+500,3.0,Hospital & Health Care,physician,33.17,Doctor,mount sinai health system,university of colorado denver business school,3
+500,1.0,Travel Arrangements,teaching,9.41,Doctor,asu school of community resources and development,asu watts college of public service community solutions,3
+500,1.0,Hospital & Health Care,clinical,2.75,Doctor,massachusetts general hospital,columbia university vagelos college of physicians and surgeons,3
+500,3.0,Religious Institutions,teacher,45.41,Master,presbyterian church of madison,austin presbyterian theological seminary,3
+500,6.0,Information Technology & Services,software engineering,23.41,Doctor,meta,columbia university,3
+500,6.0,"Technology, Information and Internet",researcher,54.0,Bachelor,2088labs ai,the graduate center city university of new york,3
+500,4.0,Writing & Editing,writer,14.01,Doctor,american heart association,king s college,3
+500,6.0,Retail Luxury Goods and Jewelry,counsel,23.75,Doctor,hermes of paris inc,wesleyan university,3
+500,2.0,Public Relations & Communications,copywriter,16.83,Doctor,star equity,touro university jacob d fuchsberg law center,3
+500,3.0,Broadcast Media Production and Distribution,producer,71.48,Bachelor,newsnation,hofstra university,3
+500,3.0,Research,writer,25.16,Doctor,political research associates,the graduate center city university of new york,3
+478,2.0,Research Services,teaching,4.08,Doctor,columbia university irving medical center,freie universität berlin,3
+500,7.0,Real Estate,real estate,13.58,Doctor,bespoke air a i,mit sloan executive education,3
+399,5.0,Higher Education,research scientist,32.75,Doctor,icahn school of medicine at mount sinai,universidad nacional de quilmes,3
+469,5.0,Civil Engineering,actuary,12.73,Doctor,guy carpenter,university of illinois urbana champaign,3
+500,6.0,Medical Practices,physician,18.75,Doctor,metroplushealth,albert einstein college of medicine,3
+500,2.0,Semiconductors,embedded software engineer,13.0,Doctor,hudson river trading,linköping university,3
+500,1.0,Hospital & Health Care,community,6.58,Doctor,association of women surgeons,joan sanford i weill medical college of cornell university,3
+500,3.0,Accounting,professor,10.92,Doctor,columbia university irving medical center,columbia university in the city of new york,3
+500,7.0,Hospitals and Health Care,physician,14.09,Doctor,premier inc,boston university school of medicine,3
+500,2.0,Broadcast Media Production and Distribution,community,32.59,Doctor,new york city department of health mental,teachers college columbia university,3
+500,5.0,Design Services,creative,61.34,empty,liestudio,udemy,3
+500,2.0,Law Practice,investment,13.25,Doctor,sidley austin llp,georgetown university law center,3
+500,3.0,Law Practice,law,79.0,Doctor,american bar association,union theological seminary,3
+500,2.0,Pharmaceutical Manufacturing,research scientist,20.41,Doctor,st john s university,texas tech university health sciences center,3
+455,6.0,Law Practice,attorney,20.57,Doctor,rawle henderson llp,rutgers school of law newark,3
+500,2.0,Research,data scientist,4.34,Doctor,meta,harvard university,3
+500,6.0,Pharmaceuticals,marketing consultant,11.99,Doctor,regeneron,university of maine,3
+500,3.0,Computer Software,research scientist,19.0,Doctor,usda,penn state university,3
+500,6.0,Investment Banking,technology architect,20.41,Doctor,ubs,institute of informatics problems of the russian academy of sciences ipi ran,3
+500,2.0,"Appliances, Electrical, and Electronics Manufacturing",software engineering,7.0,Doctor,intel labs,rutgers university,3
+500,5.0,Law Practice,attorney,20.75,Doctor,otterbourg p c,st john s university school of law,3
+500,3.0,Information Technology & Services,research,8.01,Doctor,meta,ecole normale supérieure,3
+500,3.0,Law Practice,attorney,11.42,Doctor,simpson thacher bartlett llp,the george washington university law school,3
+500,2.0,Law Practice,law,6.83,Doctor,georgetown law criminal justice clinic,georgetown university law center,3
+500,3.0,Law Practice,legal,17.59,Doctor,google deepmind,university of california los angeles school of law,3
+372,6.0,Accounting,counsel,11.5,Doctor,oppenheimer co inc,fordham university school of law,3
+500,3.0,Government Administration,research,9.92,Doctor,city cancer challenge,columbia university mailman school of public health,3
+469,3.0,Higher Education,machine engineer,0.17,Doctor,citi,new york university,3
+500,3.0,Law Practice,law,9.08,Doctor,friedman kaplan seiler adelman robbins llp,fordham university school of law,3
+500,2.0,Insurance,data scientist,10.34,Doctor,chubb,university of chicago,3
+500,5.0,Medical Practice,medical,97.41,Doctor,national kidney foundation eastern pa nj,north shore university hospital manhasset,3
+500,5.0,Insurance,counsel,25.25,Doctor,american bar association,fordham university school of law,3
+450,6.0,Law Practice,law,18.0,Doctor,weil gotshal manges llp,university of pittsburgh school of law,3
+500,2.0,Medical Practices,teacher,2.59,Doctor,university of florida college of education,new york medicine jobs,3
+500,5.0,Education Management,education,47.58,Doctor,the new york botanical garden,binghamton university,3
+412,2.0,Research Services,professor,19.58,Doctor,nyu robert f wagner graduate school of public service,university of california berkeley,3
+500,5.0,Manufacturing,counsel,17.0,Doctor,harry s inc,fordham university school of law,3
+500,2.0,Legal Services,student worker,1.33,Doctor,qc law ny,brooklyn law school,3
+348,3.0,Computer Software,research engineer,6.66,Doctor,epic,stony brook university,3
+500,4.0,Entertainment Providers,counsel,16.5,Doctor,interpublic group ipg,ucla,3
+500,4.0,Semiconductor Manufacturing,r d engineer,28.5,Doctor,ibm,university of cincinnati,3
+500,3.0,Pharmaceutical Manufacturing,physician,9.83,Doctor,independent consultant,terenure college,3
+500,6.0,Medical Practices,physician,14.26,Doctor,memorial sloan kettering cancer center,harvard t h chan school of public health,3
+424,2.0,Law Practice,law,14.25,Doctor,troutman pepper locke llp,city university of new york school of law,3
+500,3.0,Research Services,research scientist,21.49,Doctor,columbia university,indian institute of science iisc,3
+500,3.0,Writing & Editing,writer,76.91,Bachelor,marvel entertainment,university of hartford,3
+500,4.0,Online Audio and Video Media,relationship,7.0,Doctor,leadership directories inc,middlebury college,3
+500,6.0,Internet,counsel,53.17,Doctor,technology blogger for the age of disruption blog,columbia law school,3
+500,6.0,Law Practice,attorney,10.66,Doctor,stanford law school,stanford university law school,3
+500,5.0,Think Tanks,community,42.17,Master,foundation for new american art inc,new york university,3
+500,7.0,Wellness and Fitness Services,md,0.92,Doctor,envy smile dental spa,new york university college of dentistry,3
+500,5.0,Law Practice,attorney,15.25,Doctor,haynes and boone llp,queen mary university of london,3
+500,6.0,Government Administration,professor,21.23,Doctor,nyc office of the mayor,harvard university,3
+500,4.0,Entertainment,counsel,38.67,Doctor,moses singer llp,columbia law school,3
+500,5.0,Law Practice,law,2.25,Doctor,case western reserve university school of law,the ohio state university moritz college of law,3
+500,5.0,Research,research,25.67,Doctor,the michael j fox foundation for parkinson s research,ut southwestern medical center,3
+500,6.0,Law Practice,counsel,23.0,Doctor,sheet metal air conditioning association of nyc,brooklyn law school,3
+500,1.0,Hospital & Health Care,teaching,12.9,Doctor,rutgers new jersey medical school,rutgers new jersey medical school,3
+500,7.0,Non-profit Organizations,small business,84.82,Master,new york edge,syracuse university,3
+500,5.0,Internet,analytics,14.09,Doctor,lemonade,dartmouth college,3
+347,6.0,Law Practice,attorney,15.59,Doctor,day pitney llp,university of illinois urbana champaign,3
+500,6.0,Law Practice,attorney,26.66,Doctor,a o shearman,muhlenberg college,3
+500,4.0,Law Practice,attorney,13.0,Doctor,helbraun levey,elisabeth haub school of law at pace university,3
+500,6.0,Entertainment,writer,31.84,Doctor,national black arts festival,new york university,3
+500,5.0,Book and Periodical Publishing,strategic,83.5,Master,singer publications,columbia university,3
+500,5.0,Law Practice,attorney,23.0,Doctor,goidel law group pllc,cardozo school of law,3
+500,5.0,Research Services,scientist,15.0,Doctor,merck,caltech,3
+500,6.0,Advertising Services,marketing consultant,20.33,Doctor,gsk,cornell university,3
+500,5.0,Book and Periodical Publishing,editor,58.0,Doctor,reviewed cleared,the johns hopkins university,3
+500,5.0,Pharmaceuticals,research,13.08,Doctor,bristol myers squibb,weill cornell graduate school of medical sciences,3
+401,5.0,Higher Education,research scientist,19.17,Doctor,yeshiva university,the hebrew university,3
+500,4.0,Medical Practices,clinical,4.17,Doctor,columbia university irving medical center,columbia university mailman school of public health,3
+500,4.0,Information Technology & Services,consulting engineer,28.5,Doctor,ibm,syracuse university,3
+500,5.0,Public Relations and Communications Services,media relations,36.66,Master,forbes communications council,purdue university,3
+500,6.0,Telecommunications,transportation,17.5,Doctor,optimum,empire state university,3
+347,4.0,Law Practice,law,0.25,Doctor,dentons,university of virginia school of law,3
+420,3.0,Oil and Gas,machine engineer,13.66,Doctor,exxonmobil,princeton university,3
+500,4.0,Hospital & Health Care,professor,50.32,Doctor,harvard medical school,greater new york hospital association and united hospital fund,3
+500,6.0,Law Practice,counsel,30.75,Doctor,herbert smith freehills kramer,university of chicago law school,3
+500,4.0,Research,contributor,9.5,Doctor,safe pro group inc,columbia university graduate school of arts and sciences,3
+500,5.0,Telecommunications,solutions architect,28.67,Doctor,hitachi digital,university of minnesota,3
+500,6.0,Computer Hardware Manufacturing,r d engineer,19.0,Doctor,siemens healthineers,university of illinois urbana champaign,3
+500,1.0,Higher Education,teaching,27.16,Doctor,fordham university,the city college of new york,3
+500,3.0,Higher Education,physician,18.58,Doctor,weill cornell medicine,faculty of health sciences ben gurion university of the negev beer sheva israel,3
+500,4.0,Medical Practices,physician,220.78,Doctor,american heart association,saïd business school university of oxford,3
+500,5.0,Pharmaceuticals,medical affairs,23.58,Doctor,alcon,university of minnesota,3
+500,6.0,Law Practice,attorney,17.67,Doctor,rivkin radler llp,st john s university school of law,3
+356,5.0,Pharmaceutical Manufacturing,clinical research,20.42,Doctor,vertex pharmaceuticals,university of medicine and dentistry of new jersey new jersey medical school,3
+500,2.0,Law Practice,law,1.59,Doctor,faegre drinker,seton hall university school of law,3
+500,3.0,Law Practice,writer,19.5,Doctor,bronx civil court,new york law school,3
+500,5.0,Hospitals and Health Care,business development consultant,58.5,empty,hackensack meridian health at home jfk at home vhsnj at home,brookdale community college,3
+500,2.0,Research,research,11.84,Doctor,center for democracy technology,carnegie mellon university,3
+430,3.0,Hospitals and Health Care,physician,7.84,Doctor,nyu langone health,cleveland clinic,3
+500,2.0,Computer Software,data scientist,2.0,Doctor,google,university of washington,3
+500,6.0,Research Services,research scientist,23.24,Doctor,new york fashion innovation center nyfic,stockholm university,3
+500,6.0,Biotechnology Research,research scientist,19.66,Doctor,tempus ai,university of michigan,3
+366,1.0,International Affairs,law,8.74,Doctor,proskauer rose llp,fordham university school of law,3
+500,5.0,Law Practice,counsel,21.91,Doctor,new york international arbitration center,harvard law school,3
+313,2.0,Law Practice,attorney,20.0,Doctor,law office of david e duhan,saint john s university school of law,3
+500,6.0,Biotechnology Research,research scientist,44.59,Doctor,abbvie,boston university,3
+459,4.0,Law Practice,law,14.34,Doctor,coinbase,harvard law school,3
+500,4.0,Law Practice,law,10.5,Doctor,covington burling llp,stanford law school,3
+500,5.0,Higher Education,professor,14.58,Doctor,new jersey institute of technology,university of illinois chicago,3
+429,1.0,Hospital & Health Care,research technician,8.58,Doctor,boston children s hospital,icahn school of medicine at mount sinai,3
+500,2.0,Biotechnology Research,research,16.16,Doctor,memorial sloan kettering cancer center,indian institute of science iisc,3
+500,5.0,Medical Equipment Manufacturing,manufacturing engineer,32.17,Doctor,johnson johnson,rutgers the state university of new jersey new brunswick,3
+413,5.0,Government Administration,laboratory,19.92,Doctor,tennessee department of health,creighton university,3
+500,6.0,Management Consulting,strategic,60.17,Bachelor,summertech,cornell university,3
+500,5.0,Venture Capital & Private Equity,attorney,18.0,Doctor,bessemer venture partners,fordham university school of law,3
+500,4.0,Computer and Network Security,data scientist,8.25,Doctor,google,yale university,3
+500,7.0,Higher Education,social,22.51,Doctor,rensselaer polytechnic institute,university of utah,3
+500,5.0,Law Practice,law,9.83,Doctor,columbia university in the city of new york,seton hall university school of law,3
+500,1.0,Spectator Sports,community,6.42,Doctor,creative artists agency,the george washington university law school,3
+500,3.0,Research Services,teaching,18.0,Doctor,university of pittsburgh,the university of texas at austin,3
+500,6.0,Legal Services,strategic,17.0,Doctor,the kogan law group p c,georgetown university law center,3
+500,1.0,Architecture & Planning,designer,8.16,Doctor,yale university,yale univesity,3
+500,2.0,Law Practice,law,14.0,Doctor,the bergen county courthouse,new york law school,3
+500,5.0,Pharmaceuticals,marketing consultant,73.57,Bachelor,asymchem group,marist college,3
+500,3.0,Renewable Energy Semiconductor Manufacturing,project engineer,9.0,Doctor,entech engineering pc,harvard extension school,3
+500,5.0,Education Management,directors,5.42,Doctor,corbett education consulting llc,american university,3
+391,5.0,Insurance,counsel,19.5,Doctor,acrisure,seton hall university school of law,3
+500,5.0,Architecture & Planning,professor,37.91,Doctor,new york institute of technology,rmit university,3
+500,4.0,Management Consulting,research,6.33,Doctor,trinity life sciences,yale university,3
+500,1.0,Insurance,legal,13.9,Doctor,ironshore insurance,pace law school,3
+500,6.0,Hospital & Health Care,doctor,63.66,Doctor,mount sinai health system,yale university,3
+500,4.0,Legal Services,law,8.17,Doctor,weil gotshal manges llp,northwestern university pritzker school of law,3
+500,2.0,Higher Education,research,19.17,Doctor,nyu grossman school of medicine,dept of biological applications technology faculty of health sciences university of ioannina,3
+500,2.0,Research Services,professor,20.08,Doctor,the city university of new york,adam mickiewicz university in poznan poland,3
+500,4.0,Research Services,data analytics,16.66,Doctor,chief,university of pittsburgh school of public health,3
+500,5.0,Law Practice,attorney,11.17,Doctor,lendlease,new york law school,3
+500,5.0,Marketing & Advertising,professor,10.83,Doctor,horizon media,university of delaware,3
+500,6.0,Law Practice,counsel,24.67,Doctor,dolby laboratories,university of notre dame,3
+500,7.0,Entertainment Providers,producer,65.09,Bachelor,sarah springborn inc,university of central florida,3
+500,6.0,Hospital & Health Care,research scientist,22.4,Doctor,vio an ipg health company,city university of new york city college,3
+500,3.0,Information Technology & Services,paramedic,45.91,Master,flock safety,harvard university,3
+500,7.0,Law Practice,m a,27.41,Doctor,smith goffman partners llc,binghamton university,3
+500,4.0,Biotechnology Research,scientist,19.5,Doctor,chan zuckerberg biohub network,albert einstein college of medicine,3
+388,4.0,Law Practice,attorney,8.0,Doctor,freshfields bruckhaus deringer,cardozo school of law,3
+500,4.0,Computer Software,data scientist,16.91,Doctor,yext,the city college of new york,3
+475,4.0,Research,professor,22.41,Doctor,new york college of traditional chinese medicine,the university of texas medical school at houston,3
+500,3.0,Computer Software,research,18.08,Doctor,meta,columbia university in the city of new york,3
+500,2.0,Higher Education,teaching,39.76,Doctor,the petey greene program,walden university,3
+500,3.0,Transportation/Trucking/Railroad,product marketing,11.67,Master,doordash,university of california berkeley,3
+500,7.0,Wellness and Fitness Services,strategy business development,40.24,Doctor,immunovus inc,yale university,3
+500,3.0,Hospital & Health Care,social,8.0,Doctor,columbia university vagelos college of physicians and surgeons,columbia university,3
+464,2.0,Research Services,research scientist,16.33,Doctor,mars,university of louisville,3
+438,1.0,Hospital & Health Care,teaching,11.84,Doctor,broad institute of mit and harvard,icahn school of medicine at mount sinai,3
+500,4.0,Publishing,editor,42.75,Master,self employed,annenberg public policy center university of pennsylvania,3
+500,3.0,Computer Software,research,14.5,Doctor,gryps,university of southern california,3
+500,2.0,Law Practice,law,2.33,Doctor,simpson thacher bartlett llp,yale law school,3
+500,5.0,Executive Office,strategic,33.67,Doctor,caltech center for technology and management education caltech ctme,columbia university,3
+497,5.0,Law Practice,counsel,32.67,Doctor,adler stachenfeld llp,harvard law school,3
+500,4.0,Financial Services,financial consultant,12.0,Doctor,青岛亲职帮教育科技有限公司,the wharton school,3
+500,3.0,Biotechnology,research scientist,12.17,Doctor,bristol myers squibb,rutgers university,3
+500,2.0,Hospital & Health Care,nursing,1.66,Doctor,nyu langone health,new york university,3
+500,6.0,Computer Software,research engineer,26.66,Doctor,unitary foundation,boston university,3
+500,7.0,Legal Services,attorney,39.84,Doctor,stork escrow,benjamin n cardozo school of law yeshiva university,3
+500,4.0,Computer Software,research scientist,16.25,Doctor,stealth newco,universidade estadual de maringá,3
+500,2.0,Medical Practices,teaching,8.33,Doctor,icahn school of medicine at mount sinai,the warren alpert medical school of brown university,3
+417,5.0,Nanotechnology Research,research,19.0,Doctor,ningbo institute of materials technolgoy and engineering chinese academy of science,university of pittsburgh,3
+500,6.0,Government Administration,structural engineer,72.14,Master,tecnológico de monterrey,massachusetts institute of technology,3
+500,2.0,Hospital & Health Care,physician,17.66,Doctor,memorial sloan kettering cancer center,columbia university vagelos college of physicians and surgeons,3
+500,3.0,Higher Education,research analyst,8.67,Doctor,comparemedsrx,icahn school of medicine at mount sinai,3
+500,5.0,Hospitals and Health Care,professor,9.92,Doctor,new york university college of dentistry,nyu grossman school of medicine,3
+413,1.0,Non-profit Organization Management,journalist,41.75,Doctor,association for laboratory phonology,bard college,3
+500,5.0,Research,research scientist,18.17,Doctor,research diets inc,the ohio state university,3
+500,1.0,"Health, Wellness & Fitness",education,56.5,Bachelor,www marciagrace com,stony brook university,3
+500,1.0,Research Services,teaching,24.41,Doctor,soul sweat new haven,lewis katz school of medicine at temple university,3
+500,1.0,Law Practice,law,12.66,Doctor,morgan lewis bockius llp,the wharton school,3
+500,3.0,Legal Services,attorney,9.08,Doctor,morrison foerster,brooklyn law school,3
+500,6.0,Law Practice,counsel,22.92,Doctor,latham watkins,cornell law school,3
+500,1.0,"Leisure, Travel & Tourism",travel consultant,18.0,Doctor,melissa cohn dream vacations,new york law school,3
+500,5.0,Biotechnology Research,scientist,17.99,Doctor,merck,texas a m university,3
+500,5.0,Education Administration Programs,writer,93.39,Master,empwrd ai,mit professional education,3
+444,2.0,Hospital & Health Care,clinical,6.25,Doctor,new york university school of medicine,nyu school of medicine,3
+500,5.0,Information Technology & Services,user researcher,17.08,Doctor,jpmorgan chase co,university of arizona,3
+500,6.0,Pharmaceutical Manufacturing,strategy consultant,12.66,Doctor,airbel impact lab at the irc,the wharton school,3
+500,2.0,Investment Banking,professor,78.08,MBA,the chinese university of hong kong,yale school of management,3
+401,6.0,Research,research scientist,34.73,Doctor,l oréal,the university of british columbia,3
+500,4.0,Telecommunications,business development,91.91,Bachelor,usa strong,tel aviv university,3
+500,3.0,Management Consulting,research,8.16,Doctor,boston consulting group bcg,carnegie mellon university,3
+500,6.0,Investment Banking,investments,23.33,Doctor,lombard international us bermuda,university of miami school of law,3
+475,5.0,Software Development,software design engineer,23.91,Doctor,none,massachusetts institute of technology,3
+500,4.0,Biotechnology,research scientist,18.83,Doctor,columbia university irving medical center,drexel university college of medicine,3
+500,2.0,Financial Services,equity research,11.83,Doctor,dfo management llc,harvard law school,3
+500,2.0,Research,research scientist,15.91,Doctor,the jackson laboratory,yale university,3
+500,6.0,Human Resources,labor relations,36.59,Doctor,vibrant emotional health,cardozo school of law,3
+500,2.0,Oil & Energy,research analyst,29.0,Doctor,oxford institute for energy studies,wichita state university,3
+433,1.0,Pharmaceutical Manufacturing,teaching,4.93,Doctor,weill cornell graduate school of medical sciences,icahn school of medicine at mount sinai,3
+469,2.0,Biotechnology Research,research,13.9,Doctor,mckinsey company,the johns hopkins university,3
+500,7.0,Marketing & Advertising,directors,19.0,Doctor,vet candy,tuskegee university,3
+500,5.0,Law Practice,writer,28.33,Doctor,fisher college,touro university jacob d fuchsberg law center,3
+500,2.0,Computer Software,research,5.25,Doctor,university of oxford,the johns hopkins university,3
+500,3.0,International Affairs,law,9.07,Doctor,faspe fellowships at auschwitz for the study of professional ethics,university of michigan law school,3
+500,3.0,Hospital & Health Care,physician,46.11,Doctor,icahn school of medicine at mount sinai,icahn school of medicine at mount sinai,3
+500,3.0,Wireless Services,r d engineer,21.42,Doctor,qualcomm,uc san diego,3
+500,2.0,Broadcast Media Production and Distribution,video editor,52.1,empty,nickelodeon,university of massachusetts at lowell,3
+362,3.0,Research Services,teaching,23.17,Doctor,the mount sinai hospital,icahn school of medicine at mount sinai,3
+500,2.0,Law Practice,counsel,30.91,Doctor,sullivan cromwell llp,harvard law school,3
+500,5.0,Computer Software,innovation,38.49,Doctor,sparxiq,indian institute of science iisc,3
+500,4.0,International Affairs,law,9.58,Doctor,king spalding,new york university school of law,3
+500,6.0,Biotechnology,strategy business development,17.32,Doctor,35pharma,university of california berkeley,3
+500,6.0,Information Technology & Services,tax,38.09,Doctor,ryan,university of oklahoma college of law,3
+500,6.0,Law Practice,counsel,59.0,Doctor,vitkowsky law,cornell law school,3
+500,3.0,Research Services,medical,23.75,Doctor,amgen,columbia university college of physicians and surgeons,3
+469,3.0,Higher Education,teaching,20.07,Doctor,augusta university,derner school of psychology adelphi university,3
+500,3.0,Law Practice,law,14.99,Doctor,arnold porter kaye scholer llp,university of pennsylvania law school,3
+500,4.0,Biotechnology,scientist,11.33,Doctor,mount sinai health system,johannes kepler universität linz,3
+500,6.0,Law Practice,attorney,26.75,Doctor,rivkin radler llp,touro university jacob d fuchsberg law center,3
+500,4.0,Non-profit Organizations,ambassador,58.0,Doctor,organizing committee proposed new york episcopal credit union,columbia university,3
+500,5.0,Law Practice,attorney,16.0,Doctor,dechert llp,the johns hopkins university,3
+500,3.0,Financial Services,research,15.09,Doctor,jane street,harvard university,3
+500,4.0,Law Practice,counsel,25.09,Doctor,edgewell personal care,trinity college hartford,3
+500,5.0,Pharmaceutical Manufacturing,medical writer,15.41,Doctor,merck,rutgers university,3
+500,6.0,Law Practice,counsel,13.92,Doctor,siri glimstad llp,brooklyn law school,3
+500,7.0,Biotechnology,research engineer,10.0,Doctor,foli bio,columbia university in the city of new york,3
+500,2.0,Research,research scientist,5.66,Doctor,memorial sloan kettering cancer center,bose institute,3
+500,5.0,Chemical Manufacturing,research scientist,13.99,Doctor,bristol myers squibb,rutgers university new brunswick,3
+500,1.0,Investment Management,professor,126.83,Bachelor,harvard university,hofstra university,3
+377,3.0,Biotechnology Research,investigator,26.34,Doctor,cahill gordon reindel llp,fordham university school of law,3
+500,6.0,Marketing & Advertising,communications consultant,48.42,Bachelor,schwartzman associates inc,san francisco state university,3
+500,5.0,Research Services,research scientist,28.76,Doctor,regeneron,maison d education de la legion d honneur,3
+500,4.0,Marketing & Advertising,medical writer,17.25,Doctor,klick,hbx harvard business school,3
+500,3.0,Law Practice,teacher,16.59,Doctor,𝖧𝖭𝖡𝖠 𝖵𝖨𝖠 poder25,harvard law school,3
+500,5.0,Software Development,research engineer,17.32,Doctor,ibm,rensselaer polytechnic institute,3
+500,1.0,Research,research,5.83,Doctor,weill cornell graduate school of medical sciences,marist university,3
+435,5.0,Research,professor,24.74,Doctor,lehman college school of natural and social sciences,universidad nacional de educación a distancia u n e d,3
+500,1.0,Computer and Network Security,research technician,14.9,Doctor,mit lincoln laboratory,new york university,3
+500,2.0,Law Practice,law,3.33,Doctor,manhattan district attorney s office,elisabeth haub school of law at pace university,3
+500,1.0,E-learning,community relations,64.33,Doctor,association of spaniards aeci,official school of hypnosis eoh doctorate in clinical hypnotherapy,3
+500,3.0,Research,research scientist,0.84,Doctor,allen institute,massachusetts institute of technology,3
+500,1.0,Computer Software,makeup artist,2.25,MBA,thg,westcliff university,3
+500,2.0,Medical Practice,physician,23.14,Doctor,bergen anesthesia group pc,vanderbilt university school of medicine,3
+500,3.0,Law Practice,capital markets,9.75,Doctor,dla piper,syracuse university college of law,3
+500,2.0,Public Policy,research,12.08,Doctor,center on global energy policy,the university of texas at austin the lbj school of public affairs,3
+405,5.0,Hospital & Health Care,key holder,10.5,Doctor,fox trail senior living,capella university,3
+500,4.0,Medical Practice,research scientist,12.0,Doctor,weill cornell medicine,montana state university bozeman,3
+438,1.0,Research,substitute teacher,11.0,Doctor,the university of tennessee health science center,the university of tennessee health science center,3
+500,5.0,Research,site,21.33,Doctor,american forests,stony brook university,3
+500,5.0,Hospital & Health Care,research scientist,21.74,Doctor,epivax oncology inc perception neuroscience matrivax,utrecht university,3
+500,4.0,Hospital & Health Care,medical science liaison,20.66,Doctor,bristol myers squibb,sorbonne université,3
+500,4.0,Hospital & Health Care,medical affairs,17.92,Doctor,optum,university of delaware,3
+500,1.0,Financial Services,student,1.66,Doctor,point72,columbia university in the city of new york,3
+500,6.0,Management Consulting,strategist,67.33,Bachelor,extraordinary women on boards ewob,pomona college,3
+500,5.0,Photography,directors,109.68,Doctor,cathedral of st john the divine,university of colorado school of medicine,3
+500,3.0,Biotechnology,research,7.5,Doctor,memorial sloan kettering cancer center,university of nebraska medical center,3
+429,5.0,Insurance,research engineer,11.58,Doctor,wtw,northwestern university,3
+500,5.0,Law Practice,social,16.5,Doctor,nj transit,university of colorado law school,3
+500,5.0,Hospital & Health Care,civil engineer,4.34,Doctor,stein plastic surgery,the johns hopkins university,3
+500,2.0,Legal Services,doctor,7.16,Doctor,sullivan cromwell llp,columbia law school,3
+500,1.0,Government Administration,law,15.32,Doctor,alaska state office of public advocacy criminal representation division,fordham university school of law,3
+500,4.0,Education Management,professor,37.42,Doctor,nassau community college,hofstra university,3
+500,1.0,Judiciary,law,7.25,Doctor,united states court of appeals for the second circuit,columbia law school,3
+500,4.0,Pharmaceuticals,scientist,17.25,Doctor,merck co,university of pennsylvania,3
+500,5.0,Law Practice,lawyer,13.32,Doctor,hero,quinnipiac university school of law,3
+500,6.0,Biotechnology,clinical,29.41,Doctor,kymera therapeutics,university of miami miller school of medicine,3
+342,6.0,Law Enforcement,directors,12.92,Doctor,scarsdale edgemont family counseling service,saint john s university school of law,3
+500,3.0,Research,research engineer,23.16,Doctor,palantir technologies,columbia university graduate school of arts and sciences,3
+500,5.0,Financial Services,products,24.75,Doctor,rms,sorbonne université,3
+500,6.0,Management Consulting,strategy consultant,0.0,Doctor,boston consulting group bcg,imperial college london,3
+500,3.0,Higher Education,teaching,110.17,Doctor,western connecticut state university,regent university,3
+500,3.0,Law Practice,spring,10.83,Doctor,greenberg traurig llp,cardozo school of law,3
+500,3.0,Higher Education,physician,54.74,Doctor,westchester community health center formerly mount vernon neighborhood health center inc,university of pennsylvania,3
+500,6.0,Marketing & Advertising,strategist,4.66,Doctor,she media,the new school,3
+500,2.0,Law Practice,law,10.25,Doctor,liakas law p c,hofstra university school of law,3
+500,7.0,Hospital & Health Care,doctor,13.74,Doctor,newyork presbyterian hospital,nyu stern school of business,3
+500,6.0,Hospital & Health Care,instructional designer,20.17,Doctor,northwell health,widener university schools of law,3
+500,2.0,Law Practice,student worker,6.67,Doctor,sidley austin llp,penn state university,3
+500,5.0,Research,clinical research,20.84,Doctor,merck,university of lausanne unil,3
+500,5.0,Law Practice,lawyer,13.17,Doctor,axylyum axy wrap,rutgers law school,3
+500,1.0,Higher Education,clinical research,4.5,Doctor,prince sultan military medical city,thomas jefferson university,3
+500,3.0,Public Policy,data scientist,48.8,Doctor,u s census bureau,manhattan college,3
+500,2.0,Nanotechnology,research,7.0,Doctor,brookhaven national laboratory,rutgers university,3
+484,3.0,Hospital & Health Care,medical,16.92,Doctor,u s department of veterans affairs,massachusetts college of pharmacy and health sciences,3
+500,2.0,Law Practice,law,7.08,Doctor,ropes gray llp,rutgers law school,3
+500,3.0,Education Administration Programs,lawyer,17.0,Doctor,self employed,new york university school of law,3
+500,3.0,Computer Software,research,59.89,Doctor,harvard law school,harvard law school,3
+500,5.0,Higher Education,teaching,15.66,Doctor,new york university,university of reading,3
+500,2.0,Advertising Services,salesman,41.4,Master,national tourist board of sierra leone,global sustainable tourism council,3
+500,6.0,"Health, Wellness & Fitness",ambassador,33.57,Doctor,dance ready project,alabama state university,3
+500,1.0,Research,research,24.07,Doctor,evidence foundation,case western reserve university,3
+500,5.0,Non-profit Organization Management,substitute teacher,23.15,Doctor,orthodox union,yeshiva university,3
+500,5.0,Online Audio and Video Media,strategy business development,53.32,Bachelor,paradyse,groupe iea,3
+500,2.0,Law Enforcement,investigations,26.33,Doctor,nbcuniversal,the george washington university columbian college of arts sciences,3
+500,6.0,Pharmaceuticals,doctor,15.34,Doctor,bgb group,new york university,3
+500,3.0,Higher Education,teaching,19.08,Doctor,weill cornell medicine,the open university,3
+500,6.0,Research,research scientist,18.91,Doctor,gameto,harvard medical school,3
+500,3.0,Information Technology & Services,machine engineer,12.99,Doctor,memorial sloan kettering cancer center,shahid beheshti university,3
+500,6.0,Law Practice,counsel,14.33,Doctor,garfunkel wild p c,st john s university school of law,3
+500,2.0,Hospital & Health Care,clinical,4.0,Doctor,nyu langone health,florida international university herbert wertheim college of medicine,3
+500,5.0,Research,substitute teacher,18.0,Doctor,nantg power,binghamton university,3
+500,3.0,Higher Education,writer,54.46,Master,cornell sloan program in health administration,cornell university,3
+464,2.0,Research,teaching,20.5,Doctor,regeneron,nyu grossman school of medicine,3
+500,3.0,Biotechnology,teacher,7.16,Doctor,the new york academy of sciences,new york university college of dentistry,3
+500,5.0,Venture Capital & Private Equity,research scientist,5.92,Doctor,stealth mode biotech,tsinghua university,3
+500,2.0,Financial Services,research analyst,6.25,Doctor,gilder gagnon howe co llc,nyu stern school of business,3
+500,3.0,Law Practice,law,15.67,Doctor,legal services of the hudson valley,university of iowa,3
+500,7.0,Hospital & Health Care,professor,77.82,Doctor,mit computer science and artificial intelligence laboratory csail,columbia university,3
+491,2.0,Computer Software,research scientist,11.66,Doctor,amazon,university of alabama at birmingham,3
+500,2.0,Computer Software,research scientist,18.34,Doctor,meta,north carolina state university,3
+462,2.0,Medical Practice,medical technologist,15.33,Doctor,nyu langone health,state university of new york health science center at brooklyn,3
+391,1.0,Higher Education,substitute teacher,20.83,Doctor,columbia university school of the arts,pacifica graduate institute,3
+500,7.0,Insurance,law,21.83,Doctor,clarion capital partners,emory university school of law,3
+500,5.0,Chemical Manufacturing,laboratory,77.91,Doctor,north jersey acs,hunter college,3
+500,6.0,Higher Education,nurse,19.58,Doctor,amirafyala labs,the state university of new york,3
+456,6.0,Law Practice,attorney,30.67,Doctor,kirkland ellis,georgetown university law center,3
+467,3.0,Higher Education,teaching,23.92,Doctor,hofstra university,new york university,3
+500,5.0,Hospital & Health Care,clinical,39.16,Doctor,nyu langone hospital long island,the university of chicago,3
+500,5.0,Higher Education,social,7.9,Doctor,idea public schools,liberty university,3
+500,3.0,Hospital & Health Care,clinical,2.58,Doctor,the mount sinai hospital,icahn school of medicine at mount sinai,3
+500,3.0,Pharmaceuticals,actor,5.25,Doctor,open health scientific communications,university of connecticut,3
+480,6.0,Pharmaceuticals,medical writer,26.32,Doctor,daiichi sankyo inc,memorial sloan kettering cancer center ny ny,3
+500,1.0,Hospital & Health Care,clinical research,15.08,Doctor,boston children s hospital,albert einstein college of medicine,3
+500,3.0,Research Services,product,8.5,Doctor,skylight,university of california berkeley,3
+500,7.0,Law Practice,counsel,18.67,Doctor,hilco streambank,cardozo school of law,3
+500,3.0,Law Practice,professor,39.67,Doctor,borough of manhattan community college,university of pennsylvania carey law school,3
+500,3.0,Hospital & Health Care,clinical,18.18,Doctor,hunter college,rutgers university camden,3
+391,5.0,Pharmaceuticals,clinical operations,13.34,Doctor,johnson johnson innovative medicine,penn state university,3
+357,5.0,Pharmaceuticals,journalist,18.5,Doctor,servier pharmaceuticals,ucla extension,3
+500,3.0,Recreational Facilities & Services,data engineer,2.67,High School,guardian life,the university of georgia,3
+500,7.0,Biotechnology,artist,5.0,Doctor,linusbio,harvard university,3
+500,5.0,Education Management,substitute teacher,18.08,Doctor,st john s university school of law,university of ottawa,3
+486,2.0,Political Organization,reporter,12.66,Doctor,nyu review of law and social change,new york university school of law,3
+500,2.0,Computer Software,research,10.51,Doctor,meta,university of illinois urbana champaign,3
+444,4.0,Medical Practices,clinical trial,13.75,Doctor,st jude children s research hospital,columbia university in the city of new york,3
+500,3.0,Computer Software,machine engineer,5.26,Doctor,meta,korea advanced institute of science and technology,3
+500,4.0,Research,project,15.33,Doctor,ssrs,stony brook university,3
+500,5.0,Non-profit Organization Management,labor relations,10.75,Doctor,bytedance,cornell university ilr school,3
+500,2.0,Higher Education,physician,12.17,Doctor,early medical,icahn school of medicine at mount sinai,3
+500,4.0,Pharmaceuticals,quality coordinator,4.51,Doctor,kyowa kirin inc u s,rutgers university new brunswick,3
+390,1.0,Hospital & Health Care,nanny,10.74,Doctor,briarcliff manor center for rehabilitation and nursing care,interntional internship university,3
+500,3.0,Hospitals and Health Care,writer,3.33,Doctor,global medical education institute and publishing,lasalle university,3
+500,5.0,Medical Practice,teaching,10.01,Doctor,touro university,ithaca college,3
+500,5.0,Financial Services,non,14.49,Doctor,alta park capital lp,florida international university college of law,3
+500,5.0,Education Management,development consultant,23.92,Doctor,center for the professional education of teachers at teachers college columbia university,university of pennsylvania,3
+500,5.0,Law Practice,attorney,13.42,Doctor,andrew bruskin p c,william mary law school,3
+500,5.0,Museums & Institutions,professor,20.17,Doctor,columbia university graduate school of architecture planning preservation,universidad politécnica de madrid,3
+500,1.0,Law Practice,law,3.25,Doctor,office of the new york state attorney general,duke university school of law,3
+500,3.0,Telecommunications,customer service sales representative,106.58,Master,ruckus networks,purdue university,3
+500,3.0,Law Practice,reporter,11.4,Doctor,new york state unified court system,cardozo school of law,3
+500,3.0,Higher Education,research scientist,12.82,Doctor,meta,georgia institute of technology emory university,3
+500,4.0,Computer Software,hostess,27.99,Doctor,codex digitalus,syracuse university,3
+500,1.0,Hospital & Health Care,student,5.74,Doctor,power of women in medicine summit,new york university,3
+500,4.0,Biotechnology,laboratory,8.08,Doctor,merck,harvard medical school,3
+500,1.0,"Movies, Videos and Sound",bookkeeper,67.09,Bachelor,nyc safety group llc,university of wisconsin madison,3
+481,5.0,Government Administration,clinical pharmacist,16.58,Doctor,sanofi,georgia institute of technology,3
+500,1.0,Computer Software,research scientist,2.67,Doctor,nyu courant institute of mathematical sciences,nyu courant institute of mathematical sciences,3
+500,6.0,Food Production,animator,19.42,Doctor,virginia dare extract co,université bourgogne europe,3
+410,6.0,Hospital & Health Care,professor,25.49,Doctor,new york institute of technology,university of california san francisco,3
+500,2.0,Industrial Machinery Manufacturing,mechanical,15.41,Doctor,amd,university of central florida,3
+406,1.0,Hospital & Health Care,research technician,4.84,Doctor,international institute for astronautical sciences iias,columbia university,3
+500,5.0,E-learning,directors,43.59,empty,kaplan,voorhees high school,3
