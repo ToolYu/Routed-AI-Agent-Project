@@ -3,3 +3,13 @@ python-dotenv
 groq
 numpy<2
 nest_asyncio
+langchain
+langgraph
+langchain-groq
+tqdm
+langchain-openai
+ipywidgets
+certifi>=2024.2.2
+google-api-python-client>=2.137.0
+google-auth>=2.23.0
+google-auth-oauthlib>=1.2.0
