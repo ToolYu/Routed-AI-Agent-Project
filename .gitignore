@@ -1,9 +1,13 @@
 .env
-.env.
+.env.*
 token.json
-client_secret.json
+client_secret*.json
 google_client_secret*.json
+*.pem
+*.crt
+*.key
 .venv/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+personalized_messages.csv
