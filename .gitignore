@@ -11,3 +11,8 @@ __pycache__/
 .ipynb_checkpoints/
 .DS_Store
 personalized_messages.csv
+# Local data artifacts
+data/
+merged.ipynb
+\(23\) Haitong Zhu _ LinkedIn.pdf
+Rosewood_proposal\(1\).pdf
