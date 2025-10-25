@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 Copy the sample env file and fill in secrets:
 ```bash
-cp .env.example .env
+cp .env
 ```
 
 Minimum `.env` entries:
