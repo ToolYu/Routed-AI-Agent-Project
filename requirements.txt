@@ -1,7 +1,7 @@
 pandas
 python-dotenv
 groq
-numpy<2
+numpy>=2.1
 nest_asyncio
 langchain
 langgraph

@@ -10,6 +10,17 @@ from pathlib import Path                  # Filesystem path utilities
 from typing import Any, Dict, Iterable, List, Optional, Tuple, TypedDict  # Typing helpers
 
 # ====== Third‑Party Libraries ======
+# NumPy 2.x compatibility shim for libraries that still reference `numpy.rec`
+try:  # lightweight and safe: set alias proactively without hasattr/getattr checks
+    import numpy as _np  # type: ignore
+    import numpy.core.records as _records  # type: ignore
+    # Expose `np.rec` and module path `numpy.rec`
+    setattr(_np, "rec", _records)
+    import sys as _sys  # local import to avoid leaking globally
+    _sys.modules.setdefault("numpy.rec", _records)
+except Exception:
+    pass
+
 import pandas as pd                       # CSV reading and data wrangling
 from tqdm import tqdm                     # Progress bar
 from dotenv import find_dotenv, load_dotenv  # Load environment variables from .env
@@ -50,7 +61,7 @@ class ConstraintConfig:
 
     linkedin_char_limit: int = 300       # Max characters for LinkedIn copy
     email_subject_limit: int = 70        # Max subject length
-    email_word_range: tuple[int, int] = (100, 180)  # Target email body word range
+    email_word_range: tuple[int, int] = (100, 300)  # Target email body word range
 
     # Common boilerplate phrases to avoid
     banned_phrases: Iterable[str] = field(
@@ -1256,7 +1267,7 @@ def cli_main() -> None:
     This matches a terminal-style input box experience: we print guidance,
     accept one free-text line for intent, and fall back to .env default if empty.
     """
-    # Show guidance and examples
+    # Show guidance and examples (force flush in case stdout is buffered)
     print("=========================================")
     print("Input: Outreach Intent")
     print("- Type your purpose in one sentence (free text)")
@@ -1265,10 +1276,15 @@ def cli_main() -> None:
     print("  • I'm seeking brief career advice about transitioning into MLE roles.")
     print("  • I'm exploring project collaboration on LLM evaluation tooling.")
     print("Press Enter to use default from .env (INTENT_TO_CONNECT).")
-    print("=========================================\n")
+    print("=========================================\n", flush=True)
 
     try:
-        intent = input("Intent: ").strip()
+        # If stdin is not a TTY (e.g., run in a non-interactive console), skip prompt
+        import sys as _sys
+        if hasattr(_sys.stdin, "isatty") and not _sys.stdin.isatty():
+            intent = ""
+        else:
+            intent = input("Intent: ").strip()
     except EOFError:
         intent = ""
 
@@ -1296,29 +1312,36 @@ def cli_main() -> None:
             print(f"Subject: {subject}")
             print(body)
             print("-------------------------------------------\n")
-            # Ask recipient interactively with sensible default
-            default_rcpt = os.environ.get("SEND_TO", "qianyu1010@qq.com")
-            try:
-                rcpt = input(f"Recipient email [default: {default_rcpt}]: ").strip()
-            except EOFError:
-                rcpt = ""
-            rcpt = rcpt or default_rcpt
-
-            ans = input(f"Send this email to {rcpt} now? [y/N]: ").strip().lower()
-            if ans in ("y", "yes"):
+            # Ask recipient only in interactive terminals; otherwise skip send
+            import sys as _sys
+            if hasattr(_sys.stdin, "isatty") and _sys.stdin.isatty():
+                default_rcpt = os.environ.get("SEND_TO", "qianyu1010@qq.com")
                 try:
-                    _send_email_via_gmail_oauth(
-                        to_email=rcpt,
-                        subject=subject or "Quick hello",
-                        body=body or msg_text,
-                    )
-                    print("Sent successfully via Gmail OAuth.")
-                except Exception as send_exc:
-                    print(f"Send failed: {send_exc}")
+                    rcpt = input(f"Recipient email [default: {default_rcpt}]: ").strip()
+                except EOFError:
+                    rcpt = ""
+                rcpt = rcpt or default_rcpt
+
+                ans = input(f"Send this email to {rcpt} now? [y/N]: ").strip().lower()
+                if ans in ("y", "yes"):
+                    try:
+                        _send_email_via_gmail_oauth(
+                            to_email=rcpt,
+                            subject=subject or "Quick hello",
+                            body=body or msg_text,
+                        )
+                        print("Sent successfully via Gmail OAuth.")
+                    except Exception as send_exc:
+                        print(f"Send failed: {send_exc}")
+            else:
+                print("Non-interactive environment detected; skipping send step.")
         else:
             print("No messages to send.")
     except Exception as exc:
+        # Print full traceback to help diagnose environment/import issues
+        import traceback as _tb  # local import to avoid top-level dependency
         print(f"Run failed: {exc}")
+        _tb.print_exc()
 
 
 def _split_subject_body(text: str) -> Tuple[str, str]:
@@ -1369,9 +1392,18 @@ def _send_email_via_gmail_oauth(
             creds.refresh(Request())
         else:
             flow = InstalledAppFlow.from_client_secrets_file(client_secrets_file, SCOPES)
-            try:
-                creds = flow.run_local_server(port=0)
-            except Exception:
+            # Choose OAuth method. Default to 'console' to avoid GUI/browser hangs.
+            method = (os.environ.get("GMAIL_OAUTH_METHOD", "local").strip().lower() or "console")
+            if method in ("local", "local_server"):
+                print("Starting Google OAuth (local server). If browser does not open, set GMAIL_OAUTH_METHOD=console.")
+                try:
+                    creds = flow.run_local_server(port=0)
+                except Exception:
+                    print("Local-server OAuth failed; falling back to console flow.")
+                    creds = flow.run_console()
+            else:
+                # Console flow: prints a URL and asks for the auth code in terminal
+                print("Starting Google OAuth (console). A URL will be printed; paste the code back here.")
                 creds = flow.run_console()
         with open(token_file, "w", encoding="utf-8") as token:
             token.write(creds.to_json())
